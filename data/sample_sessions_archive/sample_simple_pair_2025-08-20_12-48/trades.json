@@ -1,0 +1,14 @@
+[
+  {
+    "timestamp": "2025-08-20T12:26:35.346886",
+    "pair": "BTC/CAD",
+    "side": "buy",
+    "amount": 5.868909163664585e-05,
+    "price": 170389.4151559152,
+    "cost": 10.0,
+    "fee": 0.04,
+    "portfolio_value_before": 100.00000000000001,
+    "portfolio_value_after": 99.96000000000001,
+    "reason": "Sample buy signal"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "session_id": "live_session_2025-08-20_13-17",
+  "start_time": "2025-08-20T13:17:48.755142",
+  "trading_pairs": [
+    "ETH/CAD",
+    "BTC/CAD"
+  ],
+  "initial_balance": 100.0,
+  "parameters": {
+    "buy_threshold": -0.008,
+    "sell_threshold": 0.012,
+    "lookback_periods": 8,
+    "min_trade_amount": 25.0,
+    "max_position_size": 0.3,
+    "maker_fee": 0.0025,
+    "taker_fee": 0.004
+  },
+  "strategy": "Simple Pair Trading",
+  "mode": "Live Simulation",
+  "description": "Live trading session started today with comprehensive monitoring"
+}

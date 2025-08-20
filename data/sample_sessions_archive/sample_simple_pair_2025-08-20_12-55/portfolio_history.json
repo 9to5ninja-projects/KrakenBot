@@ -1,0 +1,1562 @@
+[
+  {
+    "timestamp": "2025-08-20T10:57:49.272521",
+    "cad_balance": 100.0,
+    "portfolio_value": 100.0,
+    "total_return": 0.0,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 5896.138833409797,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 157206.11425809385,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5896.138833409797,
+      "BTC/CAD": 157206.11425809385
+    }
+  },
+  {
+    "timestamp": "2025-08-20T10:59:49.272521",
+    "cad_balance": 100.0,
+    "portfolio_value": 100.0,
+    "total_return": 0.0,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 5839.771663200274,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 158719.58704577165,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5839.771663200274,
+      "BTC/CAD": 158719.58704577165
+    }
+  },
+  {
+    "timestamp": "2025-08-20T11:01:49.272521",
+    "cad_balance": 100.0,
+    "portfolio_value": 100.0,
+    "total_return": 0.0,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 5889.318638568704,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 158216.82472868514,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5889.318638568704,
+      "BTC/CAD": 158216.82472868514
+    }
+  },
+  {
+    "timestamp": "2025-08-20T11:03:49.272521",
+    "cad_balance": 100.0,
+    "portfolio_value": 100.0,
+    "total_return": 0.0,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 5886.526063880141,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 159059.32249384144,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5886.526063880141,
+      "BTC/CAD": 159059.32249384144
+    }
+  },
+  {
+    "timestamp": "2025-08-20T11:05:49.272521",
+    "cad_balance": 100.0,
+    "portfolio_value": 100.0,
+    "total_return": 0.0,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 5848.860843312715,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 158815.17814117292,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5848.860843312715,
+      "BTC/CAD": 158815.17814117292
+    }
+  },
+  {
+    "timestamp": "2025-08-20T11:07:49.272521",
+    "cad_balance": 100.0,
+    "portfolio_value": 100.0,
+    "total_return": 0.0,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 5830.5113228237515,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 160090.99628817875,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5830.5113228237515,
+      "BTC/CAD": 160090.99628817875
+    }
+  },
+  {
+    "timestamp": "2025-08-20T11:09:49.272521",
+    "cad_balance": 100.0,
+    "portfolio_value": 100.0,
+    "total_return": 0.0,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 5779.063829308699,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 159766.38546677184,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5779.063829308699,
+      "BTC/CAD": 159766.38546677184
+    }
+  },
+  {
+    "timestamp": "2025-08-20T11:11:49.272521",
+    "cad_balance": 100.0,
+    "portfolio_value": 100.0,
+    "total_return": 0.0,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 5799.228672181339,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 158642.61004386592,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5799.228672181339,
+      "BTC/CAD": 158642.61004386592
+    }
+  },
+  {
+    "timestamp": "2025-08-20T11:13:49.272521",
+    "cad_balance": 100.0,
+    "portfolio_value": 100.0,
+    "total_return": 0.0,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 5808.348248796947,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 158841.91069201988,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5808.348248796947,
+      "BTC/CAD": 158841.91069201988
+    }
+  },
+  {
+    "timestamp": "2025-08-20T11:15:49.272521",
+    "cad_balance": 100.0,
+    "portfolio_value": 100.0,
+    "total_return": 0.0,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 5786.01320813231,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 158440.20619621864,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5786.01320813231,
+      "BTC/CAD": 158440.20619621864
+    }
+  },
+  {
+    "timestamp": "2025-08-20T11:17:49.272521",
+    "cad_balance": 100.0,
+    "portfolio_value": 100.0,
+    "total_return": 0.0,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 5760.779335211621,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 158990.7361297164,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5760.779335211621,
+      "BTC/CAD": 158990.7361297164
+    }
+  },
+  {
+    "timestamp": "2025-08-20T11:19:49.272521",
+    "cad_balance": 100.0,
+    "portfolio_value": 100.0,
+    "total_return": 0.0,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 5774.755634409822,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 158844.639869461,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5774.755634409822,
+      "BTC/CAD": 158844.639869461
+    }
+  },
+  {
+    "timestamp": "2025-08-20T11:21:49.272521",
+    "cad_balance": 100.0,
+    "portfolio_value": 100.0,
+    "total_return": 0.0,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 5754.458928349404,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 157794.62449700278,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5754.458928349404,
+      "BTC/CAD": 157794.62449700278
+    }
+  },
+  {
+    "timestamp": "2025-08-20T11:23:49.272521",
+    "cad_balance": 100.0,
+    "portfolio_value": 100.0,
+    "total_return": 0.0,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 5780.184800216516,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 157195.1824344877,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5780.184800216516,
+      "BTC/CAD": 157195.1824344877
+    }
+  },
+  {
+    "timestamp": "2025-08-20T11:25:49.272521",
+    "cad_balance": 100.0,
+    "portfolio_value": 100.0,
+    "total_return": 0.0,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 5802.436466988859,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 156834.64043100484,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5802.436466988859,
+      "BTC/CAD": 156834.64043100484
+    }
+  },
+  {
+    "timestamp": "2025-08-20T11:27:49.272521",
+    "cad_balance": 100.0,
+    "portfolio_value": 100.0,
+    "total_return": 0.0,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 5826.388441176439,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 156757.48982658162,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5826.388441176439,
+      "BTC/CAD": 156757.48982658162
+    }
+  },
+  {
+    "timestamp": "2025-08-20T11:29:49.272521",
+    "cad_balance": 100.0,
+    "portfolio_value": 100.0,
+    "total_return": 0.0,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 5882.354658222168,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 156405.5615804965,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5882.354658222168,
+      "BTC/CAD": 156405.5615804965
+    }
+  },
+  {
+    "timestamp": "2025-08-20T11:31:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 99.96000000000001,
+    "total_return": -0.03999999999999204,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5913.770614991285,
+        "unrealized_pnl": 0.0,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 157095.47483153973,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5913.770614991285,
+      "BTC/CAD": 157095.47483153973
+    }
+  },
+  {
+    "timestamp": "2025-08-20T11:33:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 100.00883909965926,
+    "total_return": 0.008839099659255112,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5942.6529382340295,
+        "unrealized_pnl": 0.048839099659240715,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 156901.22085802257,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5942.6529382340295,
+      "BTC/CAD": 156901.22085802257
+    }
+  },
+  {
+    "timestamp": "2025-08-20T11:35:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 99.96450770116499,
+    "total_return": -0.035492298835009706,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5916.4363660603485,
+        "unrealized_pnl": 0.004507701164983001,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 157219.26779468427,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5916.4363660603485,
+      "BTC/CAD": 157219.26779468427
+    }
+  },
+  {
+    "timestamp": "2025-08-20T11:37:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 100.04144984300832,
+    "total_return": 0.04144984300832277,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5961.938183809105,
+        "unrealized_pnl": 0.08144984300831086,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 157542.6019342412,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5961.938183809105,
+      "BTC/CAD": 157542.6019342412
+    }
+  },
+  {
+    "timestamp": "2025-08-20T11:39:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 100.13861393621559,
+    "total_return": 0.1386139362155916,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 6019.398799733248,
+        "unrealized_pnl": 0.17861393621558125,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 156041.5877437872,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 6019.398799733248,
+      "BTC/CAD": 156041.5877437872
+    }
+  },
+  {
+    "timestamp": "2025-08-20T11:41:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 100.1571530437823,
+    "total_return": 0.15715304378230144,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 6030.36240268887,
+        "unrealized_pnl": 0.19715304378229978,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 156140.01275905897,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 6030.36240268887,
+      "BTC/CAD": 156140.01275905897
+    }
+  },
+  {
+    "timestamp": "2025-08-20T11:43:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 100.10493970549001,
+    "total_return": 0.10493970549001119,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5999.484632118511,
+        "unrealized_pnl": 0.14493970549000243,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 155480.74106913226,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5999.484632118511,
+      "BTC/CAD": 155480.74106913226
+    }
+  },
+  {
+    "timestamp": "2025-08-20T11:45:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 100.15963431205353,
+    "total_return": 0.15963431205352663,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 6031.829767827893,
+        "unrealized_pnl": 0.1996343120535163,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 156127.6801166922,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 6031.829767827893,
+      "BTC/CAD": 156127.6801166922
+    }
+  },
+  {
+    "timestamp": "2025-08-20T11:47:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 100.11518215170875,
+    "total_return": 0.11518215170875122,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 6005.541779865912,
+        "unrealized_pnl": 0.15518215170874095,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 154949.30841822206,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 6005.541779865912,
+      "BTC/CAD": 154949.30841822206
+    }
+  },
+  {
+    "timestamp": "2025-08-20T11:49:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 100.060596733534,
+    "total_return": 0.060596733533998304,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5973.261215665026,
+        "unrealized_pnl": 0.10059673353398862,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 155050.3544213403,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5973.261215665026,
+      "BTC/CAD": 155050.3544213403
+    }
+  },
+  {
+    "timestamp": "2025-08-20T11:51:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 100.05174529866594,
+    "total_return": 0.05174529866593502,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5968.0266801227035,
+        "unrealized_pnl": 0.0917452986659321,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 156519.96507999644,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5968.0266801227035,
+      "BTC/CAD": 156519.96507999644
+    }
+  },
+  {
+    "timestamp": "2025-08-20T11:53:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 100.05478039424021,
+    "total_return": 0.0547803942402112,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5969.821566024784,
+        "unrealized_pnl": 0.09478039424020201,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 157462.99475633015,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5969.821566024784,
+      "BTC/CAD": 157462.99475633015
+    }
+  },
+  {
+    "timestamp": "2025-08-20T11:55:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 99.99461213493903,
+    "total_return": -0.005387865060967556,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5934.239437643734,
+        "unrealized_pnl": 0.03461213493902089,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 156565.6811216658,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5934.239437643734,
+      "BTC/CAD": 156565.6811216658
+    }
+  },
+  {
+    "timestamp": "2025-08-20T11:57:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 100.02339575191631,
+    "total_return": 0.02339575191631127,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5951.261408471075,
+        "unrealized_pnl": 0.06339575191630167,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 156740.4050783649,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5951.261408471075,
+      "BTC/CAD": 156740.4050783649
+    }
+  },
+  {
+    "timestamp": "2025-08-20T11:59:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 100.08671985143951,
+    "total_return": 0.08671985143951133,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5988.709828369185,
+        "unrealized_pnl": 0.12671985143950432,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 156228.64910993094,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5988.709828369185,
+      "BTC/CAD": 156228.64910993094
+    }
+  },
+  {
+    "timestamp": "2025-08-20T12:01:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 100.06498178235954,
+    "total_return": 0.06498178235953844,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5975.8544329540055,
+        "unrealized_pnl": 0.10498178235953151,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 155939.85663251756,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5975.8544329540055,
+      "BTC/CAD": 155939.85663251756
+    }
+  },
+  {
+    "timestamp": "2025-08-20T12:03:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 100.07018351954827,
+    "total_return": 0.07018351954826585,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5978.930621007365,
+        "unrealized_pnl": 0.11018351954825689,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 155617.12513582312,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5978.930621007365,
+      "BTC/CAD": 155617.12513582312
+    }
+  },
+  {
+    "timestamp": "2025-08-20T12:05:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 100.05112335805275,
+    "total_return": 0.05112335805274881,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5967.658878710449,
+        "unrealized_pnl": 0.0911233580527438,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 154679.55087370184,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5967.658878710449,
+      "BTC/CAD": 154679.55087370184
+    }
+  },
+  {
+    "timestamp": "2025-08-20T12:07:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 100.08726533046845,
+    "total_return": 0.08726533046845475,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5989.032412154428,
+        "unrealized_pnl": 0.12726533046844324,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 154018.20660260148,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5989.032412154428,
+      "BTC/CAD": 154018.20660260148
+    }
+  },
+  {
+    "timestamp": "2025-08-20T12:09:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 100.09149950837767,
+    "total_return": 0.09149950837766596,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5991.5364078442435,
+        "unrealized_pnl": 0.13149950837765703,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 153337.30884208978,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5991.5364078442435,
+      "BTC/CAD": 153337.30884208978
+    }
+  },
+  {
+    "timestamp": "2025-08-20T12:11:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 100.03904333340256,
+    "total_return": 0.039043333402560165,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5960.515029229979,
+        "unrealized_pnl": 0.07904333340254664,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 154164.91244556432,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5960.515029229979,
+      "BTC/CAD": 154164.91244556432
+    }
+  },
+  {
+    "timestamp": "2025-08-20T12:13:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 100.12834711434026,
+    "total_return": 0.12834711434025792,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 6013.327236781683,
+        "unrealized_pnl": 0.1683471143402552,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 154785.2520959192,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 6013.327236781683,
+      "BTC/CAD": 154785.2520959192
+    }
+  },
+  {
+    "timestamp": "2025-08-20T12:15:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 100.2249316527426,
+    "total_return": 0.22493165274259752,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 6070.445117288306,
+        "unrealized_pnl": 0.2649316527425922,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 154965.94605650599,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 6070.445117288306,
+      "BTC/CAD": 154965.94605650599
+    }
+  },
+  {
+    "timestamp": "2025-08-20T12:17:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 100.22915790187886,
+    "total_return": 0.22915790187886387,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 6072.944424083674,
+        "unrealized_pnl": 0.26915790187885685,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 155448.50396782524,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 6072.944424083674,
+      "BTC/CAD": 155448.50396782524
+    }
+  },
+  {
+    "timestamp": "2025-08-20T12:19:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 100.16304864975302,
+    "total_return": 0.1630486497530228,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 6033.848928823587,
+        "unrealized_pnl": 0.20304864975301243,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 154417.90066901455,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 6033.848928823587,
+      "BTC/CAD": 154417.90066901455
+    }
+  },
+  {
+    "timestamp": "2025-08-20T12:21:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 100.07619659286831,
+    "total_return": 0.07619659286831393,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5982.486614637956,
+        "unrealized_pnl": 0.11619659286830984,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 155716.32523717536,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5982.486614637956,
+      "BTC/CAD": 155716.32523717536
+    }
+  },
+  {
+    "timestamp": "2025-08-20T12:23:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 100.06000752774331,
+    "total_return": 0.0600075277433092,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5972.912772875908,
+        "unrealized_pnl": 0.10000752774329603,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 155373.57222180668,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5972.912772875908,
+      "BTC/CAD": 155373.57222180668
+    }
+  },
+  {
+    "timestamp": "2025-08-20T12:25:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 100.03727454784416,
+    "total_return": 0.03727454784416295,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5959.469010024035,
+        "unrealized_pnl": 0.07727454784415524,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 154418.56250887833,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5959.469010024035,
+      "BTC/CAD": 154418.56250887833
+    }
+  },
+  {
+    "timestamp": "2025-08-20T12:27:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 100.07695703116559,
+    "total_return": 0.07695703116559116,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5982.936320403646,
+        "unrealized_pnl": 0.11695703116557817,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 155922.9106948579,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5982.936320403646,
+      "BTC/CAD": 155922.9106948579
+    }
+  },
+  {
+    "timestamp": "2025-08-20T12:29:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 99.98304729699953,
+    "total_return": -0.016952703000470137,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5927.400257766356,
+        "unrealized_pnl": 0.023047296999515677,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 157475.46462349594,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5927.400257766356,
+      "BTC/CAD": 157475.46462349594
+    }
+  },
+  {
+    "timestamp": "2025-08-20T12:31:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 99.93613904287362,
+    "total_return": -0.06386095712637996,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5899.659792281328,
+        "unrealized_pnl": -0.02386095712638232,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 156858.4458586887,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5899.659792281328,
+      "BTC/CAD": 156858.4458586887
+    }
+  },
+  {
+    "timestamp": "2025-08-20T12:33:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 99.86495623648142,
+    "total_return": -0.13504376351858127,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5857.563913407843,
+        "unrealized_pnl": -0.09504376351859002,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 155722.0963610568,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5857.563913407843,
+      "BTC/CAD": 155722.0963610568
+    }
+  },
+  {
+    "timestamp": "2025-08-20T12:35:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 99.8298564515196,
+    "total_return": -0.1701435484803966,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5836.806705717872,
+        "unrealized_pnl": -0.13014354848040682,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 156830.78904597746,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5836.806705717872,
+      "BTC/CAD": 156830.78904597746
+    }
+  },
+  {
+    "timestamp": "2025-08-20T12:37:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 99.9038198341221,
+    "total_return": -0.09618016587789668,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5880.546953579875,
+        "unrealized_pnl": -0.05618016587790645,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 155454.45270885614,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5880.546953579875,
+      "BTC/CAD": 155454.45270885614
+    }
+  },
+  {
+    "timestamp": "2025-08-20T12:39:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 99.95967002480208,
+    "total_return": -0.040329975197920476,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5913.575475228364,
+        "unrealized_pnl": -0.0003299751979325029,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 156711.68561127386,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5913.575475228364,
+      "BTC/CAD": 156711.68561127386
+    }
+  },
+  {
+    "timestamp": "2025-08-20T12:41:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 99.9815406719017,
+    "total_return": -0.018459328098302308,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5926.509274243219,
+        "unrealized_pnl": 0.02154067190168315,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 156018.6719519618,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5926.509274243219,
+      "BTC/CAD": 156018.6719519618
+    }
+  },
+  {
+    "timestamp": "2025-08-20T12:43:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 99.9128309486765,
+    "total_return": -0.0871690513234995,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5885.875920025884,
+        "unrealized_pnl": -0.04716905132351345,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 154706.2017155264,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5885.875920025884,
+      "BTC/CAD": 154706.2017155264
+    }
+  },
+  {
+    "timestamp": "2025-08-20T12:45:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 99.99327953238033,
+    "total_return": -0.006720467619672377,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5933.451367058424,
+        "unrealized_pnl": 0.03327953238032063,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 156213.72511771932,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5933.451367058424,
+      "BTC/CAD": 156213.72511771932
+    }
+  },
+  {
+    "timestamp": "2025-08-20T12:47:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 99.9677775386311,
+    "total_return": -0.032222461368903055,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5918.370072932634,
+        "unrealized_pnl": 0.007777538631088551,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 156138.67858131713,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5918.370072932634,
+      "BTC/CAD": 156138.67858131713
+    }
+  },
+  {
+    "timestamp": "2025-08-20T12:49:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 99.99837774074388,
+    "total_return": -0.0016222592561234703,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5936.466330539373,
+        "unrealized_pnl": 0.03837774074387577,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 157569.579255756,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5936.466330539373,
+      "BTC/CAD": 157569.579255756
+    }
+  },
+  {
+    "timestamp": "2025-08-20T12:51:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 99.9773232190788,
+    "total_return": -0.022676780921202067,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5924.0151693858015,
+        "unrealized_pnl": 0.017323219078783886,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 156092.50739104365,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5924.0151693858015,
+      "BTC/CAD": 156092.50739104365
+    }
+  },
+  {
+    "timestamp": "2025-08-20T12:53:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 100.03138818759034,
+    "total_return": 0.03138818759033768,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5955.987951594201,
+        "unrealized_pnl": 0.07138818759032758,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 156965.40929518073,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5955.987951594201,
+      "BTC/CAD": 156965.40929518073
+    }
+  },
+  {
+    "timestamp": "2025-08-20T12:55:49.272521",
+    "cad_balance": 89.96000000000001,
+    "portfolio_value": 99.99648281926977,
+    "total_return": -0.003517180730227665,
+    "positions": {
+      "ETH/CAD": {
+        "base_amount": 0.00169096852939311,
+        "avg_buy_price": 5913.770614991285,
+        "current_price": 5935.345717446237,
+        "unrealized_pnl": 0.03648281926975702,
+        "realized_pnl": 0
+      },
+      "BTC/CAD": {
+        "base_amount": 0.0,
+        "avg_buy_price": 0.0,
+        "current_price": 156657.8253614859,
+        "unrealized_pnl": 0,
+        "realized_pnl": 0
+      }
+    },
+    "prices": {
+      "ETH/CAD": 5935.345717446237,
+      "BTC/CAD": 156657.8253614859
+    }
+  }
+]

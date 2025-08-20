@@ -1,0 +1,25 @@
+{
+  "initial_balance": 100.0,
+  "current_value": 99.99648281926977,
+  "total_return_pct": -0.003517180730227665,
+  "total_return_cad": -0.0035171807302276648,
+  "total_trades": 1,
+  "total_fees_paid": 0.04,
+  "total_realized_pnl": 0,
+  "total_unrealized_pnl": 0.03648281926975702,
+  "cad_balance": 89.96000000000001,
+  "positions": {
+    "ETH/CAD": {
+      "amount": 0.00169096852939311,
+      "avg_buy_price": 5913.770614991285,
+      "unrealized_pnl": 0.03648281926975702,
+      "realized_pnl": 0
+    },
+    "BTC/CAD": {
+      "amount": 0.0,
+      "avg_buy_price": 0.0,
+      "unrealized_pnl": 0,
+      "realized_pnl": 0
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "total_opportunities": 540,
+  "profitable_opportunities": 0,
+  "total_profit": 0.0,
+  "average_profit": 0.0,
+  "max_profit": 0.0,
+  "last_updated": "2025-08-20T12:31:34.205122",
+  "hourly_stats": {
+    "2025-08-20 10:00": {
+      "opportunities": 164,
+      "profitable": 0,
+      "profit": 0.0
+    },
+    "2025-08-20 11:00": {
+      "opportunities": 292,
+      "profitable": 0,
+      "profit": 0.0
+    },
+    "2025-08-20 12:00": {
+      "opportunities": 84,
+      "profitable": 0,
+      "profit": 0.0
+    }
+  },
+  "daily_stats": {
+    "2025-08-20": {
+      "opportunities": 540,
+      "profitable": 0,
+      "profit": 0.0
+    }
+  }
+}

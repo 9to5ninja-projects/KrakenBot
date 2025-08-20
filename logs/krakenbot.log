@@ -1,0 +1,1648 @@
+2025-08-20 10:45:00 | INFO | Successfully connected to kraken
+2025-08-20 10:45:17 | INFO | Initializing KrakenBot Triangular Arbitrage Monitor
+2025-08-20 10:45:19 | INFO | Successfully connected to kraken
+2025-08-20 10:45:19 | INFO | Notification manager initialized with method: Console Only
+2025-08-20 10:45:19 | INFO | Notifications enabled using Console Only
+2025-08-20 10:45:19 | INFO | Starting arbitrage monitor in monitor mode
+2025-08-20 10:45:19 | INFO | Monitoring pairs: BTC/CAD, ETH/CAD, ETH/BTC
+2025-08-20 10:45:19 | INFO | Starting amount: $100.00 CAD
+2025-08-20 10:45:19 | INFO | Profit threshold: $2.00 CAD
+2025-08-20 10:45:19 | INFO | Check interval: 10 seconds
+2025-08-20 10:45:19 | INFO | Notifications: Enabled
+2025-08-20 10:45:39 | INFO | Downloading historical data for BTC/CAD from 2023-01-01 to 2023-01-07
+2025-08-20 10:45:40 | INFO | Successfully connected to kraken
+2025-08-20 10:45:40 | INFO | Fetching data for BTC/CAD at 2023-01-01 00:00:00
+2025-08-20 10:45:42 | INFO | Historical data saved to E:\KrakenBot\data\historical\BTC_CAD_2023-01-01_2023-01-07.csv
+2025-08-20 10:45:42 | ERROR | No data available for BTC/CAD
+2025-08-20 10:45:42 | ERROR | Failed to prepare data for backtest
+2025-08-20 10:46:03 | INFO | Starting Streamlit dashboard...
+2025-08-20 10:46:51 | INFO | Status: Running for 0h 1m 32s | Checks: 10 | Opportunities: 20 | Profitable: 0
+2025-08-20 10:48:03 | INFO | Successfully connected to kraken
+2025-08-20 10:48:03 | INFO | Health monitor started
+2025-08-20 10:48:03 | INFO | Health monitor started
+2025-08-20 10:48:03 | INFO | Notification manager initialized with method: Console Only
+2025-08-20 10:48:03 | INFO | Notifications enabled using Console Only
+2025-08-20 10:48:03 | INFO | Initializing KrakenBot Triangular Arbitrage Monitor
+2025-08-20 10:48:05 | INFO | Successfully connected to kraken
+2025-08-20 10:48:05 | INFO | Notifications enabled using Console Only
+2025-08-20 10:48:05 | INFO | Next daily report scheduled in 47515 seconds
+2025-08-20 10:48:05 | INFO | Daily report generation scheduled
+2025-08-20 10:48:05 | INFO | Starting arbitrage monitor in monitor mode
+2025-08-20 10:48:05 | INFO | Monitoring pairs: BTC/CAD, ETH/CAD, ETH/BTC
+2025-08-20 10:48:05 | INFO | Starting amount: $100.00 CAD
+2025-08-20 10:48:05 | INFO | Profit threshold: $2.00 CAD
+2025-08-20 10:48:05 | INFO | Check interval: 10 seconds
+2025-08-20 10:48:05 | INFO | Notifications: Enabled
+2025-08-20 10:48:29 | INFO | Starting Streamlit dashboard...
+2025-08-20 10:49:37 | INFO | Status: Running for 0h 1m 32s | Checks: 10 | Opportunities: 20 | Profitable: 0
+2025-08-20 10:51:17 | INFO | Status: Running for 0h 3m 12s | Checks: 20 | Opportunities: 40 | Profitable: 0
+2025-08-20 10:52:57 | INFO | Status: Running for 0h 4m 52s | Checks: 30 | Opportunities: 60 | Profitable: 0
+2025-08-20 10:54:20 | WARNING | Health alert: Check interval drift: 5.297422999999995 seconds
+2025-08-20 10:54:37 | INFO | Status: Running for 0h 6m 32s | Checks: 40 | Opportunities: 80 | Profitable: 0
+2025-08-20 10:55:23 | WARNING | Health alert: Check interval drift: 5.1355489999999975 seconds
+2025-08-20 10:56:17 | INFO | Status: Running for 0h 8m 12s | Checks: 50 | Opportunities: 100 | Profitable: 0
+2025-08-20 10:56:25 | WARNING | Health alert: Check interval drift: 5.076244000000003 seconds
+2025-08-20 10:57:28 | WARNING | Health alert: Check interval drift: 5.361056000000005 seconds
+2025-08-20 10:57:57 | INFO | Status: Running for 0h 9m 52s | Checks: 60 | Opportunities: 120 | Profitable: 0
+2025-08-20 10:58:31 | WARNING | Health alert: Check interval drift: 5.103277000000006 seconds
+2025-08-20 10:59:37 | INFO | Status: Running for 0h 11m 32s | Checks: 70 | Opportunities: 140 | Profitable: 0
+2025-08-20 11:01:17 | INFO | Status: Running for 0h 13m 12s | Checks: 80 | Opportunities: 160 | Profitable: 0
+2025-08-20 11:02:57 | INFO | Status: Running for 0h 14m 52s | Checks: 90 | Opportunities: 180 | Profitable: 0
+2025-08-20 11:03:43 | WARNING | Health alert: Check interval drift: 5.068591999999995 seconds
+2025-08-20 11:04:37 | INFO | Status: Running for 0h 16m 32s | Checks: 100 | Opportunities: 200 | Profitable: 0
+2025-08-20 11:05:22 | INFO | Initializing KrakenBot Triangular Arbitrage Monitor
+2025-08-20 11:05:24 | INFO | Successfully connected to kraken
+2025-08-20 11:05:24 | INFO | Arbitrage calculator initialized with:
+2025-08-20 11:05:24 | INFO |   Start amount: $100.00
+2025-08-20 11:05:24 | INFO |   Min profit percentage: 1.50%
+2025-08-20 11:05:24 | INFO |   Breakeven threshold: ~1.50%
+2025-08-20 11:05:24 | INFO |   Fee factor per trade: 0.995000
+2025-08-20 11:05:24 | INFO |   Trading pairs: BTC/CAD, ETH/CAD, ETH/BTC
+2025-08-20 11:05:24 | INFO | Notification manager initialized with method: Console Only
+2025-08-20 11:05:24 | INFO | Notifications enabled using Console Only
+2025-08-20 11:05:24 | INFO | Starting arbitrage monitor in monitor mode
+2025-08-20 11:05:24 | INFO | Monitoring pairs: BTC/CAD, ETH/CAD, ETH/BTC
+2025-08-20 11:05:24 | INFO | Starting amount: $100.00 CAD
+2025-08-20 11:05:24 | INFO | Profit threshold: $2.00 CAD
+2025-08-20 11:05:24 | INFO | Check interval: 10 seconds
+2025-08-20 11:05:24 | INFO | Notifications: Enabled
+2025-08-20 11:06:17 | INFO | Status: Running for 0h 18m 12s | Checks: 110 | Opportunities: 220 | Profitable: 0
+2025-08-20 11:06:56 | INFO | Status: Running for 0h 1m 32s | Checks: 10 | Opportunities: 20 | Profitable: 0
+2025-08-20 11:08:23 | INFO | Initializing KrakenBot Triangular Arbitrage Monitor
+2025-08-20 11:08:24 | INFO | Successfully connected to kraken
+2025-08-20 11:08:24 | INFO | Arbitrage calculator initialized with:
+2025-08-20 11:08:24 | INFO |   Start amount: $100.00
+2025-08-20 11:08:24 | INFO |   Min profit percentage: 1.50%
+2025-08-20 11:08:24 | INFO |   Breakeven threshold: ~1.50%
+2025-08-20 11:08:24 | INFO |   Fee factor per trade: 0.995000
+2025-08-20 11:08:24 | INFO |   Trading pairs: BTC/CAD, ETH/CAD, ETH/BTC
+2025-08-20 11:08:24 | INFO | Notification manager initialized with method: Console Only
+2025-08-20 11:08:24 | INFO | Notifications enabled using Console Only
+2025-08-20 11:08:24 | INFO | Starting arbitrage monitor in monitor mode
+2025-08-20 11:08:24 | INFO | Monitoring pairs: BTC/CAD, ETH/CAD, ETH/BTC
+2025-08-20 11:08:24 | INFO | Starting amount: $100.00 CAD
+2025-08-20 11:08:24 | INFO | Minimum profit threshold: 1.50%
+2025-08-20 11:08:24 | INFO | Breakeven threshold: ~1.50%
+2025-08-20 11:08:24 | INFO | Check interval: 10 seconds
+2025-08-20 11:08:24 | INFO | Notifications: Enabled
+2025-08-20 11:09:21 | INFO | Starting Streamlit dashboard...
+2025-08-20 11:09:57 | INFO | Status: Running for 0h 1m 32s | Checks: 10 | Opportunities: 20 | Profitable: 0
+2025-08-20 11:11:36 | INFO | Status: Running for 0h 3m 12s | Checks: 20 | Opportunities: 40 | Profitable: 0
+2025-08-20 11:13:16 | INFO | Status: Running for 0h 4m 52s | Checks: 30 | Opportunities: 60 | Profitable: 0
+2025-08-20 11:14:56 | INFO | Status: Running for 0h 6m 32s | Checks: 40 | Opportunities: 80 | Profitable: 0
+2025-08-20 11:15:33 | ERROR | Error starting dashboard: Command '['streamlit', 'run', 'E:\\KrakenBot\\dashboard.py']' returned non-zero exit status 3221225786.
+2025-08-20 11:38:49 | INFO | Initializing KrakenBot Triangular Arbitrage Monitor
+2025-08-20 11:38:51 | INFO | Successfully connected to kraken
+2025-08-20 11:38:51 | INFO | Arbitrage calculator initialized with:
+2025-08-20 11:38:51 | INFO |   Start amount: $100.00
+2025-08-20 11:38:51 | INFO |   Min profit percentage: 1.50%
+2025-08-20 11:38:51 | INFO |   Breakeven threshold: ~1.50%
+2025-08-20 11:38:51 | INFO |   Fee factor per trade: 0.995000
+2025-08-20 11:38:51 | INFO |   Trading pairs: BTC/CAD, ETH/CAD, ETH/BTC
+2025-08-20 11:38:51 | INFO | Notification manager initialized with method: Console Only
+2025-08-20 11:38:51 | INFO | Notifications enabled using Console Only
+2025-08-20 11:38:51 | INFO | No existing positions found
+2025-08-20 11:38:51 | INFO | Position Manager initialized with:
+2025-08-20 11:38:51 | INFO |   Max capital: $100.00
+2025-08-20 11:38:51 | INFO |   Position size: $2.00 (2.0%)
+2025-08-20 11:38:51 | INFO |   Max positions: 5
+2025-08-20 11:38:51 | INFO |   Open positions: 0
+2025-08-20 11:38:51 | INFO |   Allocated capital: $0.00
+2025-08-20 11:38:51 | INFO |   Available capital: $100.00
+2025-08-20 11:38:53 | INFO | Successfully connected to kraken
+2025-08-20 11:38:53 | WARNING | No optimal triangles found. Using default trading pairs.
+2025-08-20 11:38:53 | INFO | Starting arbitrage monitor in simulate mode
+2025-08-20 11:38:53 | INFO | Monitoring pairs: BTC/CAD, ETH/CAD, ETH/BTC
+2025-08-20 11:38:53 | INFO | Starting amount: $100.00 CAD
+2025-08-20 11:38:53 | INFO | Minimum profit threshold: 1.50%
+2025-08-20 11:38:53 | INFO | Breakeven threshold: ~1.50%
+2025-08-20 11:38:53 | INFO | Check interval: 5 seconds
+2025-08-20 11:38:53 | INFO | Notifications: Enabled
+2025-08-20 11:38:53 | INFO | Position Manager: Enabled
+2025-08-20 11:38:53 | INFO | Max capital: $100.00
+2025-08-20 11:38:53 | INFO | Position size: $2.00 (2.0%)
+2025-08-20 11:38:53 | INFO | Max positions: 5
+2025-08-20 11:38:53 | INFO | Open positions: 0
+2025-08-20 11:38:53 | INFO | Available capital: $100.00
+2025-08-20 11:39:40 | INFO | Status: Running for 0h 0m 47s | Checks: 10 | Opportunities: 20 | Profitable: 0 | Positions: 0/5 | Capital: $0.00/$100.00
+2025-08-20 11:40:30 | INFO | Status: Running for 0h 1m 37s | Checks: 20 | Opportunities: 40 | Profitable: 0 | Positions: 0/5 | Capital: $0.00/$100.00
+2025-08-20 11:41:20 | INFO | Status: Running for 0h 2m 27s | Checks: 30 | Opportunities: 60 | Profitable: 0 | Positions: 0/5 | Capital: $0.00/$100.00
+2025-08-20 11:45:23 | INFO | Successfully connected to kraken
+2025-08-20 11:45:23 | INFO | Health monitor started
+2025-08-20 11:45:23 | INFO | Health monitor started
+2025-08-20 11:45:23 | INFO | Notification manager initialized with method: Console Only
+2025-08-20 11:45:23 | INFO | Notifications enabled using Console Only
+2025-08-20 11:45:23 | INFO | Initializing KrakenBot Triangular Arbitrage Monitor
+2025-08-20 11:45:25 | INFO | Successfully connected to kraken
+2025-08-20 11:45:25 | INFO | Arbitrage calculator initialized with:
+2025-08-20 11:45:25 | INFO |   Start amount: $100.00
+2025-08-20 11:45:25 | INFO |   Min profit percentage: 1.50%
+2025-08-20 11:45:25 | INFO |   Breakeven threshold: ~1.50%
+2025-08-20 11:45:25 | INFO |   Fee factor per trade: 0.995000
+2025-08-20 11:45:25 | INFO |   Trading pairs: BTC/CAD, ETH/CAD, ETH/BTC
+2025-08-20 11:45:25 | INFO | Notifications enabled using Console Only
+2025-08-20 11:45:25 | INFO | No existing positions found
+2025-08-20 11:45:25 | INFO | Position Manager initialized with:
+2025-08-20 11:45:25 | INFO |   Max capital: $100.00
+2025-08-20 11:45:25 | INFO |   Position size: $2.00 (2.0%)
+2025-08-20 11:45:25 | INFO |   Max positions: 5
+2025-08-20 11:45:25 | INFO |   Open positions: 0
+2025-08-20 11:45:25 | INFO |   Allocated capital: $0.00
+2025-08-20 11:45:25 | INFO |   Available capital: $100.00
+2025-08-20 11:45:26 | INFO | Successfully connected to kraken
+2025-08-20 11:45:26 | WARNING | No optimal triangles found. Using default trading pairs.
+2025-08-20 11:45:26 | INFO | Next daily report scheduled in 44073 seconds
+2025-08-20 11:45:26 | INFO | Daily report generation scheduled
+2025-08-20 11:45:26 | INFO | Starting arbitrage monitor in simulate mode
+2025-08-20 11:45:26 | INFO | Monitoring pairs: BTC/CAD, ETH/CAD, ETH/BTC
+2025-08-20 11:45:26 | INFO | Starting amount: $100.00 CAD
+2025-08-20 11:45:26 | INFO | Minimum profit threshold: 1.50%
+2025-08-20 11:45:26 | INFO | Breakeven threshold: ~1.50%
+2025-08-20 11:45:26 | INFO | Check interval: 10 seconds
+2025-08-20 11:45:26 | INFO | Notifications: Enabled
+2025-08-20 11:45:26 | INFO | Position Manager: Enabled
+2025-08-20 11:45:26 | INFO | Max capital: $100.00
+2025-08-20 11:45:26 | INFO | Position size: $2.00 (2.0%)
+2025-08-20 11:45:26 | INFO | Max positions: 5
+2025-08-20 11:45:26 | INFO | Open positions: 0
+2025-08-20 11:45:26 | INFO | Available capital: $100.00
+2025-08-20 11:45:55 | INFO | Successfully connected to kraken
+2025-08-20 11:45:55 | INFO | Analyzing historical data from 2025-05-22 to 2025-08-20
+2025-08-20 11:45:55 | INFO | Found 1150 available trading pairs
+2025-08-20 11:45:55 | INFO | Found 1150 trading pairs on the exchange
+2025-08-20 11:45:55 | INFO | Found 1150 available trading pairs
+2025-08-20 11:45:55 | INFO | Found 20 potential triangular paths
+2025-08-20 11:45:55 | INFO | Need to download data for 23 trading pairs
+2025-08-20 11:45:55 | INFO | Downloading historical data for XRP/USDC from 2025-05-22 to 2025-08-20
+2025-08-20 11:45:55 | INFO | Fetching data for XRP/USDC at 2025-05-22 00:00:00
+2025-08-20 11:45:57 | INFO | Fetching data for XRP/USDC at 2025-05-23 00:00:00
+2025-08-20 11:45:58 | INFO | Fetching data for XRP/USDC at 2025-05-24 00:00:00
+2025-08-20 11:45:59 | INFO | Fetching data for XRP/USDC at 2025-05-25 00:00:00
+2025-08-20 11:46:00 | INFO | Fetching data for XRP/USDC at 2025-05-26 00:00:00
+2025-08-20 11:46:01 | INFO | Fetching data for XRP/USDC at 2025-05-27 00:00:00
+2025-08-20 11:46:02 | INFO | Fetching data for XRP/USDC at 2025-05-28 00:00:00
+2025-08-20 11:46:04 | INFO | Fetching data for XRP/USDC at 2025-05-29 00:00:00
+2025-08-20 11:46:05 | INFO | Fetching data for XRP/USDC at 2025-05-30 00:00:00
+2025-08-20 11:46:06 | INFO | Fetching data for XRP/USDC at 2025-05-31 00:00:00
+2025-08-20 11:46:07 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:46:13 | INFO | Fetching data for XRP/USDC at 2025-06-01 00:00:00
+2025-08-20 11:46:14 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:46:17 | INFO | Successfully connected to kraken
+2025-08-20 11:46:17 | INFO | Analyzing historical data from 2025-05-22 to 2025-08-20
+2025-08-20 11:46:17 | INFO | Found 1150 available trading pairs
+2025-08-20 11:46:17 | INFO | Found 1150 trading pairs on the exchange
+2025-08-20 11:46:17 | INFO | Found 1150 available trading pairs
+2025-08-20 11:46:17 | INFO | Found 20 potential triangular paths
+2025-08-20 11:46:17 | INFO | Need to download data for 23 trading pairs
+2025-08-20 11:46:17 | INFO | Downloading historical data for BTC/CAD from 2025-05-22 to 2025-08-20
+2025-08-20 11:46:17 | INFO | Fetching data for BTC/CAD at 2025-05-22 00:00:00
+2025-08-20 11:46:17 | INFO | Fetching data for BTC/CAD at 2025-05-23 00:00:00
+2025-08-20 11:46:19 | INFO | Fetching data for BTC/CAD at 2025-05-24 00:00:00
+2025-08-20 11:46:19 | INFO | Fetching data for XRP/USDC at 2025-06-02 00:00:00
+2025-08-20 11:46:20 | INFO | Fetching data for BTC/CAD at 2025-05-25 00:00:00
+2025-08-20 11:46:20 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:46:21 | INFO | Fetching data for BTC/CAD at 2025-05-26 00:00:00
+2025-08-20 11:46:22 | INFO | Fetching data for BTC/CAD at 2025-05-27 00:00:00
+2025-08-20 11:46:24 | INFO | Fetching data for BTC/CAD at 2025-05-28 00:00:00
+2025-08-20 11:46:25 | INFO | Fetching data for BTC/CAD at 2025-05-29 00:00:00
+2025-08-20 11:46:26 | INFO | Fetching data for XRP/USDC at 2025-06-03 00:00:00
+2025-08-20 11:46:26 | INFO | Fetching data for BTC/CAD at 2025-05-30 00:00:00
+2025-08-20 11:46:27 | INFO | Fetching data for BTC/CAD at 2025-05-31 00:00:00
+2025-08-20 11:46:27 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:46:28 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:46:30 | INFO | Successfully connected to kraken
+2025-08-20 11:46:30 | INFO | Analyzing historical data from 2025-05-22 to 2025-08-20
+2025-08-20 11:46:30 | INFO | Found 1150 available trading pairs
+2025-08-20 11:46:30 | INFO | Found 1150 trading pairs on the exchange
+2025-08-20 11:46:30 | INFO | Found 1150 available trading pairs
+2025-08-20 11:46:30 | INFO | Found 20 potential triangular paths
+2025-08-20 11:46:30 | INFO | Need to download data for 22 trading pairs
+2025-08-20 11:46:30 | INFO | Downloading historical data for XLM/BTC from 2025-05-22 to 2025-08-20
+2025-08-20 11:46:30 | INFO | Fetching data for XLM/BTC at 2025-05-22 00:00:00
+2025-08-20 11:46:31 | INFO | Fetching data for XLM/BTC at 2025-05-23 00:00:00
+2025-08-20 11:46:32 | INFO | Fetching data for XLM/BTC at 2025-05-24 00:00:00
+2025-08-20 11:46:32 | INFO | Fetching data for XRP/USDC at 2025-06-04 00:00:00
+2025-08-20 11:46:33 | INFO | Fetching data for XLM/BTC at 2025-05-25 00:00:00
+2025-08-20 11:46:34 | INFO | Fetching data for BTC/CAD at 2025-06-01 00:00:00
+2025-08-20 11:46:34 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:46:34 | INFO | Fetching data for XLM/BTC at 2025-05-26 00:00:00
+2025-08-20 11:46:35 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:46:35 | INFO | Fetching data for XLM/BTC at 2025-05-27 00:00:00
+2025-08-20 11:46:37 | INFO | Fetching data for XLM/BTC at 2025-05-28 00:00:00
+2025-08-20 11:46:38 | INFO | Fetching data for XLM/BTC at 2025-05-29 00:00:00
+2025-08-20 11:46:39 | INFO | Fetching data for XRP/USDC at 2025-06-05 00:00:00
+2025-08-20 11:46:39 | INFO | Fetching data for XLM/BTC at 2025-05-30 00:00:00
+2025-08-20 11:46:40 | INFO | Fetching data for BTC/CAD at 2025-06-02 00:00:00
+2025-08-20 11:46:40 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:46:40 | INFO | Fetching data for XLM/BTC at 2025-05-31 00:00:00
+2025-08-20 11:46:41 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:46:42 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:46:45 | INFO | Fetching data for XRP/USDC at 2025-06-06 00:00:00
+2025-08-20 11:46:46 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:46:47 | INFO | Fetching data for BTC/CAD at 2025-06-03 00:00:00
+2025-08-20 11:46:47 | INFO | Fetching data for XLM/BTC at 2025-06-01 00:00:00
+2025-08-20 11:46:48 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:46:48 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:46:52 | INFO | Fetching data for XRP/USDC at 2025-06-07 00:00:00
+2025-08-20 11:46:53 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:46:53 | INFO | Fetching data for BTC/CAD at 2025-06-04 00:00:00
+2025-08-20 11:46:53 | INFO | Fetching data for XLM/BTC at 2025-06-02 00:00:00
+2025-08-20 11:46:54 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:46:54 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:46:58 | INFO | Fetching data for XRP/USDC at 2025-06-08 00:00:00
+2025-08-20 11:46:58 | INFO | Status: Running for 0h 1m 32s | Checks: 10 | Opportunities: 20 | Profitable: 0 | Positions: 0/5 | Capital: $0.00/$100.00
+2025-08-20 11:46:59 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:46:59 | INFO | Fetching data for BTC/CAD at 2025-06-05 00:00:00
+2025-08-20 11:47:00 | INFO | Fetching data for XLM/BTC at 2025-06-03 00:00:00
+2025-08-20 11:47:01 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:47:01 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:47:04 | INFO | Fetching data for XRP/USDC at 2025-06-09 00:00:00
+2025-08-20 11:47:06 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:47:06 | INFO | Fetching data for BTC/CAD at 2025-06-06 00:00:00
+2025-08-20 11:47:06 | INFO | Fetching data for XLM/BTC at 2025-06-04 00:00:00
+2025-08-20 11:47:07 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:47:08 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:47:11 | INFO | Fetching data for XRP/USDC at 2025-06-10 00:00:00
+2025-08-20 11:47:12 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:47:13 | INFO | Fetching data for BTC/CAD at 2025-06-07 00:00:00
+2025-08-20 11:47:13 | INFO | Fetching data for XLM/BTC at 2025-06-05 00:00:00
+2025-08-20 11:47:14 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:47:14 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:47:18 | INFO | Fetching data for XRP/USDC at 2025-06-11 00:00:00
+2025-08-20 11:47:19 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:47:19 | INFO | Fetching data for BTC/CAD at 2025-06-08 00:00:00
+2025-08-20 11:47:20 | INFO | Fetching data for XLM/BTC at 2025-06-06 00:00:00
+2025-08-20 11:47:21 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:47:21 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:47:24 | INFO | Fetching data for XRP/USDC at 2025-06-12 00:00:00
+2025-08-20 11:47:25 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:47:26 | INFO | Fetching data for BTC/CAD at 2025-06-09 00:00:00
+2025-08-20 11:47:26 | INFO | Fetching data for XLM/BTC at 2025-06-07 00:00:00
+2025-08-20 11:47:27 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:47:27 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:47:30 | INFO | Fetching data for XRP/USDC at 2025-06-13 00:00:00
+2025-08-20 11:47:32 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:47:32 | INFO | Fetching data for XLM/BTC at 2025-06-08 00:00:00
+2025-08-20 11:47:32 | INFO | Fetching data for BTC/CAD at 2025-06-10 00:00:00
+2025-08-20 11:47:34 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:47:37 | INFO | Fetching data for XRP/USDC at 2025-06-14 00:00:00
+2025-08-20 11:47:38 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:47:39 | INFO | Fetching data for BTC/CAD at 2025-06-11 00:00:00
+2025-08-20 11:47:40 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:47:40 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:47:43 | INFO | Fetching data for XRP/USDC at 2025-06-15 00:00:00
+2025-08-20 11:47:45 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:47:45 | INFO | Fetching data for BTC/CAD at 2025-06-12 00:00:00
+2025-08-20 11:47:45 | INFO | Fetching data for XLM/BTC at 2025-06-10 00:00:00
+2025-08-20 11:47:46 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:47:46 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:47:50 | INFO | Fetching data for XRP/USDC at 2025-06-16 00:00:00
+2025-08-20 11:47:51 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:47:52 | INFO | Fetching data for XLM/BTC at 2025-06-11 00:00:00
+2025-08-20 11:47:52 | INFO | Fetching data for BTC/CAD at 2025-06-13 00:00:00
+2025-08-20 11:47:53 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:47:53 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:47:56 | INFO | Fetching data for XRP/USDC at 2025-06-17 00:00:00
+2025-08-20 11:47:58 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:47:58 | INFO | Fetching data for XLM/BTC at 2025-06-12 00:00:00
+2025-08-20 11:47:58 | INFO | Fetching data for BTC/CAD at 2025-06-14 00:00:00
+2025-08-20 11:47:59 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:47:59 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 11:53:07 | INFO | Successfully connected to kraken
+2025-08-20 11:53:07 | INFO | Health monitor started
+2025-08-20 11:53:07 | INFO | Health monitor started
+2025-08-20 11:53:07 | INFO | Notification manager initialized with method: Console Only
+2025-08-20 11:53:07 | INFO | Notifications enabled using Console Only
+2025-08-20 11:53:07 | INFO | Initializing KrakenBot Triangular Arbitrage Monitor
+2025-08-20 11:53:08 | INFO | Successfully connected to kraken
+2025-08-20 11:53:08 | INFO | Arbitrage calculator initialized with:
+2025-08-20 11:53:08 | INFO |   Start amount: $100.00
+2025-08-20 11:53:08 | INFO |   Min profit percentage: 0.50%
+2025-08-20 11:53:08 | INFO |   Breakeven threshold: ~1.50%
+2025-08-20 11:53:08 | INFO |   Fee factor per trade: 0.995000
+2025-08-20 11:53:08 | INFO |   Trading pairs: BTC/CAD, ETH/CAD, ETH/BTC
+2025-08-20 11:53:08 | INFO | Notifications enabled using Console Only
+2025-08-20 11:53:08 | INFO | No existing positions found
+2025-08-20 11:53:08 | INFO | Position Manager initialized with:
+2025-08-20 11:53:08 | INFO |   Max capital: $100.00
+2025-08-20 11:53:08 | INFO |   Position size: $2.00 (2.0%)
+2025-08-20 11:53:08 | INFO |   Max positions: 5
+2025-08-20 11:53:08 | INFO |   Open positions: 0
+2025-08-20 11:53:08 | INFO |   Allocated capital: $0.00
+2025-08-20 11:53:08 | INFO |   Available capital: $100.00
+2025-08-20 11:53:09 | INFO | Successfully connected to kraken
+2025-08-20 11:53:09 | WARNING | No optimal triangles found. Using default trading pairs.
+2025-08-20 11:53:09 | INFO | Next daily report scheduled in 43610 seconds
+2025-08-20 11:53:09 | INFO | Daily report generation scheduled
+2025-08-20 11:53:09 | INFO | Starting arbitrage monitor in simulate mode
+2025-08-20 11:53:09 | INFO | Monitoring pairs: BTC/CAD, ETH/CAD, ETH/BTC
+2025-08-20 11:53:09 | INFO | Starting amount: $100.00 CAD
+2025-08-20 11:53:09 | INFO | Minimum profit threshold: 0.50%
+2025-08-20 11:53:09 | INFO | Breakeven threshold: ~1.50%
+2025-08-20 11:53:09 | INFO | Check interval: 20 seconds
+2025-08-20 11:53:09 | INFO | Notifications: Enabled
+2025-08-20 11:53:09 | INFO | Position Manager: Enabled
+2025-08-20 11:53:09 | INFO | Max capital: $100.00
+2025-08-20 11:53:09 | INFO | Position size: $2.00 (2.0%)
+2025-08-20 11:53:09 | INFO | Max positions: 5
+2025-08-20 11:53:09 | INFO | Open positions: 0
+2025-08-20 11:53:09 | INFO | Available capital: $100.00
+2025-08-20 11:54:17 | INFO | Initializing KrakenBot Triangular Arbitrage Monitor
+2025-08-20 11:54:19 | INFO | Successfully connected to kraken
+2025-08-20 11:54:19 | INFO | Arbitrage calculator initialized with:
+2025-08-20 11:54:19 | INFO |   Start amount: $100.00
+2025-08-20 11:54:19 | INFO |   Min profit percentage: 0.25%
+2025-08-20 11:54:19 | INFO |   Breakeven threshold: ~1.50%
+2025-08-20 11:54:19 | INFO |   Fee factor per trade: 0.995000
+2025-08-20 11:54:19 | INFO |   Trading pairs: BTC/CAD, ETH/CAD, ETH/BTC
+2025-08-20 11:54:19 | INFO | Notification manager initialized with method: Console Only
+2025-08-20 11:54:19 | INFO | Notifications enabled using Console Only
+2025-08-20 11:54:19 | INFO | No existing positions found
+2025-08-20 11:54:19 | INFO | Position Manager initialized with:
+2025-08-20 11:54:19 | INFO |   Max capital: $100.00
+2025-08-20 11:54:19 | INFO |   Position size: $2.00 (2.0%)
+2025-08-20 11:54:19 | INFO |   Max positions: 10
+2025-08-20 11:54:19 | INFO |   Open positions: 0
+2025-08-20 11:54:19 | INFO |   Allocated capital: $0.00
+2025-08-20 11:54:19 | INFO |   Available capital: $100.00
+2025-08-20 11:54:20 | INFO | Successfully connected to kraken
+2025-08-20 11:54:20 | WARNING | No optimal triangles found. Using default trading pairs.
+2025-08-20 11:54:20 | INFO | Starting arbitrage monitor in simulate mode
+2025-08-20 11:54:20 | INFO | Monitoring pairs: BTC/CAD, ETH/CAD, ETH/BTC
+2025-08-20 11:54:20 | INFO | Starting amount: $100.00 CAD
+2025-08-20 11:54:20 | INFO | Minimum profit threshold: 0.25%
+2025-08-20 11:54:20 | INFO | Breakeven threshold: ~1.50%
+2025-08-20 11:54:20 | INFO | Check interval: 20 seconds
+2025-08-20 11:54:20 | INFO | Notifications: Enabled
+2025-08-20 11:54:20 | INFO | Position Manager: Enabled
+2025-08-20 11:54:20 | INFO | Max capital: $100.00
+2025-08-20 11:54:20 | INFO | Position size: $2.00 (2.0%)
+2025-08-20 11:54:20 | INFO | Max positions: 10
+2025-08-20 11:54:20 | INFO | Open positions: 0
+2025-08-20 11:54:20 | INFO | Available capital: $100.00
+2025-08-20 11:54:35 | WARNING | Approaching rate limit (15 requests). Slowing down...
+2025-08-20 11:55:46 | WARNING | Approaching rate limit (15 requests). Slowing down...
+2025-08-20 11:56:15 | WARNING | Approaching rate limit (15 requests). Slowing down...
+2025-08-20 11:56:20 | INFO | Status: Running for 0h 3m 11s | Checks: 10 | Opportunities: 20 | Profitable: 0 | Positions: 0/5 | Capital: $0.00/$100.00
+2025-08-20 12:00:40 | INFO | Initializing KrakenBot Triangular Arbitrage Monitor
+2025-08-20 12:00:41 | INFO | Successfully connected to kraken
+2025-08-20 12:00:41 | INFO | Arbitrage calculator initialized with:
+2025-08-20 12:00:41 | INFO |   Start amount: $100.00
+2025-08-20 12:00:41 | INFO |   Min profit percentage: 0.10%
+2025-08-20 12:00:41 | INFO |   Breakeven threshold: ~1.50%
+2025-08-20 12:00:41 | INFO |   Fee factor per trade: 0.995000
+2025-08-20 12:00:41 | INFO |   Trading pairs: BTC/CAD, ETH/CAD, ETH/BTC
+2025-08-20 12:00:41 | INFO | Notification manager initialized with method: Console Only
+2025-08-20 12:00:41 | INFO | Notifications enabled using Console Only
+2025-08-20 12:00:41 | INFO | No existing positions found
+2025-08-20 12:00:41 | INFO | Position Manager initialized with:
+2025-08-20 12:00:41 | INFO |   Max capital: $100.00
+2025-08-20 12:00:41 | INFO |   Position size: $2.00 (2.0%)
+2025-08-20 12:00:41 | INFO |   Max positions: 10
+2025-08-20 12:00:41 | INFO |   Open positions: 0
+2025-08-20 12:00:41 | INFO |   Allocated capital: $0.00
+2025-08-20 12:00:41 | INFO |   Available capital: $100.00
+2025-08-20 12:00:42 | INFO | Successfully connected to kraken
+2025-08-20 12:00:42 | WARNING | No optimal triangles found. Using default trading pairs.
+2025-08-20 12:00:42 | INFO | Starting arbitrage monitor in simulate mode
+2025-08-20 12:00:42 | INFO | Monitoring pairs: BTC/CAD, ETH/CAD, ETH/BTC
+2025-08-20 12:00:42 | INFO | Starting amount: $100.00 CAD
+2025-08-20 12:00:42 | INFO | Minimum profit threshold: 0.10%
+2025-08-20 12:00:42 | INFO | Breakeven threshold: ~1.50%
+2025-08-20 12:00:42 | INFO | Check interval: 45 seconds
+2025-08-20 12:00:42 | INFO | Notifications: Enabled
+2025-08-20 12:00:42 | INFO | Position Manager: Enabled
+2025-08-20 12:00:42 | INFO | Max capital: $100.00
+2025-08-20 12:00:42 | INFO | Position size: $2.00 (2.0%)
+2025-08-20 12:00:42 | INFO | Max positions: 10
+2025-08-20 12:00:42 | INFO | Open positions: 0
+2025-08-20 12:00:42 | INFO | Available capital: $100.00
+2025-08-20 12:03:48 | WARNING | Approaching rate limit (15 requests). Slowing down...
+2025-08-20 12:05:34 | INFO | Successfully connected to kraken
+2025-08-20 12:05:34 | INFO | Analyzing historical data from 2025-05-22 to 2025-08-20
+2025-08-20 12:05:34 | INFO | Found 1150 available trading pairs
+2025-08-20 12:05:34 | INFO | Found 1150 trading pairs on the exchange
+2025-08-20 12:05:34 | INFO | Found 1150 available trading pairs
+2025-08-20 12:05:34 | INFO | Found 20 potential triangular paths
+2025-08-20 12:05:34 | INFO | Need to download data for 24 trading pairs
+2025-08-20 12:05:34 | INFO | Downloading historical data for XRP/USDC from 2025-05-22 to 2025-08-20
+2025-08-20 12:05:34 | INFO | Fetching data for XRP/USDC at 2025-05-22 00:00:00
+2025-08-20 12:05:35 | INFO | Fetching data for XRP/USDC at 2025-05-23 00:00:00
+2025-08-20 12:05:36 | INFO | Fetching data for XRP/USDC at 2025-05-24 00:00:00
+2025-08-20 12:05:37 | INFO | Fetching data for XRP/USDC at 2025-05-25 00:00:00
+2025-08-20 12:05:38 | INFO | Fetching data for XRP/USDC at 2025-05-26 00:00:00
+2025-08-20 12:05:40 | INFO | Fetching data for XRP/USDC at 2025-05-27 00:00:00
+2025-08-20 12:05:41 | INFO | Fetching data for XRP/USDC at 2025-05-28 00:00:00
+2025-08-20 12:05:42 | INFO | Fetching data for XRP/USDC at 2025-05-29 00:00:00
+2025-08-20 12:05:43 | INFO | Fetching data for XRP/USDC at 2025-05-30 00:00:00
+2025-08-20 12:05:44 | INFO | Fetching data for XRP/USDC at 2025-05-31 00:00:00
+2025-08-20 12:05:46 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:05:51 | INFO | Fetching data for XRP/USDC at 2025-06-01 00:00:00
+2025-08-20 12:05:52 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:05:57 | INFO | Fetching data for XRP/USDC at 2025-06-02 00:00:00
+2025-08-20 12:05:58 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:06:04 | INFO | Fetching data for XRP/USDC at 2025-06-03 00:00:00
+2025-08-20 12:06:05 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:06:10 | INFO | Fetching data for XRP/USDC at 2025-06-04 00:00:00
+2025-08-20 12:06:11 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:06:17 | INFO | Fetching data for XRP/USDC at 2025-06-05 00:00:00
+2025-08-20 12:06:18 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:06:23 | INFO | Fetching data for XRP/USDC at 2025-06-06 00:00:00
+2025-08-20 12:06:24 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:06:30 | INFO | Fetching data for XRP/USDC at 2025-06-07 00:00:00
+2025-08-20 12:06:31 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:06:36 | INFO | Fetching data for XRP/USDC at 2025-06-08 00:00:00
+2025-08-20 12:06:37 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:06:42 | INFO | Fetching data for XRP/USDC at 2025-06-09 00:00:00
+2025-08-20 12:06:44 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:06:49 | INFO | Fetching data for XRP/USDC at 2025-06-10 00:00:00
+2025-08-20 12:06:50 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:06:55 | INFO | Fetching data for XRP/USDC at 2025-06-11 00:00:00
+2025-08-20 12:06:57 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:07:02 | INFO | Fetching data for XRP/USDC at 2025-06-12 00:00:00
+2025-08-20 12:07:04 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:07:09 | INFO | Fetching data for XRP/USDC at 2025-06-13 00:00:00
+2025-08-20 12:07:10 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:07:15 | INFO | Fetching data for XRP/USDC at 2025-06-14 00:00:00
+2025-08-20 12:07:16 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:07:22 | INFO | Fetching data for XRP/USDC at 2025-06-15 00:00:00
+2025-08-20 12:07:23 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:07:28 | INFO | Fetching data for XRP/USDC at 2025-06-16 00:00:00
+2025-08-20 12:07:29 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:07:33 | WARNING | Approaching rate limit (15 requests). Slowing down...
+2025-08-20 12:07:34 | INFO | Fetching data for XRP/USDC at 2025-06-17 00:00:00
+2025-08-20 12:07:36 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:07:39 | INFO | Status: Running for 0h 6m 56s | Checks: 10 | Opportunities: 20 | Profitable: 0 | Positions: 0/10 | Capital: $0.00/$100.00
+2025-08-20 12:07:41 | INFO | Fetching data for XRP/USDC at 2025-06-18 00:00:00
+2025-08-20 12:07:42 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:07:48 | INFO | Fetching data for XRP/USDC at 2025-06-19 00:00:00
+2025-08-20 12:07:49 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:07:54 | INFO | Fetching data for XRP/USDC at 2025-06-20 00:00:00
+2025-08-20 12:07:55 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:08:00 | INFO | Fetching data for XRP/USDC at 2025-06-21 00:00:00
+2025-08-20 12:08:02 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:08:07 | INFO | Fetching data for XRP/USDC at 2025-06-22 00:00:00
+2025-08-20 12:08:08 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:08:13 | INFO | Fetching data for XRP/USDC at 2025-06-23 00:00:00
+2025-08-20 12:08:15 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:08:20 | INFO | Fetching data for XRP/USDC at 2025-06-24 00:00:00
+2025-08-20 12:08:21 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:08:26 | INFO | Fetching data for XRP/USDC at 2025-06-25 00:00:00
+2025-08-20 12:08:27 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:08:33 | INFO | Fetching data for XRP/USDC at 2025-06-26 00:00:00
+2025-08-20 12:08:34 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:08:40 | INFO | Fetching data for XRP/USDC at 2025-06-27 00:00:00
+2025-08-20 12:08:41 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:08:46 | INFO | Fetching data for XRP/USDC at 2025-06-28 00:00:00
+2025-08-20 12:08:47 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:08:53 | INFO | Fetching data for XRP/USDC at 2025-06-29 00:00:00
+2025-08-20 12:08:54 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:08:59 | INFO | Fetching data for XRP/USDC at 2025-06-30 00:00:00
+2025-08-20 12:09:00 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:09:06 | INFO | Fetching data for XRP/USDC at 2025-07-01 00:00:00
+2025-08-20 12:09:07 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:09:12 | INFO | Fetching data for XRP/USDC at 2025-07-02 00:00:00
+2025-08-20 12:09:13 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:09:19 | INFO | Fetching data for XRP/USDC at 2025-07-03 00:00:00
+2025-08-20 12:09:20 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:09:25 | INFO | Fetching data for XRP/USDC at 2025-07-04 00:00:00
+2025-08-20 12:09:26 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:09:32 | INFO | Fetching data for XRP/USDC at 2025-07-05 00:00:00
+2025-08-20 12:09:33 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:09:38 | INFO | Fetching data for XRP/USDC at 2025-07-06 00:00:00
+2025-08-20 12:09:39 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:09:45 | INFO | Fetching data for XRP/USDC at 2025-07-07 00:00:00
+2025-08-20 12:09:46 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:09:51 | INFO | Fetching data for XRP/USDC at 2025-07-08 00:00:00
+2025-08-20 12:09:52 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:09:58 | INFO | Fetching data for XRP/USDC at 2025-07-09 00:00:00
+2025-08-20 12:09:59 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:10:04 | INFO | Fetching data for XRP/USDC at 2025-07-10 00:00:00
+2025-08-20 12:10:05 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:10:10 | INFO | Fetching data for XRP/USDC at 2025-07-11 00:00:00
+2025-08-20 12:10:12 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:10:17 | INFO | Fetching data for XRP/USDC at 2025-07-12 00:00:00
+2025-08-20 12:10:18 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:10:23 | INFO | Fetching data for XRP/USDC at 2025-07-13 00:00:00
+2025-08-20 12:10:24 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:10:30 | INFO | Fetching data for XRP/USDC at 2025-07-14 00:00:00
+2025-08-20 12:10:31 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:10:36 | INFO | Fetching data for XRP/USDC at 2025-07-15 00:00:00
+2025-08-20 12:10:38 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:10:43 | INFO | Fetching data for XRP/USDC at 2025-07-16 00:00:00
+2025-08-20 12:10:44 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:10:49 | INFO | Fetching data for XRP/USDC at 2025-07-17 00:00:00
+2025-08-20 12:10:51 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:10:56 | INFO | Fetching data for XRP/USDC at 2025-07-18 00:00:00
+2025-08-20 12:10:57 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:11:02 | INFO | Fetching data for XRP/USDC at 2025-07-19 00:00:00
+2025-08-20 12:11:04 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:11:09 | INFO | Fetching data for XRP/USDC at 2025-07-20 00:00:00
+2025-08-20 12:11:10 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:11:15 | INFO | Fetching data for XRP/USDC at 2025-07-21 00:00:00
+2025-08-20 12:11:16 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:11:18 | WARNING | Approaching rate limit (15 requests). Slowing down...
+2025-08-20 12:11:22 | INFO | Fetching data for XRP/USDC at 2025-07-22 00:00:00
+2025-08-20 12:11:23 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:11:28 | INFO | Fetching data for XRP/USDC at 2025-07-23 00:00:00
+2025-08-20 12:11:29 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:11:34 | INFO | Fetching data for XRP/USDC at 2025-07-24 00:00:00
+2025-08-20 12:11:36 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:11:41 | INFO | Fetching data for XRP/USDC at 2025-07-25 00:00:00
+2025-08-20 12:11:42 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:11:48 | INFO | Fetching data for XRP/USDC at 2025-07-26 00:00:00
+2025-08-20 12:11:49 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:11:54 | INFO | Fetching data for XRP/USDC at 2025-07-27 00:00:00
+2025-08-20 12:11:55 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:12:00 | INFO | Fetching data for XRP/USDC at 2025-07-28 00:00:00
+2025-08-20 12:12:02 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:12:07 | INFO | Fetching data for XRP/USDC at 2025-07-29 00:00:00
+2025-08-20 12:12:08 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:12:13 | INFO | Fetching data for XRP/USDC at 2025-07-30 00:00:00
+2025-08-20 12:12:15 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:12:20 | INFO | Fetching data for XRP/USDC at 2025-07-31 00:00:00
+2025-08-20 12:12:21 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:12:26 | INFO | Fetching data for XRP/USDC at 2025-08-01 00:00:00
+2025-08-20 12:12:27 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:12:33 | INFO | Fetching data for XRP/USDC at 2025-08-02 00:00:00
+2025-08-20 12:12:34 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:12:58 | INFO | Successfully connected to kraken
+2025-08-20 12:12:58 | INFO | Analyzing historical data from 2025-07-21 to 2025-08-20
+2025-08-20 12:12:58 | INFO | Found 1150 available trading pairs
+2025-08-20 12:12:58 | INFO | Found 1150 trading pairs on the exchange
+2025-08-20 12:12:58 | INFO | Found 1150 available trading pairs
+2025-08-20 12:12:58 | INFO | Found 20 potential triangular paths
+2025-08-20 12:12:58 | INFO | Need to download data for 23 trading pairs
+2025-08-20 12:12:58 | INFO | Downloading historical data for XRP/USDT from 2025-07-21 to 2025-08-20
+2025-08-20 12:12:58 | INFO | Fetching data for XRP/USDT at 2025-07-21 00:00:00
+2025-08-20 12:13:00 | INFO | Fetching data for XRP/USDT at 2025-07-22 00:00:00
+2025-08-20 12:13:01 | INFO | Fetching data for XRP/USDT at 2025-07-23 00:00:00
+2025-08-20 12:13:02 | INFO | Fetching data for XRP/USDT at 2025-07-24 00:00:00
+2025-08-20 12:13:03 | INFO | Fetching data for XRP/USDT at 2025-07-25 00:00:00
+2025-08-20 12:13:04 | INFO | Fetching data for XRP/USDT at 2025-07-26 00:00:00
+2025-08-20 12:13:06 | INFO | Fetching data for XRP/USDT at 2025-07-27 00:00:00
+2025-08-20 12:13:07 | INFO | Fetching data for XRP/USDT at 2025-07-28 00:00:00
+2025-08-20 12:13:08 | INFO | Fetching data for XRP/USDT at 2025-07-29 00:00:00
+2025-08-20 12:13:09 | INFO | Fetching data for XRP/USDT at 2025-07-30 00:00:00
+2025-08-20 12:13:10 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:13:16 | INFO | Fetching data for XRP/USDT at 2025-07-31 00:00:00
+2025-08-20 12:13:17 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:13:22 | INFO | Fetching data for XRP/USDT at 2025-08-01 00:00:00
+2025-08-20 12:13:23 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:13:29 | INFO | Fetching data for XRP/USDT at 2025-08-02 00:00:00
+2025-08-20 12:13:30 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:13:35 | INFO | Fetching data for XRP/USDT at 2025-08-03 00:00:00
+2025-08-20 12:13:36 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:13:42 | INFO | Fetching data for XRP/USDT at 2025-08-04 00:00:00
+2025-08-20 12:13:43 | INFO | Successfully connected to kraken
+2025-08-20 12:13:43 | INFO | Analyzing historical data from 2025-05-22 to 2025-08-20
+2025-08-20 12:13:43 | INFO | Found 1150 available trading pairs
+2025-08-20 12:13:43 | INFO | Found 1150 trading pairs on the exchange
+2025-08-20 12:13:43 | INFO | Found 1150 available trading pairs
+2025-08-20 12:13:43 | INFO | Found 20 potential triangular paths
+2025-08-20 12:13:43 | INFO | Need to download data for 31 trading pairs
+2025-08-20 12:13:43 | INFO | Downloading historical data for XLM/ETH from 2025-05-22 to 2025-08-20
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-05-22 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-05-22
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-05-23 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-05-23
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-05-24 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-05-24
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-05-25 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-05-25
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-05-26 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-05-26
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-05-27 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-05-27
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-05-28 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-05-28
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-05-29 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-05-29
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-05-30 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-05-30
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-05-31 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-05-31
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-06-01 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-06-01
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-06-02 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-06-02
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-06-03 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-06-03
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-06-04 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-06-04
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-06-05 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-06-05
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-06-06 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-06-06
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-06-07 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-06-07
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-06-08 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-06-08
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-06-09 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-06-09
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-06-10 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-06-10
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-06-11 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-06-11
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-06-12 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-06-12
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-06-13 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-06-13
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-06-14 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-06-14
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-06-15 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-06-15
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-06-16 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-06-16
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-06-17 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-06-17
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-06-18 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-06-18
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-06-19 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-06-19
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-06-20 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-06-20
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-06-21 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-06-21
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-06-22 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-06-22
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-06-23 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-06-23
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-06-24 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-06-24
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-06-25 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-06-25
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-06-26 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-06-26
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-06-27 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-06-27
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-06-28 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-06-28
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-06-29 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-06-29
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-06-30 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-06-30
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-07-01 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-07-01
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-07-02 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-07-02
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-07-03 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-07-03
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-07-04 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-07-04
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-07-05 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-07-05
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-07-06 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-07-06
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-07-07 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-07-07
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-07-08 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-07-08
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-07-09 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-07-09
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-07-10 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-07-10
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-07-11 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-07-11
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-07-12 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-07-12
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-07-13 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-07-13
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-07-14 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-07-14
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-07-15 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-07-15
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-07-16 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-07-16
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-07-17 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-07-17
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-07-18 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-07-18
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-07-19 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-07-19
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-07-20 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-07-20
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-07-21 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-07-21
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-07-22 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-07-22
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-07-23 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-07-23
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-07-24 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-07-24
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-07-25 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-07-25
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-07-26 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-07-26
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-07-27 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-07-27
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-07-28 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-07-28
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-07-29 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-07-29
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-07-30 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-07-30
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-07-31 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-07-31
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-08-01 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-08-01
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-08-02 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-08-02
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-08-03 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-08-03
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-08-04 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-08-04
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-08-05 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-08-05
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-08-06 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-08-06
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-08-07 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-08-07
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-08-08 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-08-08
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-08-09 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-08-09
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-08-10 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-08-10
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-08-11 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-08-11
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-08-12 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-08-12
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-08-13 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-08-13
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-08-14 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-08-14
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-08-15 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-08-15
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-08-16 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-08-16
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-08-17 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-08-17
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-08-18 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-08-18
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-08-19 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-08-19
+2025-08-20 12:13:43 | INFO | Fetching data for XLM/ETH at 2025-08-20 00:00:00
+2025-08-20 12:13:43 | ERROR | Error fetching OHLCV data for XLM/ETH: kraken does not have market symbol XLM/ETH
+2025-08-20 12:13:43 | WARNING | No data available for XLM/ETH on 2025-08-20
+2025-08-20 12:13:43 | ERROR | No data available for XLM/ETH
+2025-08-20 12:13:43 | INFO | Downloading historical data for DOT/USD from 2025-05-22 to 2025-08-20
+2025-08-20 12:13:43 | INFO | Fetching data for DOT/USD at 2025-05-22 00:00:00
+2025-08-20 12:13:43 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:13:43 | INFO | Fetching data for DOT/USD at 2025-05-23 00:00:00
+2025-08-20 12:13:45 | INFO | Fetching data for DOT/USD at 2025-05-24 00:00:00
+2025-08-20 12:13:46 | INFO | Fetching data for DOT/USD at 2025-05-25 00:00:00
+2025-08-20 12:13:47 | INFO | Fetching data for DOT/USD at 2025-05-26 00:00:00
+2025-08-20 12:13:48 | INFO | Fetching data for XRP/USDT at 2025-08-05 00:00:00
+2025-08-20 12:13:48 | INFO | Fetching data for DOT/USD at 2025-05-27 00:00:00
+2025-08-20 12:13:49 | INFO | Fetching data for DOT/USD at 2025-05-28 00:00:00
+2025-08-20 12:13:50 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:13:51 | INFO | Fetching data for DOT/USD at 2025-05-29 00:00:00
+2025-08-20 12:13:52 | INFO | Fetching data for DOT/USD at 2025-05-30 00:00:00
+2025-08-20 12:13:53 | INFO | Fetching data for DOT/USD at 2025-05-31 00:00:00
+2025-08-20 12:13:54 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:13:55 | INFO | Fetching data for XRP/USDT at 2025-08-06 00:00:00
+2025-08-20 12:13:56 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:13:59 | INFO | Fetching data for DOT/USD at 2025-06-01 00:00:00
+2025-08-20 12:14:01 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:14:02 | INFO | Fetching data for XRP/USDT at 2025-08-07 00:00:00
+2025-08-20 12:14:03 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:14:06 | INFO | Fetching data for DOT/USD at 2025-06-02 00:00:00
+2025-08-20 12:14:08 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:14:08 | INFO | Fetching data for XRP/USDT at 2025-08-08 00:00:00
+2025-08-20 12:14:09 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:14:12 | ERROR | Network error fetching BTC/CAD: kraken GET https://api.kraken.com/0/public/Ticker?pair=XXBTZCAD
+2025-08-20 12:14:13 | INFO | Fetching data for DOT/USD at 2025-06-03 00:00:00
+2025-08-20 12:14:14 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:14:15 | INFO | Fetching data for XRP/USDT at 2025-08-09 00:00:00
+2025-08-20 12:14:16 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:14:19 | INFO | Fetching data for DOT/USD at 2025-06-04 00:00:00
+2025-08-20 12:14:20 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:14:22 | INFO | Fetching data for XRP/USDT at 2025-08-10 00:00:00
+2025-08-20 12:14:22 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:14:26 | INFO | Fetching data for DOT/USD at 2025-06-05 00:00:00
+2025-08-20 12:14:27 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:14:28 | INFO | Fetching data for XRP/USDT at 2025-08-11 00:00:00
+2025-08-20 12:14:29 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:14:32 | INFO | Fetching data for DOT/USD at 2025-06-06 00:00:00
+2025-08-20 12:14:33 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:14:34 | INFO | Fetching data for XRP/USDT at 2025-08-12 00:00:00
+2025-08-20 12:14:36 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:14:38 | INFO | Fetching data for DOT/USD at 2025-06-07 00:00:00
+2025-08-20 12:14:40 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:14:41 | INFO | Fetching data for XRP/USDT at 2025-08-13 00:00:00
+2025-08-20 12:14:42 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:14:45 | INFO | Fetching data for DOT/USD at 2025-06-08 00:00:00
+2025-08-20 12:14:46 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:14:48 | INFO | Fetching data for XRP/USDT at 2025-08-14 00:00:00
+2025-08-20 12:14:49 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:14:51 | INFO | Fetching data for DOT/USD at 2025-06-09 00:00:00
+2025-08-20 12:14:53 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:14:54 | INFO | Fetching data for XRP/USDT at 2025-08-15 00:00:00
+2025-08-20 12:14:55 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:14:58 | INFO | Fetching data for DOT/USD at 2025-06-10 00:00:00
+2025-08-20 12:14:59 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:15:00 | WARNING | Approaching rate limit (15 requests). Slowing down...
+2025-08-20 12:15:01 | INFO | Fetching data for XRP/USDT at 2025-08-16 00:00:00
+2025-08-20 12:15:01 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:15:04 | INFO | Fetching data for DOT/USD at 2025-06-11 00:00:00
+2025-08-20 12:15:06 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:15:07 | INFO | Fetching data for XRP/USDT at 2025-08-17 00:00:00
+2025-08-20 12:15:08 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:15:09 | INFO | Status: Running for 0h 14m 26s | Checks: 20 | Opportunities: 40 | Profitable: 0 | Positions: 0/10 | Capital: $0.00/$100.00
+2025-08-20 12:15:11 | INFO | Fetching data for DOT/USD at 2025-06-12 00:00:00
+2025-08-20 12:15:12 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:15:13 | INFO | Fetching data for XRP/USDT at 2025-08-18 00:00:00
+2025-08-20 12:15:15 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:15:17 | INFO | Fetching data for DOT/USD at 2025-06-13 00:00:00
+2025-08-20 12:15:18 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:15:20 | INFO | Fetching data for XRP/USDT at 2025-08-19 00:00:00
+2025-08-20 12:15:21 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:15:24 | INFO | Fetching data for DOT/USD at 2025-06-14 00:00:00
+2025-08-20 12:15:25 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:15:26 | INFO | Fetching data for XRP/USDT at 2025-08-20 00:00:00
+2025-08-20 12:15:28 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:15:30 | INFO | Fetching data for DOT/USD at 2025-06-15 00:00:00
+2025-08-20 12:15:31 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:15:33 | WARNING | No data available for XRP/USDT on 2025-08-20
+2025-08-20 12:15:33 | INFO | Historical data saved to E:\KrakenBot\data\historical\XRP_USDT_2025-07-21_2025-08-20.csv
+2025-08-20 12:15:33 | INFO | Downloading historical data for ETH/USDT from 2025-07-21 to 2025-08-20
+2025-08-20 12:15:33 | INFO | Fetching data for ETH/USDT at 2025-07-21 00:00:00
+2025-08-20 12:15:34 | INFO | Fetching data for ETH/USDT at 2025-07-22 00:00:00
+2025-08-20 12:15:35 | INFO | Fetching data for ETH/USDT at 2025-07-23 00:00:00
+2025-08-20 12:15:36 | INFO | Fetching data for ETH/USDT at 2025-07-24 00:00:00
+2025-08-20 12:15:37 | INFO | Fetching data for DOT/USD at 2025-06-16 00:00:00
+2025-08-20 12:15:38 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:15:38 | INFO | Fetching data for ETH/USDT at 2025-07-25 00:00:00
+2025-08-20 12:15:39 | INFO | Fetching data for ETH/USDT at 2025-07-26 00:00:00
+2025-08-20 12:15:40 | INFO | Fetching data for ETH/USDT at 2025-07-27 00:00:00
+2025-08-20 12:15:41 | INFO | Fetching data for ETH/USDT at 2025-07-28 00:00:00
+2025-08-20 12:15:42 | INFO | Fetching data for ETH/USDT at 2025-07-29 00:00:00
+2025-08-20 12:15:43 | INFO | Fetching data for DOT/USD at 2025-06-17 00:00:00
+2025-08-20 12:15:44 | INFO | Fetching data for ETH/USDT at 2025-07-30 00:00:00
+2025-08-20 12:15:44 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:15:45 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:15:49 | INFO | Fetching data for DOT/USD at 2025-06-18 00:00:00
+2025-08-20 12:15:50 | INFO | Fetching data for ETH/USDT at 2025-07-31 00:00:00
+2025-08-20 12:15:51 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:15:51 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:15:56 | INFO | Fetching data for DOT/USD at 2025-06-19 00:00:00
+2025-08-20 12:15:57 | INFO | Fetching data for ETH/USDT at 2025-08-01 00:00:00
+2025-08-20 12:15:57 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:15:58 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:16:02 | INFO | Fetching data for DOT/USD at 2025-06-20 00:00:00
+2025-08-20 12:16:03 | INFO | Fetching data for ETH/USDT at 2025-08-02 00:00:00
+2025-08-20 12:16:04 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:16:04 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:16:09 | INFO | Fetching data for DOT/USD at 2025-06-21 00:00:00
+2025-08-20 12:16:09 | INFO | Fetching data for ETH/USDT at 2025-08-03 00:00:00
+2025-08-20 12:16:10 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:16:11 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:16:16 | INFO | Fetching data for DOT/USD at 2025-06-22 00:00:00
+2025-08-20 12:16:16 | INFO | Fetching data for ETH/USDT at 2025-08-04 00:00:00
+2025-08-20 12:16:17 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:16:17 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:16:22 | INFO | Fetching data for DOT/USD at 2025-06-23 00:00:00
+2025-08-20 12:16:22 | INFO | Fetching data for ETH/USDT at 2025-08-05 00:00:00
+2025-08-20 12:16:24 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:16:24 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:16:29 | INFO | Fetching data for ETH/USDT at 2025-08-06 00:00:00
+2025-08-20 12:16:29 | INFO | Fetching data for DOT/USD at 2025-06-24 00:00:00
+2025-08-20 12:16:30 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:16:30 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:16:35 | INFO | Fetching data for DOT/USD at 2025-06-25 00:00:00
+2025-08-20 12:16:36 | INFO | Fetching data for ETH/USDT at 2025-08-07 00:00:00
+2025-08-20 12:16:37 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:16:37 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:16:42 | INFO | Fetching data for DOT/USD at 2025-06-26 00:00:00
+2025-08-20 12:16:42 | INFO | Fetching data for ETH/USDT at 2025-08-08 00:00:00
+2025-08-20 12:16:43 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:16:44 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:16:49 | INFO | Fetching data for ETH/USDT at 2025-08-09 00:00:00
+2025-08-20 12:16:49 | INFO | Fetching data for DOT/USD at 2025-06-27 00:00:00
+2025-08-20 12:16:50 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:16:50 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:16:55 | INFO | Fetching data for DOT/USD at 2025-06-28 00:00:00
+2025-08-20 12:16:55 | INFO | Fetching data for ETH/USDT at 2025-08-10 00:00:00
+2025-08-20 12:16:56 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:16:56 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:17:01 | INFO | Fetching data for DOT/USD at 2025-06-29 00:00:00
+2025-08-20 12:17:02 | INFO | Fetching data for ETH/USDT at 2025-08-11 00:00:00
+2025-08-20 12:17:03 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:17:03 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:17:08 | INFO | Fetching data for DOT/USD at 2025-06-30 00:00:00
+2025-08-20 12:17:08 | INFO | Fetching data for ETH/USDT at 2025-08-12 00:00:00
+2025-08-20 12:17:09 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:17:09 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:17:14 | INFO | Fetching data for DOT/USD at 2025-07-01 00:00:00
+2025-08-20 12:17:15 | INFO | Fetching data for ETH/USDT at 2025-08-13 00:00:00
+2025-08-20 12:17:16 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:17:16 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:17:21 | INFO | Fetching data for DOT/USD at 2025-07-02 00:00:00
+2025-08-20 12:17:21 | INFO | Fetching data for ETH/USDT at 2025-08-14 00:00:00
+2025-08-20 12:17:22 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:17:22 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:17:27 | INFO | Fetching data for ETH/USDT at 2025-08-15 00:00:00
+2025-08-20 12:17:27 | INFO | Fetching data for DOT/USD at 2025-07-03 00:00:00
+2025-08-20 12:17:29 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:17:29 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:17:34 | INFO | Fetching data for ETH/USDT at 2025-08-16 00:00:00
+2025-08-20 12:17:34 | INFO | Fetching data for DOT/USD at 2025-07-04 00:00:00
+2025-08-20 12:17:35 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:17:36 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:17:40 | INFO | Fetching data for ETH/USDT at 2025-08-17 00:00:00
+2025-08-20 12:17:41 | INFO | Fetching data for DOT/USD at 2025-07-05 00:00:00
+2025-08-20 12:17:41 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:17:42 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:17:47 | INFO | Fetching data for ETH/USDT at 2025-08-18 00:00:00
+2025-08-20 12:17:47 | INFO | Fetching data for DOT/USD at 2025-07-06 00:00:00
+2025-08-20 12:17:48 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:17:48 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:17:54 | INFO | Fetching data for DOT/USD at 2025-07-07 00:00:00
+2025-08-20 12:17:55 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:18:00 | INFO | Fetching data for DOT/USD at 2025-07-08 00:00:00
+2025-08-20 12:18:02 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:18:07 | INFO | Fetching data for DOT/USD at 2025-07-09 00:00:00
+2025-08-20 12:18:08 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:18:14 | INFO | Fetching data for DOT/USD at 2025-07-10 00:00:00
+2025-08-20 12:18:15 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:18:20 | INFO | Fetching data for DOT/USD at 2025-07-11 00:00:00
+2025-08-20 12:18:21 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:18:27 | INFO | Fetching data for DOT/USD at 2025-07-12 00:00:00
+2025-08-20 12:18:29 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:18:34 | INFO | Fetching data for DOT/USD at 2025-07-13 00:00:00
+2025-08-20 12:18:35 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:18:40 | INFO | Fetching data for DOT/USD at 2025-07-14 00:00:00
+2025-08-20 12:18:42 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:18:45 | WARNING | Approaching rate limit (15 requests). Slowing down...
+2025-08-20 12:18:47 | INFO | Fetching data for DOT/USD at 2025-07-15 00:00:00
+2025-08-20 12:18:48 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:18:53 | INFO | Fetching data for DOT/USD at 2025-07-16 00:00:00
+2025-08-20 12:18:54 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:19:00 | INFO | Fetching data for DOT/USD at 2025-07-17 00:00:00
+2025-08-20 12:19:01 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:19:06 | INFO | Fetching data for DOT/USD at 2025-07-18 00:00:00
+2025-08-20 12:19:07 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:19:09 | INFO | Initializing KrakenBot Triangular Arbitrage Monitor
+2025-08-20 12:19:11 | INFO | Successfully connected to kraken
+2025-08-20 12:19:11 | INFO | Arbitrage calculator initialized with:
+2025-08-20 12:19:11 | INFO |   Start amount: $100.00
+2025-08-20 12:19:11 | INFO |   Min profit percentage: 0.10%
+2025-08-20 12:19:11 | INFO |   Breakeven threshold: ~1.50%
+2025-08-20 12:19:11 | INFO |   Fee factor per trade: 0.995000
+2025-08-20 12:19:11 | INFO |   Trading pairs: BTC/CAD, ETH/CAD, ETH/BTC
+2025-08-20 12:19:11 | INFO | Notification manager initialized with method: Console Only
+2025-08-20 12:19:11 | INFO | Notifications enabled using Console Only
+2025-08-20 12:19:11 | INFO | No existing positions found
+2025-08-20 12:19:11 | INFO | Position Manager initialized with:
+2025-08-20 12:19:11 | INFO |   Max capital: $100.00
+2025-08-20 12:19:11 | INFO |   Position size: $2.00 (2.0%)
+2025-08-20 12:19:11 | INFO |   Max positions: 5
+2025-08-20 12:19:11 | INFO |   Open positions: 0
+2025-08-20 12:19:11 | INFO |   Allocated capital: $0.00
+2025-08-20 12:19:11 | INFO |   Available capital: $100.00
+2025-08-20 12:19:12 | INFO | Successfully connected to kraken
+2025-08-20 12:19:12 | WARNING | No optimal triangles found. Using default trading pairs.
+2025-08-20 12:19:12 | INFO | Starting arbitrage monitor in simulate mode
+2025-08-20 12:19:12 | INFO | Monitoring pairs: BTC/CAD, ETH/CAD, ETH/BTC
+2025-08-20 12:19:12 | INFO | Starting amount: $100.00 CAD
+2025-08-20 12:19:12 | INFO | Minimum profit threshold: 0.10%
+2025-08-20 12:19:12 | INFO | Breakeven threshold: ~1.50%
+2025-08-20 12:19:12 | INFO | Check interval: 45 seconds
+2025-08-20 12:19:12 | INFO | Notifications: Enabled
+2025-08-20 12:19:12 | INFO | Position Manager: Enabled
+2025-08-20 12:19:12 | INFO | Max capital: $100.00
+2025-08-20 12:19:12 | INFO | Position size: $2.00 (2.0%)
+2025-08-20 12:19:12 | INFO | Max positions: 5
+2025-08-20 12:19:12 | INFO | Open positions: 0
+2025-08-20 12:19:12 | INFO | Available capital: $100.00
+2025-08-20 12:19:13 | INFO | Fetching data for DOT/USD at 2025-07-19 00:00:00
+2025-08-20 12:19:14 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:19:19 | INFO | Fetching data for DOT/USD at 2025-07-20 00:00:00
+2025-08-20 12:19:20 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:19:26 | INFO | Fetching data for DOT/USD at 2025-07-21 00:00:00
+2025-08-20 12:19:27 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:19:32 | INFO | Fetching data for DOT/USD at 2025-07-22 00:00:00
+2025-08-20 12:19:34 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:19:39 | INFO | Fetching data for DOT/USD at 2025-07-23 00:00:00
+2025-08-20 12:19:41 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:19:46 | INFO | Fetching data for DOT/USD at 2025-07-24 00:00:00
+2025-08-20 12:19:47 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:19:52 | INFO | Fetching data for DOT/USD at 2025-07-25 00:00:00
+2025-08-20 12:19:53 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:19:59 | INFO | Fetching data for DOT/USD at 2025-07-26 00:00:00
+2025-08-20 12:20:00 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:20:05 | INFO | Fetching data for DOT/USD at 2025-07-27 00:00:00
+2025-08-20 12:20:06 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:20:12 | INFO | Fetching data for DOT/USD at 2025-07-28 00:00:00
+2025-08-20 12:20:13 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:20:18 | INFO | Fetching data for DOT/USD at 2025-07-29 00:00:00
+2025-08-20 12:20:19 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:20:24 | INFO | Fetching data for DOT/USD at 2025-07-30 00:00:00
+2025-08-20 12:20:26 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:20:31 | INFO | Fetching data for DOT/USD at 2025-07-31 00:00:00
+2025-08-20 12:20:32 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:20:37 | INFO | Fetching data for DOT/USD at 2025-08-01 00:00:00
+2025-08-20 12:20:38 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:20:44 | INFO | Fetching data for DOT/USD at 2025-08-02 00:00:00
+2025-08-20 12:20:45 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:20:50 | INFO | Fetching data for DOT/USD at 2025-08-03 00:00:00
+2025-08-20 12:20:51 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:20:54 | INFO | Successfully connected to kraken
+2025-08-20 12:20:54 | INFO | Analyzing historical data from 2025-07-21 to 2025-08-20
+2025-08-20 12:20:54 | INFO | Found 1150 available trading pairs
+2025-08-20 12:20:54 | INFO | Found 1150 trading pairs on the exchange
+2025-08-20 12:20:54 | INFO | Found 1150 available trading pairs
+2025-08-20 12:20:54 | INFO | Found 20 potential triangular paths
+2025-08-20 12:20:54 | INFO | Need to download data for 30 trading pairs
+2025-08-20 12:20:54 | INFO | Downloading historical data for USDC/USD from 2025-07-21 to 2025-08-20
+2025-08-20 12:20:54 | INFO | Fetching data for USDC/USD at 2025-07-21 00:00:00
+2025-08-20 12:20:55 | INFO | Fetching data for USDC/USD at 2025-07-22 00:00:00
+2025-08-20 12:20:56 | INFO | Fetching data for USDC/USD at 2025-07-23 00:00:00
+2025-08-20 12:20:57 | INFO | Fetching data for DOT/USD at 2025-08-04 00:00:00
+2025-08-20 12:20:57 | INFO | Fetching data for USDC/USD at 2025-07-24 00:00:00
+2025-08-20 12:20:58 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:20:59 | INFO | Fetching data for USDC/USD at 2025-07-25 00:00:00
+2025-08-20 12:21:00 | INFO | Fetching data for USDC/USD at 2025-07-26 00:00:00
+2025-08-20 12:21:02 | INFO | Fetching data for USDC/USD at 2025-07-27 00:00:00
+2025-08-20 12:21:02 | INFO | Fetching data for USDC/USD at 2025-07-28 00:00:00
+2025-08-20 12:21:03 | INFO | Fetching data for DOT/USD at 2025-08-05 00:00:00
+2025-08-20 12:21:03 | INFO | Fetching data for USDC/USD at 2025-07-29 00:00:00
+2025-08-20 12:21:04 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:21:05 | INFO | Fetching data for USDC/USD at 2025-07-30 00:00:00
+2025-08-20 12:21:06 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:21:10 | INFO | Fetching data for DOT/USD at 2025-08-06 00:00:00
+2025-08-20 12:21:11 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:21:11 | INFO | Fetching data for USDC/USD at 2025-07-31 00:00:00
+2025-08-20 12:21:12 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:21:16 | INFO | Fetching data for DOT/USD at 2025-08-07 00:00:00
+2025-08-20 12:21:17 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:21:17 | INFO | Fetching data for USDC/USD at 2025-08-01 00:00:00
+2025-08-20 12:21:19 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:21:22 | INFO | Fetching data for DOT/USD at 2025-08-08 00:00:00
+2025-08-20 12:21:23 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:21:24 | INFO | Fetching data for USDC/USD at 2025-08-02 00:00:00
+2025-08-20 12:21:25 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:21:29 | INFO | Fetching data for DOT/USD at 2025-08-09 00:00:00
+2025-08-20 12:21:30 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:21:30 | INFO | Fetching data for USDC/USD at 2025-08-03 00:00:00
+2025-08-20 12:21:31 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:21:35 | INFO | Fetching data for DOT/USD at 2025-08-10 00:00:00
+2025-08-20 12:21:36 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:21:37 | INFO | Fetching data for USDC/USD at 2025-08-04 00:00:00
+2025-08-20 12:21:38 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:21:42 | INFO | Fetching data for DOT/USD at 2025-08-11 00:00:00
+2025-08-20 12:21:43 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:21:43 | INFO | Fetching data for USDC/USD at 2025-08-05 00:00:00
+2025-08-20 12:21:45 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:21:48 | INFO | Fetching data for DOT/USD at 2025-08-12 00:00:00
+2025-08-20 12:21:49 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:21:50 | INFO | Fetching data for USDC/USD at 2025-08-06 00:00:00
+2025-08-20 12:21:52 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:21:54 | INFO | Fetching data for DOT/USD at 2025-08-13 00:00:00
+2025-08-20 12:21:56 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:21:57 | INFO | Fetching data for USDC/USD at 2025-08-07 00:00:00
+2025-08-20 12:21:58 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:22:01 | INFO | Fetching data for DOT/USD at 2025-08-14 00:00:00
+2025-08-20 12:22:02 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:22:03 | INFO | Fetching data for USDC/USD at 2025-08-08 00:00:00
+2025-08-20 12:22:05 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:22:07 | INFO | Fetching data for DOT/USD at 2025-08-15 00:00:00
+2025-08-20 12:22:08 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:22:10 | INFO | Fetching data for USDC/USD at 2025-08-09 00:00:00
+2025-08-20 12:22:11 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:22:14 | INFO | Fetching data for DOT/USD at 2025-08-16 00:00:00
+2025-08-20 12:22:15 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:22:16 | INFO | Fetching data for USDC/USD at 2025-08-10 00:00:00
+2025-08-20 12:22:17 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:22:18 | WARNING | Approaching rate limit (15 requests). Slowing down...
+2025-08-20 12:22:20 | INFO | Fetching data for DOT/USD at 2025-08-17 00:00:00
+2025-08-20 12:22:22 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:22:23 | INFO | Fetching data for USDC/USD at 2025-08-11 00:00:00
+2025-08-20 12:22:24 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:22:27 | INFO | Fetching data for DOT/USD at 2025-08-18 00:00:00
+2025-08-20 12:22:28 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:22:29 | INFO | Fetching data for USDC/USD at 2025-08-12 00:00:00
+2025-08-20 12:22:30 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:22:30 | WARNING | Approaching rate limit (15 requests). Slowing down...
+2025-08-20 12:22:33 | INFO | Fetching data for DOT/USD at 2025-08-19 00:00:00
+2025-08-20 12:22:34 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:22:36 | INFO | Fetching data for USDC/USD at 2025-08-13 00:00:00
+2025-08-20 12:22:37 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:22:39 | INFO | Status: Running for 0h 21m 56s | Checks: 30 | Opportunities: 60 | Profitable: 0 | Positions: 0/10 | Capital: $0.00/$100.00
+2025-08-20 12:22:40 | INFO | Fetching data for DOT/USD at 2025-08-20 00:00:00
+2025-08-20 12:22:41 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:22:42 | INFO | Fetching data for USDC/USD at 2025-08-14 00:00:00
+2025-08-20 12:22:44 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:22:46 | WARNING | No data available for DOT/USD on 2025-08-20
+2025-08-20 12:22:46 | INFO | Historical data saved to E:\KrakenBot\data\historical\DOT_USD_2025-05-22_2025-08-20.csv
+2025-08-20 12:22:46 | INFO | Downloading historical data for DAI/USD from 2025-05-22 to 2025-08-20
+2025-08-20 12:22:46 | INFO | Fetching data for DAI/USD at 2025-05-22 00:00:00
+2025-08-20 12:22:47 | INFO | Fetching data for DAI/USD at 2025-05-23 00:00:00
+2025-08-20 12:22:49 | INFO | Fetching data for DAI/USD at 2025-05-24 00:00:00
+2025-08-20 12:22:49 | INFO | Fetching data for USDC/USD at 2025-08-15 00:00:00
+2025-08-20 12:22:50 | INFO | Fetching data for DAI/USD at 2025-05-25 00:00:00
+2025-08-20 12:22:50 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:22:51 | INFO | Fetching data for DAI/USD at 2025-05-26 00:00:00
+2025-08-20 12:22:52 | INFO | Fetching data for DAI/USD at 2025-05-27 00:00:00
+2025-08-20 12:22:53 | INFO | Fetching data for DAI/USD at 2025-05-28 00:00:00
+2025-08-20 12:22:54 | INFO | Fetching data for DAI/USD at 2025-05-29 00:00:00
+2025-08-20 12:22:55 | INFO | Fetching data for USDC/USD at 2025-08-16 00:00:00
+2025-08-20 12:22:56 | INFO | Fetching data for DAI/USD at 2025-05-30 00:00:00
+2025-08-20 12:22:56 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:22:57 | INFO | Fetching data for DAI/USD at 2025-05-31 00:00:00
+2025-08-20 12:22:58 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:23:02 | INFO | Fetching data for USDC/USD at 2025-08-17 00:00:00
+2025-08-20 12:23:03 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:23:03 | INFO | Fetching data for DAI/USD at 2025-06-01 00:00:00
+2025-08-20 12:23:04 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:23:08 | INFO | Fetching data for USDC/USD at 2025-08-18 00:00:00
+2025-08-20 12:23:10 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:23:10 | INFO | Fetching data for DAI/USD at 2025-06-02 00:00:00
+2025-08-20 12:23:11 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:23:15 | INFO | Fetching data for USDC/USD at 2025-08-19 00:00:00
+2025-08-20 12:23:16 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:23:16 | INFO | Fetching data for DAI/USD at 2025-06-03 00:00:00
+2025-08-20 12:23:17 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:23:21 | INFO | Fetching data for USDC/USD at 2025-08-20 00:00:00
+2025-08-20 12:23:22 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:23:23 | INFO | Fetching data for DAI/USD at 2025-06-04 00:00:00
+2025-08-20 12:23:24 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:23:28 | WARNING | No data available for USDC/USD on 2025-08-20
+2025-08-20 12:23:28 | INFO | Historical data saved to E:\KrakenBot\data\historical\USDC_USD_2025-07-21_2025-08-20.csv
+2025-08-20 12:23:28 | INFO | Downloading historical data for BTC/USDC from 2025-07-21 to 2025-08-20
+2025-08-20 12:23:28 | INFO | Fetching data for BTC/USDC at 2025-07-21 00:00:00
+2025-08-20 12:23:29 | INFO | Fetching data for BTC/USDC at 2025-07-22 00:00:00
+2025-08-20 12:23:29 | INFO | Fetching data for DAI/USD at 2025-06-05 00:00:00
+2025-08-20 12:23:30 | INFO | Fetching data for BTC/USDC at 2025-07-23 00:00:00
+2025-08-20 12:23:30 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:23:31 | INFO | Fetching data for BTC/USDC at 2025-07-24 00:00:00
+2025-08-20 12:23:33 | INFO | Fetching data for BTC/USDC at 2025-07-25 00:00:00
+2025-08-20 12:23:34 | INFO | Fetching data for BTC/USDC at 2025-07-26 00:00:00
+2025-08-20 12:23:35 | INFO | Fetching data for BTC/USDC at 2025-07-27 00:00:00
+2025-08-20 12:23:36 | INFO | Fetching data for DAI/USD at 2025-06-06 00:00:00
+2025-08-20 12:23:36 | INFO | Fetching data for BTC/USDC at 2025-07-28 00:00:00
+2025-08-20 12:23:37 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:23:38 | INFO | Fetching data for BTC/USDC at 2025-07-29 00:00:00
+2025-08-20 12:23:39 | INFO | Fetching data for BTC/USDC at 2025-07-30 00:00:00
+2025-08-20 12:23:40 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:23:42 | INFO | Fetching data for DAI/USD at 2025-06-07 00:00:00
+2025-08-20 12:23:43 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:23:45 | INFO | Fetching data for BTC/USDC at 2025-07-31 00:00:00
+2025-08-20 12:23:46 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:23:48 | INFO | Fetching data for DAI/USD at 2025-06-08 00:00:00
+2025-08-20 12:23:50 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:23:51 | INFO | Fetching data for BTC/USDC at 2025-08-01 00:00:00
+2025-08-20 12:23:52 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:23:55 | INFO | Fetching data for DAI/USD at 2025-06-09 00:00:00
+2025-08-20 12:23:56 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:23:58 | INFO | Fetching data for BTC/USDC at 2025-08-02 00:00:00
+2025-08-20 12:23:59 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:24:01 | INFO | Fetching data for DAI/USD at 2025-06-10 00:00:00
+2025-08-20 12:24:03 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:24:04 | INFO | Fetching data for BTC/USDC at 2025-08-03 00:00:00
+2025-08-20 12:24:05 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:24:08 | INFO | Fetching data for DAI/USD at 2025-06-11 00:00:00
+2025-08-20 12:24:09 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:24:11 | INFO | Fetching data for BTC/USDC at 2025-08-04 00:00:00
+2025-08-20 12:24:12 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:24:14 | INFO | Fetching data for DAI/USD at 2025-06-12 00:00:00
+2025-08-20 12:24:15 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:24:17 | INFO | Fetching data for BTC/USDC at 2025-08-05 00:00:00
+2025-08-20 12:24:18 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:24:21 | INFO | Fetching data for DAI/USD at 2025-06-13 00:00:00
+2025-08-20 12:24:22 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:24:23 | INFO | Fetching data for BTC/USDC at 2025-08-06 00:00:00
+2025-08-20 12:24:25 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:24:27 | INFO | Fetching data for DAI/USD at 2025-06-14 00:00:00
+2025-08-20 12:24:29 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:24:31 | INFO | Fetching data for BTC/USDC at 2025-08-07 00:00:00
+2025-08-20 12:24:31 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:24:34 | INFO | Fetching data for DAI/USD at 2025-06-15 00:00:00
+2025-08-20 12:24:35 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:24:37 | INFO | Fetching data for BTC/USDC at 2025-08-08 00:00:00
+2025-08-20 12:24:38 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:24:40 | INFO | Fetching data for DAI/USD at 2025-06-16 00:00:00
+2025-08-20 12:24:42 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:24:43 | INFO | Fetching data for BTC/USDC at 2025-08-09 00:00:00
+2025-08-20 12:24:45 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:24:47 | INFO | Fetching data for DAI/USD at 2025-06-17 00:00:00
+2025-08-20 12:24:48 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:24:50 | INFO | Fetching data for BTC/USDC at 2025-08-10 00:00:00
+2025-08-20 12:24:51 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:24:53 | INFO | Fetching data for DAI/USD at 2025-06-18 00:00:00
+2025-08-20 12:24:55 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:24:56 | INFO | Fetching data for BTC/USDC at 2025-08-11 00:00:00
+2025-08-20 12:24:58 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:25:00 | INFO | Fetching data for DAI/USD at 2025-06-19 00:00:00
+2025-08-20 12:25:01 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:25:03 | INFO | Fetching data for BTC/USDC at 2025-08-12 00:00:00
+2025-08-20 12:25:04 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:25:06 | INFO | Fetching data for DAI/USD at 2025-06-20 00:00:00
+2025-08-20 12:25:07 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:25:09 | INFO | Fetching data for BTC/USDC at 2025-08-13 00:00:00
+2025-08-20 12:25:10 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:25:13 | INFO | Fetching data for DAI/USD at 2025-06-21 00:00:00
+2025-08-20 12:25:14 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:25:16 | INFO | Fetching data for BTC/USDC at 2025-08-14 00:00:00
+2025-08-20 12:25:17 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:25:19 | INFO | Fetching data for DAI/USD at 2025-06-22 00:00:00
+2025-08-20 12:25:20 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:25:22 | INFO | Fetching data for BTC/USDC at 2025-08-15 00:00:00
+2025-08-20 12:25:23 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:25:26 | INFO | Fetching data for DAI/USD at 2025-06-23 00:00:00
+2025-08-20 12:25:27 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:25:29 | INFO | Fetching data for BTC/USDC at 2025-08-16 00:00:00
+2025-08-20 12:25:30 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:25:32 | INFO | Fetching data for DAI/USD at 2025-06-24 00:00:00
+2025-08-20 12:25:33 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:25:35 | INFO | Fetching data for BTC/USDC at 2025-08-17 00:00:00
+2025-08-20 12:25:36 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:25:38 | INFO | Fetching data for DAI/USD at 2025-06-25 00:00:00
+2025-08-20 12:25:40 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:25:42 | INFO | Fetching data for BTC/USDC at 2025-08-18 00:00:00
+2025-08-20 12:25:43 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:25:45 | INFO | Fetching data for DAI/USD at 2025-06-26 00:00:00
+2025-08-20 12:25:46 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:25:48 | INFO | Fetching data for BTC/USDC at 2025-08-19 00:00:00
+2025-08-20 12:25:49 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:25:51 | INFO | Fetching data for DAI/USD at 2025-06-27 00:00:00
+2025-08-20 12:25:53 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:25:54 | INFO | Fetching data for BTC/USDC at 2025-08-20 00:00:00
+2025-08-20 12:25:56 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:25:58 | INFO | Fetching data for DAI/USD at 2025-06-28 00:00:00
+2025-08-20 12:25:59 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:26:01 | WARNING | No data available for BTC/USDC on 2025-08-20
+2025-08-20 12:26:01 | INFO | Historical data saved to E:\KrakenBot\data\historical\BTC_USDC_2025-07-21_2025-08-20.csv
+2025-08-20 12:26:01 | INFO | Downloading historical data for BTC/USD from 2025-07-21 to 2025-08-20
+2025-08-20 12:26:01 | INFO | Fetching data for BTC/USD at 2025-07-21 00:00:00
+2025-08-20 12:26:02 | INFO | Fetching data for BTC/USD at 2025-07-22 00:00:00
+2025-08-20 12:26:03 | WARNING | Approaching rate limit (15 requests). Slowing down...
+2025-08-20 12:26:03 | INFO | Fetching data for BTC/USD at 2025-07-23 00:00:00
+2025-08-20 12:26:04 | INFO | Fetching data for DAI/USD at 2025-06-29 00:00:00
+2025-08-20 12:26:05 | INFO | Fetching data for BTC/USD at 2025-07-24 00:00:00
+2025-08-20 12:26:06 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:26:06 | INFO | Fetching data for BTC/USD at 2025-07-25 00:00:00
+2025-08-20 12:26:07 | INFO | Fetching data for BTC/USD at 2025-07-26 00:00:00
+2025-08-20 12:26:08 | INFO | Fetching data for BTC/USD at 2025-07-27 00:00:00
+2025-08-20 12:26:08 | INFO | Status: Running for 0h 6m 56s | Checks: 10 | Opportunities: 20 | Profitable: 0 | Positions: 0/5 | Capital: $0.00/$100.00
+2025-08-20 12:26:09 | INFO | Fetching data for BTC/USD at 2025-07-28 00:00:00
+2025-08-20 12:26:10 | INFO | Fetching data for BTC/USD at 2025-07-29 00:00:00
+2025-08-20 12:26:11 | INFO | Fetching data for DAI/USD at 2025-06-30 00:00:00
+2025-08-20 12:26:12 | INFO | Fetching data for BTC/USD at 2025-07-30 00:00:00
+2025-08-20 12:26:12 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:26:13 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:26:15 | WARNING | Approaching rate limit (15 requests). Slowing down...
+2025-08-20 12:26:18 | INFO | Fetching data for DAI/USD at 2025-07-01 00:00:00
+2025-08-20 12:26:18 | INFO | Fetching data for BTC/USD at 2025-07-31 00:00:00
+2025-08-20 12:26:19 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:26:19 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:26:24 | INFO | Fetching data for DAI/USD at 2025-07-02 00:00:00
+2025-08-20 12:26:25 | INFO | Fetching data for BTC/USD at 2025-08-01 00:00:00
+2025-08-20 12:26:25 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:26:26 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:26:30 | INFO | Fetching data for DAI/USD at 2025-07-03 00:00:00
+2025-08-20 12:26:31 | INFO | Fetching data for BTC/USD at 2025-08-02 00:00:00
+2025-08-20 12:26:32 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:26:33 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:26:37 | INFO | Fetching data for DAI/USD at 2025-07-04 00:00:00
+2025-08-20 12:26:38 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:26:39 | INFO | Fetching data for BTC/USD at 2025-08-03 00:00:00
+2025-08-20 12:26:39 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:26:43 | INFO | Fetching data for DAI/USD at 2025-07-05 00:00:00
+2025-08-20 12:26:45 | INFO | Fetching data for BTC/USD at 2025-08-04 00:00:00
+2025-08-20 12:26:45 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:26:45 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:26:50 | INFO | Fetching data for DAI/USD at 2025-07-06 00:00:00
+2025-08-20 12:26:51 | INFO | Fetching data for BTC/USD at 2025-08-05 00:00:00
+2025-08-20 12:26:51 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:26:52 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:26:56 | INFO | Fetching data for DAI/USD at 2025-07-07 00:00:00
+2025-08-20 12:26:57 | INFO | Fetching data for BTC/USD at 2025-08-06 00:00:00
+2025-08-20 12:26:58 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:26:58 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:27:03 | INFO | Fetching data for DAI/USD at 2025-07-08 00:00:00
+2025-08-20 12:27:04 | INFO | Fetching data for BTC/USD at 2025-08-07 00:00:00
+2025-08-20 12:27:04 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:27:05 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:27:09 | INFO | Fetching data for DAI/USD at 2025-07-09 00:00:00
+2025-08-20 12:27:10 | INFO | Fetching data for BTC/USD at 2025-08-08 00:00:00
+2025-08-20 12:27:11 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:27:11 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:27:16 | INFO | Fetching data for DAI/USD at 2025-07-10 00:00:00
+2025-08-20 12:27:17 | INFO | Fetching data for BTC/USD at 2025-08-09 00:00:00
+2025-08-20 12:27:17 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:27:18 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:27:22 | INFO | Fetching data for DAI/USD at 2025-07-11 00:00:00
+2025-08-20 12:27:23 | INFO | Fetching data for BTC/USD at 2025-08-10 00:00:00
+2025-08-20 12:27:24 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:27:24 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:27:29 | INFO | Fetching data for DAI/USD at 2025-07-12 00:00:00
+2025-08-20 12:27:31 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:27:31 | INFO | Fetching data for BTC/USD at 2025-08-11 00:00:00
+2025-08-20 12:27:31 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:27:36 | INFO | Fetching data for DAI/USD at 2025-07-13 00:00:00
+2025-08-20 12:27:36 | INFO | Fetching data for BTC/USD at 2025-08-12 00:00:00
+2025-08-20 12:27:37 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:27:37 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:27:42 | INFO | Fetching data for DAI/USD at 2025-07-14 00:00:00
+2025-08-20 12:27:43 | INFO | Fetching data for BTC/USD at 2025-08-13 00:00:00
+2025-08-20 12:27:43 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:27:44 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:27:49 | INFO | Fetching data for DAI/USD at 2025-07-15 00:00:00
+2025-08-20 12:27:49 | INFO | Fetching data for BTC/USD at 2025-08-14 00:00:00
+2025-08-20 12:27:50 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:27:50 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:27:55 | INFO | Fetching data for DAI/USD at 2025-07-16 00:00:00
+2025-08-20 12:27:55 | INFO | Fetching data for BTC/USD at 2025-08-15 00:00:00
+2025-08-20 12:27:56 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:27:57 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:28:01 | INFO | Fetching data for DAI/USD at 2025-07-17 00:00:00
+2025-08-20 12:28:02 | INFO | Fetching data for BTC/USD at 2025-08-16 00:00:00
+2025-08-20 12:28:03 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:28:03 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:28:08 | INFO | Fetching data for DAI/USD at 2025-07-18 00:00:00
+2025-08-20 12:28:08 | INFO | Fetching data for BTC/USD at 2025-08-17 00:00:00
+2025-08-20 12:28:09 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:28:10 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:28:15 | INFO | Fetching data for DAI/USD at 2025-07-19 00:00:00
+2025-08-20 12:28:15 | INFO | Fetching data for BTC/USD at 2025-08-18 00:00:00
+2025-08-20 12:28:16 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:28:16 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:28:21 | INFO | Fetching data for DAI/USD at 2025-07-20 00:00:00
+2025-08-20 12:28:21 | INFO | Fetching data for BTC/USD at 2025-08-19 00:00:00
+2025-08-20 12:28:22 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:28:23 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:28:28 | INFO | Fetching data for DAI/USD at 2025-07-21 00:00:00
+2025-08-20 12:28:28 | INFO | Fetching data for BTC/USD at 2025-08-20 00:00:00
+2025-08-20 12:28:29 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:28:29 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:28:34 | INFO | Fetching data for DAI/USD at 2025-07-22 00:00:00
+2025-08-20 12:28:35 | WARNING | No data available for BTC/USD on 2025-08-20
+2025-08-20 12:28:35 | INFO | Historical data saved to E:\KrakenBot\data\historical\BTC_USD_2025-07-21_2025-08-20.csv
+2025-08-20 12:28:35 | INFO | Downloading historical data for LINK/USD from 2025-07-21 to 2025-08-20
+2025-08-20 12:28:35 | INFO | Fetching data for LINK/USD at 2025-07-21 00:00:00
+2025-08-20 12:28:35 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:28:36 | INFO | Fetching data for LINK/USD at 2025-07-22 00:00:00
+2025-08-20 12:28:37 | INFO | Fetching data for LINK/USD at 2025-07-23 00:00:00
+2025-08-20 12:28:38 | INFO | Fetching data for LINK/USD at 2025-07-24 00:00:00
+2025-08-20 12:28:39 | INFO | Fetching data for LINK/USD at 2025-07-25 00:00:00
+2025-08-20 12:28:41 | INFO | Fetching data for DAI/USD at 2025-07-23 00:00:00
+2025-08-20 12:28:41 | INFO | Fetching data for LINK/USD at 2025-07-26 00:00:00
+2025-08-20 12:28:42 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:28:42 | INFO | Fetching data for LINK/USD at 2025-07-27 00:00:00
+2025-08-20 12:28:43 | INFO | Fetching data for LINK/USD at 2025-07-28 00:00:00
+2025-08-20 12:28:44 | INFO | Fetching data for LINK/USD at 2025-07-29 00:00:00
+2025-08-20 12:28:46 | INFO | Fetching data for LINK/USD at 2025-07-30 00:00:00
+2025-08-20 12:28:47 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:28:47 | INFO | Fetching data for DAI/USD at 2025-07-24 00:00:00
+2025-08-20 12:28:48 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:28:52 | INFO | Fetching data for LINK/USD at 2025-07-31 00:00:00
+2025-08-20 12:28:53 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:28:53 | INFO | Fetching data for DAI/USD at 2025-07-25 00:00:00
+2025-08-20 12:28:55 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:28:58 | INFO | Fetching data for LINK/USD at 2025-08-01 00:00:00
+2025-08-20 12:29:00 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:29:00 | INFO | Fetching data for DAI/USD at 2025-07-26 00:00:00
+2025-08-20 12:29:01 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:29:05 | INFO | Fetching data for LINK/USD at 2025-08-02 00:00:00
+2025-08-20 12:29:06 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:29:07 | INFO | Fetching data for DAI/USD at 2025-07-27 00:00:00
+2025-08-20 12:29:08 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:29:11 | INFO | Fetching data for LINK/USD at 2025-08-03 00:00:00
+2025-08-20 12:29:12 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:29:13 | INFO | Fetching data for DAI/USD at 2025-07-28 00:00:00
+2025-08-20 12:29:14 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:29:18 | INFO | Fetching data for LINK/USD at 2025-08-04 00:00:00
+2025-08-20 12:29:19 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:29:20 | INFO | Fetching data for DAI/USD at 2025-07-29 00:00:00
+2025-08-20 12:29:21 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:29:24 | INFO | Fetching data for LINK/USD at 2025-08-05 00:00:00
+2025-08-20 12:29:25 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:29:26 | INFO | Fetching data for DAI/USD at 2025-07-30 00:00:00
+2025-08-20 12:29:27 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:29:31 | INFO | Fetching data for LINK/USD at 2025-08-06 00:00:00
+2025-08-20 12:29:32 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:29:33 | INFO | Fetching data for DAI/USD at 2025-07-31 00:00:00
+2025-08-20 12:29:34 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:29:37 | INFO | Fetching data for LINK/USD at 2025-08-07 00:00:00
+2025-08-20 12:29:38 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:29:39 | INFO | Fetching data for DAI/USD at 2025-08-01 00:00:00
+2025-08-20 12:29:40 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:29:44 | INFO | Fetching data for LINK/USD at 2025-08-08 00:00:00
+2025-08-20 12:29:45 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:29:45 | INFO | Fetching data for DAI/USD at 2025-08-02 00:00:00
+2025-08-20 12:29:46 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:29:48 | WARNING | Approaching rate limit (15 requests). Slowing down...
+2025-08-20 12:29:50 | INFO | Fetching data for LINK/USD at 2025-08-09 00:00:00
+2025-08-20 12:29:51 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:29:52 | INFO | Fetching data for DAI/USD at 2025-08-03 00:00:00
+2025-08-20 12:29:53 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:29:57 | INFO | Fetching data for LINK/USD at 2025-08-10 00:00:00
+2025-08-20 12:29:58 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:29:58 | INFO | Fetching data for DAI/USD at 2025-08-04 00:00:00
+2025-08-20 12:29:59 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:30:00 | WARNING | Approaching rate limit (15 requests). Slowing down...
+2025-08-20 12:30:04 | INFO | Fetching data for LINK/USD at 2025-08-11 00:00:00
+2025-08-20 12:30:04 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:30:05 | INFO | Fetching data for DAI/USD at 2025-08-05 00:00:00
+2025-08-20 12:30:06 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:30:09 | INFO | Status: Running for 0h 29m 26s | Checks: 40 | Opportunities: 80 | Profitable: 0 | Positions: 0/10 | Capital: $0.00/$100.00
+2025-08-20 12:30:09 | INFO | Fetching data for LINK/USD at 2025-08-12 00:00:00
+2025-08-20 12:30:11 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:30:11 | INFO | Fetching data for DAI/USD at 2025-08-06 00:00:00
+2025-08-20 12:30:12 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:30:16 | INFO | Fetching data for LINK/USD at 2025-08-13 00:00:00
+2025-08-20 12:30:17 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:30:18 | INFO | Fetching data for DAI/USD at 2025-08-07 00:00:00
+2025-08-20 12:30:19 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:30:23 | INFO | Fetching data for LINK/USD at 2025-08-14 00:00:00
+2025-08-20 12:30:24 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:30:24 | INFO | Fetching data for DAI/USD at 2025-08-08 00:00:00
+2025-08-20 12:30:25 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:30:29 | INFO | Fetching data for LINK/USD at 2025-08-15 00:00:00
+2025-08-20 12:30:30 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:30:30 | INFO | Fetching data for DAI/USD at 2025-08-09 00:00:00
+2025-08-20 12:30:32 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:30:35 | INFO | Fetching data for LINK/USD at 2025-08-16 00:00:00
+2025-08-20 12:30:36 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:30:37 | INFO | Fetching data for DAI/USD at 2025-08-10 00:00:00
+2025-08-20 12:30:38 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:30:42 | INFO | Fetching data for LINK/USD at 2025-08-17 00:00:00
+2025-08-20 12:30:43 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:30:43 | INFO | Fetching data for DAI/USD at 2025-08-11 00:00:00
+2025-08-20 12:30:44 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:30:48 | INFO | Fetching data for LINK/USD at 2025-08-18 00:00:00
+2025-08-20 12:30:50 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:30:50 | INFO | Fetching data for DAI/USD at 2025-08-12 00:00:00
+2025-08-20 12:30:51 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:30:55 | INFO | Fetching data for LINK/USD at 2025-08-19 00:00:00
+2025-08-20 12:30:56 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:30:56 | INFO | Fetching data for DAI/USD at 2025-08-13 00:00:00
+2025-08-20 12:30:57 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:31:01 | INFO | Fetching data for LINK/USD at 2025-08-20 00:00:00
+2025-08-20 12:31:02 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:31:03 | INFO | Fetching data for DAI/USD at 2025-08-14 00:00:00
+2025-08-20 12:31:04 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:31:08 | WARNING | No data available for LINK/USD on 2025-08-20
+2025-08-20 12:31:08 | INFO | Historical data saved to E:\KrakenBot\data\historical\LINK_USD_2025-07-21_2025-08-20.csv
+2025-08-20 12:31:08 | INFO | Downloading historical data for LTC/USD from 2025-07-21 to 2025-08-20
+2025-08-20 12:31:08 | INFO | Fetching data for LTC/USD at 2025-07-21 00:00:00
+2025-08-20 12:31:09 | INFO | Fetching data for LTC/USD at 2025-07-22 00:00:00
+2025-08-20 12:31:09 | INFO | Fetching data for DAI/USD at 2025-08-15 00:00:00
+2025-08-20 12:31:10 | INFO | Fetching data for LTC/USD at 2025-07-23 00:00:00
+2025-08-20 12:31:10 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:31:11 | INFO | Fetching data for LTC/USD at 2025-07-24 00:00:00
+2025-08-20 12:31:12 | INFO | Fetching data for LTC/USD at 2025-07-25 00:00:00
+2025-08-20 12:31:14 | INFO | Fetching data for LTC/USD at 2025-07-26 00:00:00
+2025-08-20 12:31:15 | INFO | Fetching data for LTC/USD at 2025-07-27 00:00:00
+2025-08-20 12:31:16 | INFO | Fetching data for DAI/USD at 2025-08-16 00:00:00
+2025-08-20 12:31:16 | INFO | Fetching data for LTC/USD at 2025-07-28 00:00:00
+2025-08-20 12:31:17 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:31:17 | INFO | Fetching data for LTC/USD at 2025-07-29 00:00:00
+2025-08-20 12:31:18 | INFO | Fetching data for LTC/USD at 2025-07-30 00:00:00
+2025-08-20 12:31:20 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:31:23 | INFO | Fetching data for DAI/USD at 2025-08-17 00:00:00
+2025-08-20 12:31:23 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:31:25 | INFO | Fetching data for LTC/USD at 2025-07-31 00:00:00
+2025-08-20 12:31:26 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:31:29 | INFO | Fetching data for DAI/USD at 2025-08-18 00:00:00
+2025-08-20 12:31:30 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:31:31 | INFO | Fetching data for LTC/USD at 2025-08-01 00:00:00
+2025-08-20 12:31:32 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:31:35 | INFO | Fetching data for DAI/USD at 2025-08-19 00:00:00
+2025-08-20 12:31:37 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:31:38 | INFO | Fetching data for LTC/USD at 2025-08-02 00:00:00
+2025-08-20 12:31:39 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:31:39 | INFO | Successfully connected to kraken
+2025-08-20 12:31:39 | INFO | Arbitrage calculator initialized with:
+2025-08-20 12:31:39 | INFO |   Start amount: $100.00
+2025-08-20 12:31:39 | INFO |   Min profit percentage: 1.50%
+2025-08-20 12:31:39 | INFO |   Breakeven threshold: ~1.50%
+2025-08-20 12:31:39 | INFO |   Fee factor per trade: 0.995000
+2025-08-20 12:31:39 | INFO |   Trading pairs: BTC/CAD, ETH/CAD, ETH/BTC
+2025-08-20 12:31:42 | INFO | Fetching data for DAI/USD at 2025-08-20 00:00:00
+2025-08-20 12:31:43 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:31:44 | INFO | Fetching data for LTC/USD at 2025-08-03 00:00:00
+2025-08-20 12:31:45 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:31:48 | WARNING | No data available for DAI/USD on 2025-08-20
+2025-08-20 12:31:48 | INFO | Historical data saved to E:\KrakenBot\data\historical\DAI_USD_2025-05-22_2025-08-20.csv
+2025-08-20 12:31:48 | INFO | Downloading historical data for XRP/ETH from 2025-05-22 to 2025-08-20
+2025-08-20 12:31:48 | INFO | Fetching data for XRP/ETH at 2025-05-22 00:00:00
+2025-08-20 12:31:49 | INFO | Fetching data for XRP/ETH at 2025-05-23 00:00:00
+2025-08-20 12:31:51 | INFO | Fetching data for LTC/USD at 2025-08-04 00:00:00
+2025-08-20 12:31:51 | INFO | Fetching data for XRP/ETH at 2025-05-24 00:00:00
+2025-08-20 12:31:52 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:31:52 | INFO | Fetching data for XRP/ETH at 2025-05-25 00:00:00
+2025-08-20 12:31:53 | INFO | Fetching data for XRP/ETH at 2025-05-26 00:00:00
+2025-08-20 12:31:54 | INFO | Fetching data for XRP/ETH at 2025-05-27 00:00:00
+2025-08-20 12:31:55 | INFO | Fetching data for XRP/ETH at 2025-05-28 00:00:00
+2025-08-20 12:31:57 | INFO | Fetching data for XRP/ETH at 2025-05-29 00:00:00
+2025-08-20 12:31:57 | INFO | Fetching data for LTC/USD at 2025-08-05 00:00:00
+2025-08-20 12:31:58 | INFO | Fetching data for XRP/ETH at 2025-05-30 00:00:00
+2025-08-20 12:31:58 | WARNING | Network error, retrying in 5 seconds (attempt 1/3): kraken {"error":["EGeneral:Too many requests"]}
+2025-08-20 12:31:59 | INFO | Fetching data for XRP/ETH at 2025-05-31 00:00:00
+2025-08-20 12:32:13 | INFO | Successfully connected to kraken
+2025-08-20 12:32:13 | INFO | Arbitrage calculator initialized with:
+2025-08-20 12:32:13 | INFO |   Start amount: $100.00
+2025-08-20 12:32:13 | INFO |   Min profit percentage: 1.50%
+2025-08-20 12:32:13 | INFO |   Breakeven threshold: ~1.50%
+2025-08-20 12:32:13 | INFO |   Fee factor per trade: 0.995000
+2025-08-20 12:32:13 | INFO |   Trading pairs: BTC/CAD, ETH/CAD, ETH/BTC
+2025-08-20 12:32:34 | INFO | Successfully connected to kraken
+2025-08-20 12:32:34 | INFO | Arbitrage calculator initialized with:
+2025-08-20 12:32:34 | INFO |   Start amount: $100.00
+2025-08-20 12:32:34 | INFO |   Min profit percentage: 1.50%
+2025-08-20 12:32:34 | INFO |   Breakeven threshold: ~1.50%
+2025-08-20 12:32:34 | INFO |   Fee factor per trade: 0.995000
+2025-08-20 12:32:34 | INFO |   Trading pairs: BTC/CAD, ETH/CAD, ETH/BTC
