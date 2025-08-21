@@ -1,0 +1,14 @@
+[
+  {
+    "timestamp": "2025-08-20T15:33:14.177765",
+    "pair": "ETH/CAD",
+    "side": "buy",
+    "amount": 0.00416533375986351,
+    "price": 6001.92,
+    "cost": 25.0,
+    "fee": 0.1,
+    "portfolio_value_before": 100.0,
+    "portfolio_value_after": 99.88825375879719,
+    "reason": "Price: $6001.92, High: $6053.49 (-0.9%), Low: $6001.92 (0.0%), SMA: $6033.16"
+  }
+]

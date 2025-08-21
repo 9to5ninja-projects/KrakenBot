@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2025-08-20T23:33:18.796267",
+    "step": 1,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.036"
+    ]
+  },
+  {
+    "timestamp": "2025-08-20T23:33:57.427518",
+    "step": 2,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.036"
+    ]
+  }
+]

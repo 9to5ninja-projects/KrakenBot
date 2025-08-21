@@ -68,12 +68,12 @@ class SimplePairTrader:
             realized_pnl=0.0
         ) for pair in self.pairs}
         
-        # Trading parameters
-        self.min_trade_amount = 25.0  # Minimum CAD amount per trade
-        self.max_position_size = 0.3  # Maximum 30% of portfolio per position
-        self.buy_threshold = -0.02  # Buy when price drops 2% from recent high
-        self.sell_threshold = 0.03   # Sell when price rises 3% from recent low
-        self.lookback_periods = 20   # Number of periods to look back for high/low
+        # Trading parameters (from config)
+        self.min_trade_amount = config.MIN_TRADE_AMOUNT
+        self.max_position_size = config.MAX_POSITION_SIZE
+        self.buy_threshold = config.BUY_THRESHOLD
+        self.sell_threshold = config.SELL_THRESHOLD
+        self.lookback_periods = config.LOOKBACK_PERIODS
         
         # Fee structure
         self.maker_fee = config.MAKER_FEE

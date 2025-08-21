@@ -1,0 +1,104 @@
+{
+  "analysis_timestamp": "2025-08-20T15:40:22.462388",
+  "session_analysis": {
+    "sessions_analyzed": [
+      {
+        "name": "live_session_2025-08-20_13-17",
+        "data_points": 28,
+        "duration_hours": 2.338009306388889,
+        "final_value": 99.90833066751973,
+        "total_return": -0.0916693324802651,
+        "trades_executed": 1,
+        "max_drawdown": 0.0916693324802651,
+        "volatility": 0.017323875471005515
+      },
+      {
+        "name": "optimized_session_2025-08-20_14-33",
+        "data_points": 60,
+        "duration_hours": 1.0619745452777778,
+        "final_value": 99.87387065474815,
+        "total_return": -0.12612934525185437,
+        "trades_executed": 1,
+        "max_drawdown": 0.13940205406609607,
+        "volatility": 0.0388594685926782
+      },
+      {
+        "name": "simple_pair_monitor_2025-08-20_13-01",
+        "data_points": 9,
+        "duration_hours": 0.07516403944444446,
+        "final_value": 100.0,
+        "total_return": 0.0,
+        "trades_executed": 0,
+        "max_drawdown": 0,
+        "volatility": 0.0
+      }
+    ],
+    "baseline_performance": {
+      "name": "simple_pair_monitor_2025-08-20_13-01",
+      "data_points": 9,
+      "duration_hours": 0.07516403944444446,
+      "final_value": 100.0,
+      "total_return": 0.0,
+      "trades_executed": 0,
+      "max_drawdown": 0,
+      "volatility": 0.0
+    },
+    "optimized_performance": {
+      "name": "optimized_session_2025-08-20_14-33",
+      "data_points": 60,
+      "duration_hours": 1.0619745452777778,
+      "final_value": 99.87387065474815,
+      "total_return": -0.12612934525185437,
+      "trades_executed": 1,
+      "max_drawdown": 0.13940205406609607,
+      "volatility": 0.0388594685926782
+    },
+    "comparison": {
+      "return_improvement": -0.12612934525185437,
+      "trade_improvement": 1
+    },
+    "recommendations": [
+      "Implement trailing stop-loss at 0.2-0.3% below entry",
+      "Add take-profit levels at 0.4-0.6% above entry",
+      "Implement position sizing based on volatility",
+      "Add maximum position hold time (30-60 minutes)",
+      "Implement dynamic threshold adjustment based on market volatility",
+      "Add real-time volatility-based threshold adjustment",
+      "Implement momentum indicators for entry timing",
+      "Add volume analysis for trade validation",
+      "Consider multiple timeframe analysis",
+      "Add correlation analysis between pairs"
+    ]
+  },
+  "recommendations": [
+    "Implement trailing stop-loss at 0.2-0.3% below entry",
+    "Add take-profit levels at 0.4-0.6% above entry",
+    "Implement position sizing based on volatility",
+    "Add maximum position hold time (30-60 minutes)",
+    "Implement dynamic threshold adjustment based on market volatility",
+    "Add real-time volatility-based threshold adjustment",
+    "Implement momentum indicators for entry timing",
+    "Add volume analysis for trade validation",
+    "Consider multiple timeframe analysis",
+    "Add correlation analysis between pairs"
+  ],
+  "aggressive_parameters": {
+    "BUY_THRESHOLD": -0.003,
+    "SELL_THRESHOLD": 0.005,
+    "LOOKBACK_PERIODS": 5,
+    "MIN_TRADE_AMOUNT": 25.0,
+    "MAX_POSITION_SIZE": 0.2,
+    "STOP_LOSS_PCT": 0.002,
+    "TAKE_PROFIT_PCT": 0.006,
+    "MAX_HOLD_TIME": 1800,
+    "TRAILING_STOP": true,
+    "DYNAMIC_THRESHOLDS": true
+  },
+  "next_steps": [
+    "Test aggressive configuration with 30-minute session",
+    "Monitor trade execution frequency",
+    "Validate stop-loss and take-profit mechanisms",
+    "Analyze risk-adjusted returns",
+    "Iterate based on results"
+  ]
+}

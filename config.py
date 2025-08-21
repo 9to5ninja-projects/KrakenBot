@@ -45,6 +45,13 @@ BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / 'data'
 LOG_DIR = BASE_DIR / 'logs'
 
+# Simple Pair Trading Parameters
+BUY_THRESHOLD = float(os.getenv('BUY_THRESHOLD', -0.003))  # Buy when price drops 0.3% from recent high
+SELL_THRESHOLD = float(os.getenv('SELL_THRESHOLD', 0.005))  # Sell when price rises 0.5% from recent low
+LOOKBACK_PERIODS = int(os.getenv('LOOKBACK_PERIODS', 5))  # Number of periods to look back for high/low
+MIN_TRADE_AMOUNT = float(os.getenv('MIN_TRADE_AMOUNT', 25.0))  # Minimum CAD amount per trade
+MAX_POSITION_SIZE = float(os.getenv('MAX_POSITION_SIZE', 0.2))  # Maximum 20% of portfolio per position
+
 # Create directories if they don't exist
 DATA_DIR.mkdir(exist_ok=True)
 LOG_DIR.mkdir(exist_ok=True)
@@ -103,6 +110,13 @@ def validate_config():
         print(f"WARNING: Minimum position size ({min_position_size:.2f}) is very small. Consider increasing POSITION_SIZE_PCT.")
     
     return True
+
+# Advanced Risk Management Parameters
+STOP_LOSS_PCT = float(os.getenv('STOP_LOSS_PCT', 0.002))  # 0.2% stop loss
+TAKE_PROFIT_PCT = float(os.getenv('TAKE_PROFIT_PCT', 0.006))  # 0.6% take profit
+MAX_HOLD_TIME = int(os.getenv('MAX_HOLD_TIME', 1800))  # 30 minutes max hold time
+TRAILING_STOP = os.getenv('TRAILING_STOP', 'True').lower() == 'true'  # Enable trailing stop
+DYNAMIC_THRESHOLDS = os.getenv('DYNAMIC_THRESHOLDS', 'True').lower() == 'true'  # Enable dynamic thresholds
 
 # Validate configuration when module is imported
 validate_config()

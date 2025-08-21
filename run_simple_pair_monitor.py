@@ -17,13 +17,14 @@ import config
 class SimplePairMonitor:
     """Monitor for simple pair trading strategy."""
     
-    def __init__(self, duration_hours: float = 24, check_interval: int = 60):
+    def __init__(self, duration_hours: float = 24, check_interval: int = 60, session_name: str = None):
         """
         Initialize the monitor.
         
         Args:
             duration_hours: How long to run the monitor (default: 24 hours)
             check_interval: Seconds between checks (default: 60 seconds)
+            session_name: Custom session name (optional)
         """
         self.duration_hours = duration_hours
         self.check_interval = check_interval
@@ -36,8 +37,11 @@ class SimplePairMonitor:
         signal.signal(signal.SIGTERM, self._signal_handler)
         
         # Create data directory
-        timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M")
-        self.data_dir = Path("data") / f"simple_pair_monitor_{timestamp}"
+        if session_name:
+            self.data_dir = Path("data") / session_name
+        else:
+            timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M")
+            self.data_dir = Path("data") / f"simple_pair_monitor_{timestamp}"
         self.data_dir.mkdir(parents=True, exist_ok=True)
         
         logger.info(f"Simple pair monitor initialized:")
@@ -236,6 +240,8 @@ def main():
                        help='Check interval in seconds (default: 60)')
     parser.add_argument('--test', action='store_true', 
                        help='Run a short test (5 minutes)')
+    parser.add_argument('--session-name', type=str, default=None,
+                       help='Custom session name for data directory')
     
     args = parser.parse_args()
     
@@ -247,7 +253,7 @@ def main():
         duration = args.duration
         interval = args.interval
     
-    monitor = SimplePairMonitor(duration_hours=duration, check_interval=interval)
+    monitor = SimplePairMonitor(duration_hours=duration, check_interval=interval, session_name=args.session_name)
     monitor.run()
 
 if __name__ == "__main__":

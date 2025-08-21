@@ -1,0 +1,43 @@
+{
+  "optimized_parameters": {
+    "buy_threshold": -0.0056,
+    "sell_threshold": 0.009600000000000001,
+    "lookback_periods": 8,
+    "min_trade_amount": 25.0,
+    "max_position_size": 0.3,
+    "maker_fee": 0.0025,
+    "taker_fee": 0.004
+  },
+  "applied_changes": [
+    {
+      "parameter": "buy_threshold",
+      "old_value": -0.008,
+      "new_value": -0.0064,
+      "change_percent": -20,
+      "rationale": "Reduce buy threshold to capture more opportunities"
+    },
+    {
+      "parameter": "sell_threshold",
+      "old_value": 0.012,
+      "new_value": 0.009600000000000001,
+      "change_percent": -20,
+      "rationale": "Reduce sell threshold to capture more opportunities"
+    },
+    {
+      "parameter": "buy_threshold",
+      "old_value": -0.008,
+      "new_value": -0.0056,
+      "change_percent": -30,
+      "rationale": "More aggressive buy threshold to increase trading frequency"
+    }
+  ],
+  "optimization_summary": {
+    "total_recommendations": 4,
+    "applied_changes": 3,
+    "expected_improvements": [
+      "Reduce buy threshold to capture more opportunities",
+      "Reduce sell threshold to capture more opportunities",
+      "More aggressive buy threshold to increase trading frequency"
+    ]
+  }
+}
