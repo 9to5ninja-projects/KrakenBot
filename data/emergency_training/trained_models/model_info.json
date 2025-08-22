@@ -1,0 +1,28 @@
+{
+  "training_date": "2025-08-21T18:53:18.123509",
+  "training_samples": 53158,
+  "test_samples": 13290,
+  "classifier_accuracy": 0.6769751693002257,
+  "regressor_r2": 0.17357297816234496,
+  "feature_columns": [
+    "close",
+    "volume",
+    "rsi",
+    "macd",
+    "macd_signal",
+    "macd_histogram",
+    "bb_upper",
+    "bb_middle",
+    "bb_lower",
+    "bb_position",
+    "stoch_k",
+    "stoch_d",
+    "williams_r",
+    "cci",
+    "atr",
+    "price_change",
+    "price_momentum",
+    "volume_ratio",
+    "volatility"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "initial_capital": 1000.0,
+  "max_daily_loss": 0.03,
+  "max_position_risk": 0.12,
+  "emergency_stop_loss": 0.15,
+  "daily_trade_limit": 40,
+  "min_confidence": 65.0,
+  "min_expected_return": 0.0003,
+  "check_interval": 45,
+  "min_trade_amount": 30.0,
+  "max_runtime_hours": 72,
+  "health_check_interval": 300,
+  "auto_restart_on_error": true,
+  "max_consecutive_errors": 3,
+  "trading_pairs": [
+    "ETH/CAD",
+    "BTC/CAD",
+    "SOL/CAD",
+    "XRP/CAD"
+  ],
+  "keep_session_data": true,
+  "backup_interval": 3600
+}
