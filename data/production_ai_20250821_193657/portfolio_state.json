@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-08-21T19:56:25.182086",
-  "session_name": "production_ai_20250821_194628",
+  "timestamp": "2025-08-21T19:37:51.364971",
+  "session_name": "production_ai_20250821_193657",
   "initial_capital": 1000.0,
   "current_capital": 1000.0,
   "total_return": 0.0,
   "positions": {},
   "total_trades": 0,
   "daily_trades": 0,
-  "session_runtime_hours": 0.16603309555555557,
+  "session_runtime_hours": 0.015329930555555557,
   "consecutive_errors": 0
 }

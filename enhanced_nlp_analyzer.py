@@ -141,8 +141,8 @@ class EnhancedNLPAnalyzer:
         end_time = datetime.fromisoformat(portfolio_history[-1]['timestamp'].replace('Z', '+00:00'))
         duration = end_time - start_time
         
-        initial_value = portfolio_history[0]['portfolio_value']
-        final_value = portfolio_history[-1]['portfolio_value']
+        initial_value = portfolio_history[0].get('portfolio_value', portfolio_history[0].get('total_value', 1000))
+        final_value = portfolio_history[-1].get('portfolio_value', portfolio_history[-1].get('total_value', 1000))
         total_return = ((final_value - initial_value) / initial_value) * 100
         
         num_trades = len(trades)
@@ -197,8 +197,8 @@ class EnhancedNLPAnalyzer:
             )
         
         # Calculate metrics
-        initial_value = portfolio_history[0]['portfolio_value']
-        final_value = portfolio_history[-1]['portfolio_value']
+        initial_value = portfolio_history[0].get('portfolio_value', portfolio_history[0].get('total_value', 1000))
+        final_value = portfolio_history[-1].get('portfolio_value', portfolio_history[-1].get('total_value', 1000))
         total_return = ((final_value - initial_value) / initial_value) * 100
         
         # Calculate win rate and average profit
@@ -215,7 +215,7 @@ class EnhancedNLPAnalyzer:
         avg_profit_per_trade = total_profit / len(trades) if trades else 0
         
         # Calculate maximum drawdown
-        portfolio_values = [p['portfolio_value'] for p in portfolio_history]
+        portfolio_values = [p.get('portfolio_value', p.get('total_value', 1000)) for p in portfolio_history]
         peak = portfolio_values[0]
         max_drawdown = 0
         
@@ -308,7 +308,7 @@ class EnhancedNLPAnalyzer:
             return patterns
         
         # Analyze price movements
-        portfolio_values = [p['portfolio_value'] for p in portfolio_history]
+        portfolio_values = [p.get('portfolio_value', p.get('total_value', 1000)) for p in portfolio_history]
         
         # Detect trends
         if len(portfolio_values) > 5:
@@ -370,7 +370,7 @@ class EnhancedNLPAnalyzer:
         
         # Analyze recent performance
         if len(portfolio_history) > 10:
-            recent_values = [p['portfolio_value'] for p in portfolio_history[-10:]]
+            recent_values = [p.get('portfolio_value', p.get('total_value', 1000)) for p in portfolio_history[-10:]]
             recent_change = (recent_values[-1] - recent_values[0]) / recent_values[0] * 100
             
             if recent_change > 1:
@@ -466,7 +466,7 @@ class EnhancedNLPAnalyzer:
         mitigation_strategies = []
         
         # Analyze portfolio volatility
-        portfolio_values = [p['portfolio_value'] for p in portfolio_history]
+        portfolio_values = [p.get('portfolio_value', p.get('total_value', 1000)) for p in portfolio_history]
         if len(portfolio_values) > 3:
             returns = [(portfolio_values[i] - portfolio_values[i-1]) / portfolio_values[i-1] 
                       for i in range(1, len(portfolio_values))]
@@ -544,8 +544,8 @@ class EnhancedNLPAnalyzer:
             return ["Execute trades to generate data for strategic analysis"]
         
         # Performance-based recommendations
-        initial_value = portfolio_history[0]['portfolio_value']
-        final_value = portfolio_history[-1]['portfolio_value']
+        initial_value = portfolio_history[0].get('portfolio_value', portfolio_history[0].get('total_value', 1000))
+        final_value = portfolio_history[-1].get('portfolio_value', portfolio_history[-1].get('total_value', 1000))
         total_return = ((final_value - initial_value) / initial_value) * 100
         
         if total_return > 2:
@@ -565,7 +565,7 @@ class EnhancedNLPAnalyzer:
                 recommendations.append("Low trading frequency - consider more aggressive thresholds or additional trading pairs")
         
         # Risk management recommendations
-        portfolio_values = [p['portfolio_value'] for p in portfolio_history]
+        portfolio_values = [p.get('portfolio_value', p.get('total_value', 1000)) for p in portfolio_history]
         if len(portfolio_values) > 3:
             returns = [(portfolio_values[i] - portfolio_values[i-1]) / portfolio_values[i-1] 
                       for i in range(1, len(portfolio_values))]
@@ -592,8 +592,8 @@ class EnhancedNLPAnalyzer:
             return ["No trading data available for insight generation"]
         
         # Performance insights
-        initial_value = portfolio_history[0]['portfolio_value']
-        final_value = portfolio_history[-1]['portfolio_value']
+        initial_value = portfolio_history[0].get('portfolio_value', portfolio_history[0].get('total_value', 1000))
+        final_value = portfolio_history[-1].get('portfolio_value', portfolio_history[-1].get('total_value', 1000))
         total_return = ((final_value - initial_value) / initial_value) * 100
         
         insights.append(f"Portfolio {'gained' if total_return > 0 else 'lost'} {abs(total_return):.3f}% during this session")
@@ -613,7 +613,7 @@ class EnhancedNLPAnalyzer:
         
         # Market condition insights
         if len(portfolio_history) > 10:
-            recent_volatility = np.std([p['portfolio_value'] for p in portfolio_history[-10:]])
+            recent_volatility = np.std([p.get('portfolio_value', p.get('total_value', 1000)) for p in portfolio_history[-10:]])
             if recent_volatility > 1:
                 insights.append("High recent volatility suggests active market conditions")
             else:
@@ -641,8 +641,8 @@ class EnhancedNLPAnalyzer:
                              f"from {start_time.strftime('%H:%M')} to {end_time.strftime('%H:%M')}.")
         
         # Performance narrative
-        initial_value = portfolio_history[0]['portfolio_value']
-        final_value = portfolio_history[-1]['portfolio_value']
+        initial_value = portfolio_history[0].get('portfolio_value', portfolio_history[0].get('total_value', 1000))
+        final_value = portfolio_history[-1].get('portfolio_value', portfolio_history[-1].get('total_value', 1000))
         total_return = ((final_value - initial_value) / initial_value) * 100
         
         if total_return > 1:
@@ -675,7 +675,7 @@ class EnhancedNLPAnalyzer:
                                  "or overly conservative trading parameters.")
         
         # Risk and volatility narrative
-        portfolio_values = [p['portfolio_value'] for p in portfolio_history]
+        portfolio_values = [p.get('portfolio_value', p.get('total_value', 1000)) for p in portfolio_history]
         if len(portfolio_values) > 3:
             returns = [(portfolio_values[i] - portfolio_values[i-1]) / portfolio_values[i-1] 
                       for i in range(1, len(portfolio_values))]

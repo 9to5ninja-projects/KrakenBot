@@ -1,0 +1,4 @@
+2025-08-21 00:58:39,643 - high_frequency_execution_engine - INFO - Starting High-Frequency Trading Session: hf_session_20250821_005839
+2025-08-21 00:58:39,643 - high_frequency_execution_engine - INFO - Duration: 0.08333333333333333 hours
+2025-08-21 00:58:39,643 - high_frequency_execution_engine - INFO - Pairs: ['ETH/CAD', 'BTC/CAD', 'SOL/CAD', 'XRP/CAD']
+2025-08-21 00:58:39,644 - high_frequency_execution_engine - INFO - Analysis Interval: 10s

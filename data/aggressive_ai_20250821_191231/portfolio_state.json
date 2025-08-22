@@ -1,0 +1,29 @@
+{
+  "timestamp": "2025-08-21T19:32:58.631546",
+  "initial_capital": 1000.0,
+  "current_capital": 64.28888932339942,
+  "total_return": -0.9357111106766006,
+  "positions": {
+    "ETH/CAD": {
+      "quantity": 0.05900142531185251,
+      "avg_price": 5877.52,
+      "total_cost": 346.7820572989194
+    },
+    "BTC/CAD": {
+      "quantity": 0.0016855591355548199,
+      "avg_price": 156360.2,
+      "total_cost": 263.55436354717875
+    },
+    "SOL/CAD": {
+      "quantity": 0.7376879727793784,
+      "avg_price": 250.60999999999996,
+      "total_cost": 184.87198285824
+    },
+    "XRP/CAD": {
+      "quantity": 35.51276589128056,
+      "avg_price": 3.9563999999999995,
+      "total_cost": 140.5027069722624
+    }
+  },
+  "total_trades": 10
+}

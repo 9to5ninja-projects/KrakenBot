@@ -1,0 +1,218 @@
+[
+  {
+    "timestamp": "2025-08-21T02:25:51.388270",
+    "pair": "ETH/CAD",
+    "sentiment": "bullish",
+    "confidence": 0.64,
+    "technical_score": 0.7,
+    "ai_recommendation": "hold",
+    "expected_profit": 2.34,
+    "risk_score": 0.54,
+    "model_used": "mistral:7b-instruct-q4_k_m",
+    "analysis_time_seconds": 9.8,
+    "indicators": {
+      "rsi": 31.6,
+      "macd": 0.214,
+      "bb_position": 0.39,
+      "volume_ratio": 0.86
+    }
+  },
+  {
+    "timestamp": "2025-08-21T02:25:51.388270",
+    "pair": "BTC/CAD",
+    "sentiment": "bullish",
+    "confidence": 0.88,
+    "technical_score": 0.48,
+    "ai_recommendation": "hold",
+    "expected_profit": 1.27,
+    "risk_score": 0.54,
+    "model_used": "mistral:7b-instruct-q4_k_m",
+    "analysis_time_seconds": 8.8,
+    "indicators": {
+      "rsi": 62.5,
+      "macd": 0.048,
+      "bb_position": 0.38,
+      "volume_ratio": 1.02
+    }
+  },
+  {
+    "timestamp": "2025-08-21T02:25:51.388270",
+    "pair": "SOL/CAD",
+    "sentiment": "bullish",
+    "confidence": 0.71,
+    "technical_score": 0.68,
+    "ai_recommendation": "buy",
+    "expected_profit": 2.41,
+    "risk_score": 0.31,
+    "model_used": "mistral:7b-instruct-q4_k_m",
+    "analysis_time_seconds": 13.3,
+    "indicators": {
+      "rsi": 58.2,
+      "macd": 0.363,
+      "bb_position": 0.75,
+      "volume_ratio": 1.01
+    }
+  },
+  {
+    "timestamp": "2025-08-21T02:25:51.388270",
+    "pair": "XRP/CAD",
+    "sentiment": "bearish",
+    "confidence": 0.72,
+    "technical_score": 0.68,
+    "ai_recommendation": "buy",
+    "expected_profit": 1.84,
+    "risk_score": 0.43,
+    "model_used": "mistral:7b-instruct-q4_k_m",
+    "analysis_time_seconds": 14.2,
+    "indicators": {
+      "rsi": 34.4,
+      "macd": -0.291,
+      "bb_position": 0.72,
+      "volume_ratio": 1.23
+    }
+  },
+  {
+    "timestamp": "2025-08-21T01:55:51.388270",
+    "pair": "ETH/CAD",
+    "sentiment": "bullish",
+    "confidence": 0.7,
+    "technical_score": 0.71,
+    "ai_recommendation": "buy",
+    "expected_profit": 1.78,
+    "risk_score": 0.25,
+    "model_used": "mistral:7b-instruct-q4_k_m",
+    "analysis_time_seconds": 11.1,
+    "indicators": {
+      "rsi": 41.9,
+      "macd": 0.014,
+      "bb_position": 0.22,
+      "volume_ratio": 1.34
+    }
+  },
+  {
+    "timestamp": "2025-08-21T01:55:51.388270",
+    "pair": "BTC/CAD",
+    "sentiment": "bearish",
+    "confidence": 0.6,
+    "technical_score": 0.75,
+    "ai_recommendation": "buy",
+    "expected_profit": 1.72,
+    "risk_score": 0.53,
+    "model_used": "mistral:7b-instruct-q4_k_m",
+    "analysis_time_seconds": 11.9,
+    "indicators": {
+      "rsi": 31.6,
+      "macd": -0.046,
+      "bb_position": 0.28,
+      "volume_ratio": 1.21
+    }
+  },
+  {
+    "timestamp": "2025-08-21T01:55:51.388270",
+    "pair": "SOL/CAD",
+    "sentiment": "bearish",
+    "confidence": 0.72,
+    "technical_score": 0.47,
+    "ai_recommendation": "buy",
+    "expected_profit": 0.94,
+    "risk_score": 0.53,
+    "model_used": "mistral:7b-instruct-q4_k_m",
+    "analysis_time_seconds": 11.2,
+    "indicators": {
+      "rsi": 53.2,
+      "macd": -0.345,
+      "bb_position": 0.66,
+      "volume_ratio": 1.09
+    }
+  },
+  {
+    "timestamp": "2025-08-21T01:55:51.388270",
+    "pair": "XRP/CAD",
+    "sentiment": "bearish",
+    "confidence": 0.86,
+    "technical_score": 0.63,
+    "ai_recommendation": "hold",
+    "expected_profit": 1.7,
+    "risk_score": 0.22,
+    "model_used": "mistral:7b-instruct-q4_k_m",
+    "analysis_time_seconds": 14.6,
+    "indicators": {
+      "rsi": 55.2,
+      "macd": -0.342,
+      "bb_position": 0.75,
+      "volume_ratio": 1.4
+    }
+  },
+  {
+    "timestamp": "2025-08-21T01:25:51.388270",
+    "pair": "ETH/CAD",
+    "sentiment": "bullish",
+    "confidence": 0.85,
+    "technical_score": 0.49,
+    "ai_recommendation": "buy",
+    "expected_profit": 2.25,
+    "risk_score": 0.41,
+    "model_used": "mistral:7b-instruct-q4_k_m",
+    "analysis_time_seconds": 10.2,
+    "indicators": {
+      "rsi": 30.9,
+      "macd": -0.224,
+      "bb_position": 0.56,
+      "volume_ratio": 1.2
+    }
+  },
+  {
+    "timestamp": "2025-08-21T01:25:51.388270",
+    "pair": "BTC/CAD",
+    "sentiment": "bullish",
+    "confidence": 0.69,
+    "technical_score": 0.45,
+    "ai_recommendation": "buy",
+    "expected_profit": 1.52,
+    "risk_score": 0.4,
+    "model_used": "mistral:7b-instruct-q4_k_m",
+    "analysis_time_seconds": 10.2,
+    "indicators": {
+      "rsi": 37.9,
+      "macd": 0.092,
+      "bb_position": 0.42,
+      "volume_ratio": 0.83
+    }
+  },
+  {
+    "timestamp": "2025-08-21T01:25:51.388270",
+    "pair": "SOL/CAD",
+    "sentiment": "bullish",
+    "confidence": 0.88,
+    "technical_score": 0.43,
+    "ai_recommendation": "sell",
+    "expected_profit": 0.73,
+    "risk_score": 0.4,
+    "model_used": "mistral:7b-instruct-q4_k_m",
+    "analysis_time_seconds": 8.9,
+    "indicators": {
+      "rsi": 48.3,
+      "macd": 0.01,
+      "bb_position": 0.39,
+      "volume_ratio": 1.32
+    }
+  },
+  {
+    "timestamp": "2025-08-21T01:25:51.388270",
+    "pair": "XRP/CAD",
+    "sentiment": "bullish",
+    "confidence": 0.74,
+    "technical_score": 0.72,
+    "ai_recommendation": "sell",
+    "expected_profit": 2.31,
+    "risk_score": 0.21,
+    "model_used": "mistral:7b-instruct-q4_k_m",
+    "analysis_time_seconds": 11.0,
+    "indicators": {
+      "rsi": 53.9,
+      "macd": 0.165,
+      "bb_position": 0.58,
+      "volume_ratio": 1.31
+    }
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "session_start": "2025-08-21T02:25:51.393444",
+  "total_trades": 5,
+  "winning_trades": 4,
+  "losing_trades": 1,
+  "win_rate": 80.0,
+  "total_profit": 6.4,
+  "average_profit": 1.28,
+  "largest_win": 2.97,
+  "largest_loss": -0.41,
+  "profit_factor": 2.1,
+  "sharpe_ratio": 1.8,
+  "max_drawdown": -15.5,
+  "current_portfolio_value": 1006.4,
+  "daily_return_pct": 0.64
+}

@@ -1,0 +1,14 @@
+2025-08-21 14:27:30.542 | INFO     | exchange:_initialize_exchange:48 - Successfully connected to kraken
+2025-08-21 14:27:36.493 | INFO     | __main__:start:55 - Health monitor started
+2025-08-21 14:27:38.723 | WARNING  | __main__:_check_alerts:238 - Health alert: Check interval drift: -51.820054 seconds
+2025-08-21 14:32:51.674 | WARNING  | __main__:_check_alerts:238 - Health alert: Check interval drift: 5.872159999999994 seconds
+2025-08-21 14:33:55.937 | WARNING  | __main__:_check_alerts:238 - Health alert: Check interval drift: 6.771028999999999 seconds
+2025-08-21 14:35:00.219 | WARNING  | __main__:_check_alerts:238 - Health alert: Check interval drift: 6.561415999999994 seconds
+2025-08-21 14:39:09.757 | WARNING  | __main__:_check_alerts:238 - Health alert: Check interval drift: 5.030798000000004 seconds
+2025-08-21 14:40:12.326 | WARNING  | __main__:_check_alerts:238 - Health alert: Check interval drift: 5.216375999999997 seconds
+2025-08-21 14:41:14.360 | WARNING  | exchange:_rate_limit:69 - Approaching rate limit (15 requests). Slowing down...
+2025-08-21 14:41:19.656 | WARNING  | __main__:_check_alerts:238 - Health alert: High API latency: 5294.55 ms
+2025-08-21 14:41:19.656 | WARNING  | __main__:_check_alerts:238 - Health alert: Check interval drift: 9.886617000000001 seconds
+2025-08-21 14:42:21.985 | WARNING  | __main__:_check_alerts:238 - Health alert: Check interval drift: 9.653081 seconds
+2025-08-21 14:46:31.670 | WARNING  | __main__:_check_alerts:238 - Health alert: Check interval drift: 5.043673999999996 seconds
+2025-08-21 14:47:36.009 | WARNING  | __main__:_check_alerts:238 - Health alert: Check interval drift: 6.976077000000004 seconds

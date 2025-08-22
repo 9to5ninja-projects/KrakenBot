@@ -1,0 +1,2342 @@
+[
+  {
+    "timestamp": "2025-08-21T19:12:32.521351",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 78.70667871669761,
+    "expected_return": 0.00017715828497969638,
+    "price": 5877.52,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:12:33.669368",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 87.65336007133956,
+    "expected_return": 0.00017715828497969643,
+    "price": 156360.2,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:12:34.808311",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 76.52369242644232,
+    "expected_return": 0.00017715828497969635,
+    "price": 250.61,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:12:36.245923",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 67.43503359415155,
+    "expected_return": 0.00017715828497969643,
+    "price": 3.9564,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:12:51.624886",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 78.70667871669761,
+    "expected_return": 0.00017715828497969638,
+    "price": 5877.52,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:12:53.186094",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 87.65336007133959,
+    "expected_return": 0.00017715828497969646,
+    "price": 156360.2,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:12:54.120841",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 76.52369242644232,
+    "expected_return": 0.00017715828497969638,
+    "price": 250.61,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:12:55.315249",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 67.43503359415156,
+    "expected_return": 0.00017715828497969643,
+    "price": 3.9564,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:13:10.842604",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 78.70667871669761,
+    "expected_return": 0.00017715828497969638,
+    "price": 5877.52,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:13:11.910767",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 87.65336007133952,
+    "expected_return": 0.00017715828497969635,
+    "price": 156360.2,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:13:13.104728",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 76.52369242644235,
+    "expected_return": 0.00017715828497969638,
+    "price": 250.61,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:13:14.297110",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 67.5241304800059,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.96129,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:13:29.739764",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.74055313722141,
+    "expected_return": 0.00017715828497969638,
+    "price": 5882.41,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:13:31.002163",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 87.65336007133956,
+    "expected_return": 0.00017715828497969638,
+    "price": 156360.2,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:13:32.098734",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 76.52369242644232,
+    "expected_return": 0.00017715828497969638,
+    "price": 250.61,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:13:33.324494",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 67.5241304800059,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.96129,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:13:49.091532",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.74055313722143,
+    "expected_return": 0.00017715828497969643,
+    "price": 5882.41,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:13:49.893339",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 87.65336007133955,
+    "expected_return": 0.00017715828497969638,
+    "price": 156360.2,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:13:51.063560",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 76.52369242644234,
+    "expected_return": 0.00017715828497969638,
+    "price": 250.61,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:13:52.307220",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 67.5241304800059,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.96129,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:14:08.026691",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.74055313722143,
+    "expected_return": 0.00017715828497969638,
+    "price": 5882.41,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:14:09.230139",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 87.65336007133959,
+    "expected_return": 0.00017715828497969638,
+    "price": 156376.2,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:14:10.096700",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 76.52369242644232,
+    "expected_return": 0.00017715828497969638,
+    "price": 250.61,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:14:11.278158",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 67.52413048000588,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.96129,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:14:26.713595",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.38113908485656,
+    "expected_return": 0.00017715828497969638,
+    "price": 5884.72,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:14:28.176741",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 87.65336007133956,
+    "expected_return": 0.00017715828497969638,
+    "price": 156376.2,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:14:29.083416",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 76.52369242644232,
+    "expected_return": 0.00017715828497969638,
+    "price": 250.61,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:14:30.265515",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 67.5241304800059,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.96129,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:14:45.676311",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.38113908485656,
+    "expected_return": 0.00017715828497969638,
+    "price": 5884.72,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:14:46.846830",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 87.65336007133956,
+    "expected_return": 0.00017715828497969638,
+    "price": 156376.2,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:14:48.042671",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 76.52369242644234,
+    "expected_return": 0.00017715828497969643,
+    "price": 250.61,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:14:49.264478",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 67.52413048000588,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.96129,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:15:05.263055",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 76.57998388223758,
+    "expected_return": 0.00017715828497969638,
+    "price": 5881.62,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:15:06.167818",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 87.65336007133956,
+    "expected_return": 0.00017715828497969648,
+    "price": 156376.2,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:15:07.477026",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 77.30782282289218,
+    "expected_return": 0.00017715828497969638,
+    "price": 250.9,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:15:08.599383",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 67.5241304800059,
+    "expected_return": 0.00017715828497969635,
+    "price": 3.96129,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:15:24.284309",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 76.5799838822376,
+    "expected_return": 0.00017715828497969643,
+    "price": 5881.62,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:15:25.453948",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 87.65336007133956,
+    "expected_return": 0.00017715828497969638,
+    "price": 156376.2,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:15:26.689153",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 77.30782282289218,
+    "expected_return": 0.00017715828497969643,
+    "price": 250.9,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:15:27.886094",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 67.5241304800059,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.96129,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:15:43.708622",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 76.57998388223763,
+    "expected_return": 0.00017715828497969638,
+    "price": 5881.62,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:15:45.888571",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 87.65336007133956,
+    "expected_return": 0.00017715828497969638,
+    "price": 156376.2,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:15:46.441969",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 77.30782282289218,
+    "expected_return": 0.00017715828497969643,
+    "price": 250.9,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:15:47.967179",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 67.5241304800059,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.96129,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:16:04.549562",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 76.57998388223761,
+    "expected_return": 0.00017715828497969643,
+    "price": 5881.62,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:16:05.092389",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 90.02930876749264,
+    "expected_return": 0.00017715828497969643,
+    "price": 156618.5,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:16:06.541467",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 77.30782282289218,
+    "expected_return": 0.00017715828497969638,
+    "price": 250.9,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:16:07.473498",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 67.5241304800059,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.96129,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:16:23.203486",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 76.57998388223763,
+    "expected_return": 0.00017715828497969638,
+    "price": 5881.62,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:16:24.144071",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 90.02930876749264,
+    "expected_return": 0.00017715828497969638,
+    "price": 156618.5,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:16:25.342213",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 77.07856027780628,
+    "expected_return": 0.00017715828497969638,
+    "price": 251.82,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:16:26.531920",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 67.52413048000588,
+    "expected_return": 0.00017715828497969643,
+    "price": 3.96129,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:16:42.180345",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 76.57998388223763,
+    "expected_return": 0.00017715828497969638,
+    "price": 5881.62,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:16:43.234511",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 90.02930876749264,
+    "expected_return": 0.00017715828497969638,
+    "price": 156618.5,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:16:44.322040",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 77.07856027780628,
+    "expected_return": 0.00017715828497969638,
+    "price": 251.82,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:16:45.794008",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 67.52413048000588,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.96129,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:17:01.442113",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 76.57998388223761,
+    "expected_return": 0.00017715828497969643,
+    "price": 5881.62,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:17:02.682958",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 90.02930876749262,
+    "expected_return": 0.00017715828497969646,
+    "price": 156618.5,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:17:03.623395",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 77.07856027780628,
+    "expected_return": 0.00017715828497969638,
+    "price": 251.82,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:17:04.771017",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 67.52413048000588,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.96129,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:17:20.163445",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 76.57998388223763,
+    "expected_return": 0.00017715828497969638,
+    "price": 5881.62,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:17:21.355722",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 90.02930876749264,
+    "expected_return": 0.00017715828497969638,
+    "price": 156618.5,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:17:22.807987",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 77.07856027780628,
+    "expected_return": 0.00017715828497969638,
+    "price": 251.82,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:17:23.755104",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 67.5241304800059,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.96129,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:17:39.241344",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 76.57998388223763,
+    "expected_return": 0.00017715828497969638,
+    "price": 5881.62,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:17:40.335241",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 90.02930876749264,
+    "expected_return": 0.00017715828497969638,
+    "price": 156618.5,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:17:41.562555",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 77.07856027780628,
+    "expected_return": 0.00017715828497969646,
+    "price": 251.82,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:17:42.819951",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 67.5241304800059,
+    "expected_return": 0.00017715828497969643,
+    "price": 3.96129,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:17:58.184811",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 76.57998388223763,
+    "expected_return": 0.00017715828497969643,
+    "price": 5881.62,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:17:59.399439",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 90.02930876749264,
+    "expected_return": 0.00017715828497969638,
+    "price": 156618.5,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:18:00.576844",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 77.07856027780628,
+    "expected_return": 0.00017715828497969635,
+    "price": 251.82,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:18:01.802400",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 69.6338417997411,
+    "expected_return": 0.00017715828497969643,
+    "price": 3.96926,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:18:17.265498",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 76.57998388223761,
+    "expected_return": 0.00017715828497969638,
+    "price": 5881.62,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:18:18.340606",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 90.02930876749262,
+    "expected_return": 0.00017715828497969646,
+    "price": 156618.5,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:18:19.616735",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 77.07856027780629,
+    "expected_return": 0.00017715828497969638,
+    "price": 251.82,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:18:20.784098",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 69.63384179974109,
+    "expected_return": 0.00017715828497969643,
+    "price": 3.96926,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:18:36.209660",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 76.57998388223763,
+    "expected_return": 0.00017715828497969638,
+    "price": 5881.62,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:18:37.368634",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 90.02930876749264,
+    "expected_return": 0.00017715828497969638,
+    "price": 156618.5,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:18:38.572741",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 77.07856027780625,
+    "expected_return": 0.00017715828497969638,
+    "price": 251.82,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:18:39.798678",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 69.63384179974109,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.96926,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:18:55.235181",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 76.57998388223763,
+    "expected_return": 0.00017715828497969638,
+    "price": 5881.62,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:18:56.426952",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 90.02930876749264,
+    "expected_return": 0.00017715828497969638,
+    "price": 156618.5,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:18:57.595951",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 77.07856027780628,
+    "expected_return": 0.00017715828497969638,
+    "price": 251.82,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:18:59.140712",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 69.6338417997411,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.96926,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:19:14.550149",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.14692228915236,
+    "expected_return": 0.00017715828497969638,
+    "price": 5900.79,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:19:15.744294",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 90.05442246466073,
+    "expected_return": 0.00017715828497969638,
+    "price": 156691.4,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:19:17.225536",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 77.07856027780628,
+    "expected_return": 0.00017715828497969646,
+    "price": 251.82,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:19:18.127724",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 69.63384179974109,
+    "expected_return": 0.00017715828497969643,
+    "price": 3.96926,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:19:33.518154",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.1469222891524,
+    "expected_return": 0.00017715828497969638,
+    "price": 5900.79,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:19:34.748602",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 90.05442246466073,
+    "expected_return": 0.00017715828497969638,
+    "price": 156691.4,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:19:36.188343",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 77.07856027780628,
+    "expected_return": 0.00017715828497969646,
+    "price": 251.82,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:19:37.132491",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 69.6338417997411,
+    "expected_return": 0.00017715828497969643,
+    "price": 3.96926,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:19:52.543825",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.14692228915236,
+    "expected_return": 0.00017715828497969638,
+    "price": 5900.79,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:19:53.727661",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 90.05442246466077,
+    "expected_return": 0.00017715828497969638,
+    "price": 156691.4,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:19:55.274549",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 77.07856027780625,
+    "expected_return": 0.00017715828497969643,
+    "price": 251.82,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:19:56.125551",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 69.63384179974109,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.96926,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:20:11.779538",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.14692228915236,
+    "expected_return": 0.00017715828497969643,
+    "price": 5900.79,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:20:12.714963",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 90.05442246466072,
+    "expected_return": 0.00017715828497969638,
+    "price": 156691.4,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:20:13.939551",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 77.07856027780628,
+    "expected_return": 0.00017715828497969638,
+    "price": 251.82,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:20:15.155753",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 69.63384179974109,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.96926,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:20:30.543818",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.14692228915236,
+    "expected_return": 0.00017715828497969638,
+    "price": 5900.79,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:20:31.777433",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 90.05442246466076,
+    "expected_return": 0.00017715828497969643,
+    "price": 156691.4,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:20:33.275689",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 77.07856027780628,
+    "expected_return": 0.00017715828497969638,
+    "price": 251.82,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:20:34.133186",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 69.6338417997411,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.96926,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:20:49.528755",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.14692228915239,
+    "expected_return": 0.00017715828497969638,
+    "price": 5900.79,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:20:51.032026",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 90.05442246466073,
+    "expected_return": 0.00017715828497969643,
+    "price": 156691.4,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:20:51.899148",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 77.07856027780628,
+    "expected_return": 0.00017715828497969638,
+    "price": 251.82,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:20:53.474375",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 69.63384179974109,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.96926,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:21:09.153479",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.47790528555151,
+    "expected_return": 0.00017715828497969643,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:21:10.205805",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.00285601154093,
+    "expected_return": 0.00017715828497969638,
+    "price": 156760.1,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:21:11.320977",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 77.07856027780629,
+    "expected_return": 0.00017715828497969643,
+    "price": 251.82,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:21:12.661399",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 71.8403062263103,
+    "expected_return": 0.00017715828497969643,
+    "price": 3.97984,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:21:28.052273",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.4779052855515,
+    "expected_return": 0.00017715828497969643,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:21:29.237031",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.00285601154094,
+    "expected_return": 0.00017715828497969638,
+    "price": 156760.1,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:21:30.492951",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 75.67672545132896,
+    "expected_return": 0.00017715828497969648,
+    "price": 252.22,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:21:31.997033",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 71.84030622631032,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.97984,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:21:47.752297",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.47790528555147,
+    "expected_return": 0.00017715828497969638,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:21:48.646922",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.00285601154096,
+    "expected_return": 0.00017715828497969638,
+    "price": 156760.1,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:21:49.818285",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 75.67672545132895,
+    "expected_return": 0.00017715828497969638,
+    "price": 252.22,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:21:51.009713",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 71.84030622631032,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.97984,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:22:06.472110",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.4779052855515,
+    "expected_return": 0.00017715828497969638,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:22:07.566846",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.12146426637734,
+    "expected_return": 0.00017715828497969638,
+    "price": 156783.5,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:22:08.787144",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 75.67672545132895,
+    "expected_return": 0.00017715828497969643,
+    "price": 252.22,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:22:10.340035",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 71.8403062263103,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.97984,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:22:26.012569",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.4779052855515,
+    "expected_return": 0.00017715828497969638,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:22:26.984072",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.12146426637734,
+    "expected_return": 0.00017715828497969643,
+    "price": 156829.2,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:22:28.112513",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 75.67672545132895,
+    "expected_return": 0.00017715828497969638,
+    "price": 252.23,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:22:29.316679",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 71.38628337265351,
+    "expected_return": 0.00017715828497969643,
+    "price": 3.98258,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:22:44.718483",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.4779052855515,
+    "expected_return": 0.00017715828497969643,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:22:46.201400",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.12146426637732,
+    "expected_return": 0.00017715828497969643,
+    "price": 156829.2,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:22:47.379256",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 75.67672545132895,
+    "expected_return": 0.00017715828497969638,
+    "price": 252.23,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:22:48.298191",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 71.38628337265351,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.98258,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:23:03.679959",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.4779052855515,
+    "expected_return": 0.00017715828497969638,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:23:05.207411",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.12146426637736,
+    "expected_return": 0.00017715828497969638,
+    "price": 156820.1,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:23:06.113266",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 75.67672545132896,
+    "expected_return": 0.00017715828497969635,
+    "price": 252.23,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:23:07.316741",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 72.14864953968357,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.98027,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:23:23.011504",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.47790528555147,
+    "expected_return": 0.00017715828497969638,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:23:23.969466",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.1214642663774,
+    "expected_return": 0.00017715828497969643,
+    "price": 156820.1,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:23:25.283987",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 75.67672545132896,
+    "expected_return": 0.00017715828497969638,
+    "price": 252.23,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:23:26.366801",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 72.14864953968356,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.98027,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:23:41.777941",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.47790528555149,
+    "expected_return": 0.00017715828497969643,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:23:43.019479",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.12146426637732,
+    "expected_return": 0.00017715828497969643,
+    "price": 156783.4,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:23:44.212048",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 75.67672545132895,
+    "expected_return": 0.00017715828497969638,
+    "price": 252.23,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:23:45.389053",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 72.14864953968356,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.98027,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:24:00.830318",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.4779052855515,
+    "expected_return": 0.00017715828497969638,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:24:02.044197",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.12146426637734,
+    "expected_return": 0.00017715828497969643,
+    "price": 156783.4,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:24:03.525998",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 75.67672545132896,
+    "expected_return": 0.00017715828497969638,
+    "price": 252.23,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:24:04.669013",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 72.14864953968357,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.98027,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:24:20.155328",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.47790528555149,
+    "expected_return": 0.00017715828497969638,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:24:21.265119",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.12146426637737,
+    "expected_return": 0.00017715828497969638,
+    "price": 156783.4,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:24:22.706831",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 75.67672545132895,
+    "expected_return": 0.00017715828497969638,
+    "price": 252.23,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:24:23.609305",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 72.14864953968357,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.98027,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:24:39.056092",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.4779052855515,
+    "expected_return": 0.00017715828497969643,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:24:40.289525",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.12146426637734,
+    "expected_return": 0.00017715828497969643,
+    "price": 156824.2,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:24:41.423191",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 75.67672545132895,
+    "expected_return": 0.00017715828497969646,
+    "price": 252.23,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:24:42.722723",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 72.14864953968357,
+    "expected_return": 0.00017715828497969643,
+    "price": 3.98027,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:24:58.422024",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.47790528555149,
+    "expected_return": 0.00017715828497969638,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:24:59.540171",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.12146426637734,
+    "expected_return": 0.00017715828497969635,
+    "price": 156824.2,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:25:00.553392",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 75.50733100331007,
+    "expected_return": 0.00017715828497969638,
+    "price": 252.38,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:25:01.839758",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 72.14864953968357,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.98027,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:25:17.302913",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.47790528555151,
+    "expected_return": 0.00017715828497969646,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:25:18.708725",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.12146426637734,
+    "expected_return": 0.00017715828497969643,
+    "price": 156824.2,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:25:19.934710",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 75.41563574436329,
+    "expected_return": 0.00017715828497969638,
+    "price": 252.46,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:25:20.908697",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 72.14864953968357,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.98027,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:25:36.366039",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.4779052855515,
+    "expected_return": 0.00017715828497969638,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:25:37.568780",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.12146426637734,
+    "expected_return": 0.00017715828497969646,
+    "price": 156824.2,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:25:38.730027",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 75.4156357443633,
+    "expected_return": 0.00017715828497969638,
+    "price": 252.46,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:25:39.997300",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 72.14864953968356,
+    "expected_return": 0.00017715828497969643,
+    "price": 3.98027,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:25:55.400629",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.4779052855515,
+    "expected_return": 0.00017715828497969643,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:25:56.913164",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.12146426637734,
+    "expected_return": 0.00017715828497969638,
+    "price": 156824.2,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:25:57.832613",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 75.41563574436331,
+    "expected_return": 0.00017715828497969643,
+    "price": 252.46,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:25:59.135057",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 72.14864953968356,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.98027,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:26:14.852770",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.47790528555151,
+    "expected_return": 0.00017715828497969635,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:26:15.713618",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.516178210417,
+    "expected_return": 0.00017715828497969638,
+    "price": 156859.3,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:26:16.963840",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 75.4156357443633,
+    "expected_return": 0.00017715828497969638,
+    "price": 252.46,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:26:18.173379",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 72.14864953968357,
+    "expected_return": 0.00017715828497969643,
+    "price": 3.98027,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:26:33.596855",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.4779052855515,
+    "expected_return": 0.00017715828497969638,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:26:34.785218",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.51617821041702,
+    "expected_return": 0.00017715828497969646,
+    "price": 156859.3,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:26:35.948919",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 75.4156357443633,
+    "expected_return": 0.00017715828497969638,
+    "price": 252.46,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:26:37.233672",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 72.14864953968357,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.98027,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:26:52.659084",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.47790528555149,
+    "expected_return": 0.00017715828497969638,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:26:54.055460",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.516178210417,
+    "expected_return": 0.00017715828497969638,
+    "price": 156859.3,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:26:55.323645",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 75.4156357443633,
+    "expected_return": 0.00017715828497969643,
+    "price": 252.46,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:26:56.497379",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 71.82346137374738,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.9789,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:27:12.172271",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.4779052855515,
+    "expected_return": 0.00017715828497969643,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:27:13.099154",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.51617821041702,
+    "expected_return": 0.00017715828497969638,
+    "price": 156859.3,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:27:14.277282",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 75.4156357443633,
+    "expected_return": 0.00017715828497969638,
+    "price": 252.46,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:27:15.762274",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 71.29902654035428,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.97735,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:27:31.469073",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.4779052855515,
+    "expected_return": 0.00017715828497969638,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:27:32.517380",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.51617821041702,
+    "expected_return": 0.00017715828497969643,
+    "price": 156859.3,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:27:33.591096",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 75.4156357443633,
+    "expected_return": 0.00017715828497969646,
+    "price": 252.46,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:27:34.733685",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 71.29902654035428,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.97735,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:27:50.198005",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.4779052855515,
+    "expected_return": 0.00017715828497969635,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:27:51.307955",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.516178210417,
+    "expected_return": 0.00017715828497969638,
+    "price": 156859.3,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:27:52.737794",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 75.4156357443633,
+    "expected_return": 0.00017715828497969638,
+    "price": 252.46,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:27:53.694965",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 71.29902654035429,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.97735,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:28:09.144674",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.47790528555149,
+    "expected_return": 0.00017715828497969638,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:28:10.305176",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.51617821041704,
+    "expected_return": 0.00017715828497969638,
+    "price": 156859.3,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:28:11.445228",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 75.4156357443633,
+    "expected_return": 0.00017715828497969638,
+    "price": 252.46,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:28:12.747669",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 71.29902654035426,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.97735,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:28:28.255877",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.4779052855515,
+    "expected_return": 0.00017715828497969638,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:28:29.406084",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.516178210417,
+    "expected_return": 0.00017715828497969635,
+    "price": 156859.3,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:28:30.533771",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 75.41563574436331,
+    "expected_return": 0.00017715828497969638,
+    "price": 252.46,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:28:31.730206",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 71.29902654035428,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.97735,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:28:47.476232",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.4779052855515,
+    "expected_return": 0.00017715828497969643,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:28:48.352920",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.516178210417,
+    "expected_return": 0.00017715828497969643,
+    "price": 156859.3,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:28:49.522439",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 75.41563574436331,
+    "expected_return": 0.00017715828497969638,
+    "price": 252.46,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:28:50.739331",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 71.29902654035428,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.97735,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:29:06.409049",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.47790528555149,
+    "expected_return": 0.00017715828497969635,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:29:07.388135",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.51617821041704,
+    "expected_return": 0.00017715828497969638,
+    "price": 156859.3,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:29:08.664191",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 75.4156357443633,
+    "expected_return": 0.00017715828497969643,
+    "price": 252.46,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:29:10.024457",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 71.29902654035428,
+    "expected_return": 0.00017715828497969646,
+    "price": 3.97735,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:29:25.529312",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.47790528555151,
+    "expected_return": 0.00017715828497969638,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:29:26.582714",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.51617821041702,
+    "expected_return": 0.00017715828497969638,
+    "price": 156859.3,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:29:27.778416",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 75.41563574436331,
+    "expected_return": 0.00017715828497969638,
+    "price": 252.46,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:29:29.039851",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 71.0262231615501,
+    "expected_return": 0.00017715828497969643,
+    "price": 3.97337,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:29:44.670659",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.4779052855515,
+    "expected_return": 0.00017715828497969643,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:29:45.670917",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.51617821041702,
+    "expected_return": 0.00017715828497969643,
+    "price": 156859.3,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:29:46.877251",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 75.4156357443633,
+    "expected_return": 0.00017715828497969638,
+    "price": 252.46,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:29:48.007866",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 71.02622316155012,
+    "expected_return": 0.00017715828497969643,
+    "price": 3.97337,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:30:03.485775",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.47790528555149,
+    "expected_return": 0.00017715828497969638,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:30:04.599296",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.48637641597749,
+    "expected_return": 0.00017715828497969638,
+    "price": 156939.0,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:30:05.793121",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 75.4156357443633,
+    "expected_return": 0.00017715828497969638,
+    "price": 252.46,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:30:07.038310",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 71.011928907146,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.97216,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:30:22.455406",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.4779052855515,
+    "expected_return": 0.00017715828497969638,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:30:23.631942",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.48637641597743,
+    "expected_return": 0.00017715828497969638,
+    "price": 156939.0,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:30:24.831226",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 75.4156357443633,
+    "expected_return": 0.00017715828497969638,
+    "price": 252.46,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:30:26.032470",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 71.011928907146,
+    "expected_return": 0.00017715828497969635,
+    "price": 3.97216,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:30:41.421088",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.47790528555149,
+    "expected_return": 0.00017715828497969643,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:30:42.614913",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.48637641597746,
+    "expected_return": 0.00017715828497969643,
+    "price": 156939.0,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:30:43.798796",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 75.41563574436331,
+    "expected_return": 0.00017715828497969638,
+    "price": 252.46,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:30:44.988716",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 70.61203793160334,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.97096,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:31:00.366886",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.4779052855515,
+    "expected_return": 0.00017715828497969638,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:31:01.589074",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.12146426637734,
+    "expected_return": 0.00017715828497969643,
+    "price": 156818.2,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:31:02.947746",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 75.23247816171767,
+    "expected_return": 0.00017715828497969643,
+    "price": 252.46,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:31:03.982229",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 70.33713724543507,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.97122,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:31:19.860815",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.47790528555151,
+    "expected_return": 0.00017715828497969638,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:31:21.065894",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.12146426637734,
+    "expected_return": 0.00017715828497969643,
+    "price": 156818.2,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:31:22.185306",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 73.23057498372842,
+    "expected_return": 0.00017715828497969638,
+    "price": 252.3,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:31:23.109978",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 70.33713724543507,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.97122,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:31:38.474385",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.47790528555151,
+    "expected_return": 0.00017715828497969638,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:31:39.982957",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.12146426637736,
+    "expected_return": 0.00017715828497969638,
+    "price": 156818.2,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:31:41.126679",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 73.23057498372842,
+    "expected_return": 0.00017715828497969638,
+    "price": 252.3,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:31:42.145360",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 70.33713724543507,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.97079,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:31:57.548937",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.47790528555149,
+    "expected_return": 0.00017715828497969638,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:31:58.845723",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.12146426637736,
+    "expected_return": 0.00017715828497969638,
+    "price": 156818.2,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:31:59.925688",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 73.23057498372845,
+    "expected_return": 0.00017715828497969635,
+    "price": 252.3,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:32:01.192623",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 70.33713724543506,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.97079,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:32:16.667160",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.47790528555151,
+    "expected_return": 0.00017715828497969643,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:32:17.781364",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.12146426637736,
+    "expected_return": 0.00017715828497969638,
+    "price": 156818.2,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:32:19.083938",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 73.23057498372843,
+    "expected_return": 0.00017715828497969638,
+    "price": 252.3,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:32:20.259876",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 70.57212031175776,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.9734,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:32:35.768272",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.4779052855515,
+    "expected_return": 0.00017715828497969638,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:32:36.871294",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.12146426637737,
+    "expected_return": 0.00017715828497969638,
+    "price": 156818.2,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:32:38.148146",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 73.23057498372845,
+    "expected_return": 0.00017715828497969638,
+    "price": 252.3,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:32:39.618669",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 70.57212031175776,
+    "expected_return": 0.00017715828497969643,
+    "price": 3.9734,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:32:55.099673",
+    "pair": "ETH/CAD",
+    "signal": "BUY",
+    "confidence": 77.47790528555149,
+    "expected_return": 0.00017715828497969638,
+    "price": 5906.99,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:32:56.315309",
+    "pair": "BTC/CAD",
+    "signal": "BUY",
+    "confidence": 91.12146426637736,
+    "expected_return": 0.00017715828497969643,
+    "price": 156818.2,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:32:57.740228",
+    "pair": "SOL/CAD",
+    "signal": "BUY",
+    "confidence": 73.23057498372843,
+    "expected_return": 0.00017715828497969646,
+    "price": 252.3,
+    "executed": true
+  },
+  {
+    "timestamp": "2025-08-21T19:32:58.622645",
+    "pair": "XRP/CAD",
+    "signal": "BUY",
+    "confidence": 70.57212031175776,
+    "expected_return": 0.00017715828497969638,
+    "price": 3.9734,
+    "executed": true
+  }
+]

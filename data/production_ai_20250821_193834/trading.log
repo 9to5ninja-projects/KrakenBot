@@ -1,0 +1,119 @@
+2025-08-21 19:38:35,920 | INFO |    Session: production_ai_20250821_193834
+2025-08-21 19:38:35,920 | INFO |    Capital: $1,000.00
+2025-08-21 19:38:35,920 | INFO |    Max Daily Loss: 3.0%
+2025-08-21 19:38:35,921 | INFO |    Max Position Risk: 12.0%
+2025-08-21 19:38:35,921 | INFO |    Daily Trade Limit: 40
+2025-08-21 19:38:35,925 | INFO |    Max Runtime: 72 hours
+2025-08-21 19:38:35,926 | INFO |    Check Interval: 45 seconds
+2025-08-21 19:38:35,926 | INFO |    Safety Limits: 3.0% daily loss, 12.0% position risk
+2025-08-21 19:38:35,927 | INFO | ================================================================================
+2025-08-21 19:38:40,145 | INFO |    Opportunities: 0
+2025-08-21 19:38:40,145 | INFO |    Total Trades: 0 (Daily: 0)
+2025-08-21 19:38:40,145 | INFO |    Capital: $1000.00 (+0.00%)
+2025-08-21 19:38:40,145 | INFO |    Runtime: 0.0 hours
+2025-08-21 19:38:40,145 | INFO |    Active Positions: 0
+2025-08-21 19:39:29,406 | INFO |    Opportunities: 0
+2025-08-21 19:39:29,406 | INFO |    Total Trades: 0 (Daily: 0)
+2025-08-21 19:39:29,406 | INFO |    Capital: $1000.00 (+0.00%)
+2025-08-21 19:39:29,406 | INFO |    Runtime: 0.0 hours
+2025-08-21 19:39:29,406 | INFO |    Active Positions: 0
+2025-08-21 19:40:18,381 | INFO |    Opportunities: 0
+2025-08-21 19:40:18,381 | INFO |    Total Trades: 0 (Daily: 0)
+2025-08-21 19:40:18,382 | INFO |    Capital: $1000.00 (+0.00%)
+2025-08-21 19:40:18,382 | INFO |    Runtime: 0.0 hours
+2025-08-21 19:40:18,382 | INFO |    Active Positions: 0
+2025-08-21 19:41:07,755 | INFO |    Opportunities: 0
+2025-08-21 19:41:07,755 | INFO |    Total Trades: 0 (Daily: 0)
+2025-08-21 19:41:07,755 | INFO |    Capital: $1000.00 (+0.00%)
+2025-08-21 19:41:07,755 | INFO |    Runtime: 0.0 hours
+2025-08-21 19:41:07,756 | INFO |    Active Positions: 0
+2025-08-21 19:41:56,717 | INFO |    Opportunities: 0
+2025-08-21 19:41:56,717 | INFO |    Total Trades: 0 (Daily: 0)
+2025-08-21 19:41:56,717 | INFO |    Capital: $1000.00 (+0.00%)
+2025-08-21 19:41:56,718 | INFO |    Runtime: 0.1 hours
+2025-08-21 19:41:56,718 | INFO |    Active Positions: 0
+2025-08-21 19:42:46,057 | INFO |    Opportunities: 0
+2025-08-21 19:42:46,057 | INFO |    Total Trades: 0 (Daily: 0)
+2025-08-21 19:42:46,060 | INFO |    Capital: $1000.00 (+0.00%)
+2025-08-21 19:42:46,061 | INFO |    Runtime: 0.1 hours
+2025-08-21 19:42:46,062 | INFO |    Active Positions: 0
+2025-08-21 19:43:35,268 | INFO |    Opportunities: 0
+2025-08-21 19:43:35,268 | INFO |    Total Trades: 0 (Daily: 0)
+2025-08-21 19:43:35,268 | INFO |    Capital: $1000.00 (+0.00%)
+2025-08-21 19:43:35,269 | INFO |    Runtime: 0.1 hours
+2025-08-21 19:43:35,269 | INFO |    Active Positions: 0
+2025-08-21 19:44:24,786 | INFO |    Opportunities: 0
+2025-08-21 19:44:24,787 | INFO |    Total Trades: 0 (Daily: 0)
+2025-08-21 19:44:24,789 | INFO |    Capital: $1000.00 (+0.00%)
+2025-08-21 19:44:24,789 | INFO |    Runtime: 0.1 hours
+2025-08-21 19:44:24,790 | INFO |    Active Positions: 0
+2025-08-21 19:45:14,145 | INFO |    Opportunities: 0
+2025-08-21 19:45:14,145 | INFO |    Total Trades: 0 (Daily: 0)
+2025-08-21 19:45:14,146 | INFO |    Capital: $1000.00 (+0.00%)
+2025-08-21 19:45:14,146 | INFO |    Runtime: 0.1 hours
+2025-08-21 19:45:14,147 | INFO |    Active Positions: 0
+2025-08-21 19:46:04,321 | INFO |    Opportunities: 0
+2025-08-21 19:46:04,334 | INFO |    Total Trades: 0 (Daily: 0)
+2025-08-21 19:46:04,346 | INFO |    Capital: $1000.00 (+0.00%)
+2025-08-21 19:46:04,354 | INFO |    Runtime: 0.1 hours
+2025-08-21 19:46:04,367 | INFO |    Active Positions: 0
+2025-08-21 19:46:53,471 | INFO |    Opportunities: 0
+2025-08-21 19:46:53,472 | INFO |    Total Trades: 0 (Daily: 0)
+2025-08-21 19:46:53,472 | INFO |    Capital: $1000.00 (+0.00%)
+2025-08-21 19:46:53,472 | INFO |    Runtime: 0.1 hours
+2025-08-21 19:46:53,472 | INFO |    Active Positions: 0
+2025-08-21 19:47:42,524 | INFO |    Opportunities: 0
+2025-08-21 19:47:42,524 | INFO |    Total Trades: 0 (Daily: 0)
+2025-08-21 19:47:42,524 | INFO |    Capital: $1000.00 (+0.00%)
+2025-08-21 19:47:42,525 | INFO |    Runtime: 0.2 hours
+2025-08-21 19:47:42,525 | INFO |    Active Positions: 0
+2025-08-21 19:48:31,849 | INFO |    Opportunities: 0
+2025-08-21 19:48:31,850 | INFO |    Total Trades: 0 (Daily: 0)
+2025-08-21 19:48:31,850 | INFO |    Capital: $1000.00 (+0.00%)
+2025-08-21 19:48:31,851 | INFO |    Runtime: 0.2 hours
+2025-08-21 19:48:31,851 | INFO |    Active Positions: 0
+2025-08-21 19:49:22,419 | INFO |    Opportunities: 0
+2025-08-21 19:49:22,419 | INFO |    Total Trades: 0 (Daily: 0)
+2025-08-21 19:49:22,420 | INFO |    Capital: $1000.00 (+0.00%)
+2025-08-21 19:49:22,420 | INFO |    Runtime: 0.2 hours
+2025-08-21 19:49:22,421 | INFO |    Active Positions: 0
+2025-08-21 19:50:11,478 | INFO |    Opportunities: 0
+2025-08-21 19:50:11,478 | INFO |    Total Trades: 0 (Daily: 0)
+2025-08-21 19:50:11,478 | INFO |    Capital: $1000.00 (+0.00%)
+2025-08-21 19:50:11,478 | INFO |    Runtime: 0.2 hours
+2025-08-21 19:50:11,478 | INFO |    Active Positions: 0
+2025-08-21 19:51:00,746 | INFO |    Opportunities: 0
+2025-08-21 19:51:00,746 | INFO |    Total Trades: 0 (Daily: 0)
+2025-08-21 19:51:00,746 | INFO |    Capital: $1000.00 (+0.00%)
+2025-08-21 19:51:00,746 | INFO |    Runtime: 0.2 hours
+2025-08-21 19:51:00,747 | INFO |    Active Positions: 0
+2025-08-21 19:51:49,806 | INFO |    Opportunities: 0
+2025-08-21 19:51:49,806 | INFO |    Total Trades: 0 (Daily: 0)
+2025-08-21 19:51:49,806 | INFO |    Capital: $1000.00 (+0.00%)
+2025-08-21 19:51:49,806 | INFO |    Runtime: 0.2 hours
+2025-08-21 19:51:49,806 | INFO |    Active Positions: 0
+2025-08-21 19:52:38,810 | INFO |    Opportunities: 0
+2025-08-21 19:52:38,811 | INFO |    Total Trades: 0 (Daily: 0)
+2025-08-21 19:52:38,811 | INFO |    Capital: $1000.00 (+0.00%)
+2025-08-21 19:52:38,811 | INFO |    Runtime: 0.2 hours
+2025-08-21 19:52:38,811 | INFO |    Active Positions: 0
+2025-08-21 19:53:27,775 | INFO |    Opportunities: 0
+2025-08-21 19:53:27,775 | INFO |    Total Trades: 0 (Daily: 0)
+2025-08-21 19:53:27,775 | INFO |    Capital: $1000.00 (+0.00%)
+2025-08-21 19:53:27,775 | INFO |    Runtime: 0.2 hours
+2025-08-21 19:53:27,775 | INFO |    Active Positions: 0
+2025-08-21 19:54:17,007 | INFO |    Opportunities: 0
+2025-08-21 19:54:17,007 | INFO |    Total Trades: 0 (Daily: 0)
+2025-08-21 19:54:17,007 | INFO |    Capital: $1000.00 (+0.00%)
+2025-08-21 19:54:17,007 | INFO |    Runtime: 0.3 hours
+2025-08-21 19:54:17,008 | INFO |    Active Positions: 0
+2025-08-21 19:55:05,967 | INFO |    Opportunities: 0
+2025-08-21 19:55:05,967 | INFO |    Total Trades: 0 (Daily: 0)
+2025-08-21 19:55:05,967 | INFO |    Capital: $1000.00 (+0.00%)
+2025-08-21 19:55:05,967 | INFO |    Runtime: 0.3 hours
+2025-08-21 19:55:05,967 | INFO |    Active Positions: 0
+2025-08-21 19:55:55,012 | INFO |    Opportunities: 0
+2025-08-21 19:55:55,013 | INFO |    Total Trades: 0 (Daily: 0)
+2025-08-21 19:55:55,013 | INFO |    Capital: $1000.00 (+0.00%)
+2025-08-21 19:55:55,013 | INFO |    Runtime: 0.3 hours
+2025-08-21 19:55:55,013 | INFO |    Active Positions: 0

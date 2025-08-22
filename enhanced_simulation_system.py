@@ -7,6 +7,7 @@ import asyncio
 import json
 import pandas as pd
 import numpy as np
+import pytz
 from typing import Dict, List, Optional, Tuple
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -18,6 +19,7 @@ from advanced_technical_indicators import AdvancedTechnicalAnalyzer
 from ai_strategy_optimizer import AIStrategyOptimizer, StrategyParameters
 from multi_coin_analyzer import MultiCoinAnalyzer, TradingOpportunity
 from enhanced_nlp_analyzer import EnhancedNLPAnalyzer
+from market_opening_ai import MarketOpeningAI
 
 @dataclass
 class EnhancedTradeExecution:
@@ -67,6 +69,14 @@ class EnhancedSimulationSystem:
         self.ai_optimizer = AIStrategyOptimizer()
         self.multi_coin_analyzer = MultiCoinAnalyzer()
         self.nlp_analyzer = EnhancedNLPAnalyzer()
+        self.market_opening_ai = MarketOpeningAI()
+        
+        # Market opening tracking
+        self.local_timezone = pytz.timezone('America/Toronto')  # Adjust to your timezone
+        self.market_observation_window = 4  # 2 hours before + 2 hours after
+        self.in_market_opening_window = False
+        self.current_market_session = None
+        self.last_opening_check = datetime.min
         
         # Portfolio tracking
         self.positions: Dict[str, PortfolioPosition] = {}
@@ -115,8 +125,10 @@ class EnhancedSimulationSystem:
         print(f"Check Interval: {check_interval} seconds")
         print("=" * 60)
         
-        end_time = datetime.now() + timedelta(hours=duration_hours)
+        start_time = datetime.now()
+        end_time = start_time + timedelta(hours=duration_hours)
         step_count = 0
+        self.simulation_start_time = start_time  # Store for timer display
         
         # Initial AI optimization
         await self._optimize_strategy_parameters()
@@ -128,14 +140,17 @@ class EnhancedSimulationSystem:
             print(f"\n Step {step_count} - {current_time.strftime('%H:%M:%S')}")
             
             try:
-                # 1. Analyze all trading pairs
-                market_analyses = await self._analyze_all_pairs()
+                # 0. Check market opening windows (YOUR HUMAN INSIGHT INTEGRATION)
+                market_opening_context = await self._check_market_opening_windows(current_time)
                 
-                # 2. Identify trading opportunities
-                opportunities = await self._identify_opportunities(market_analyses)
+                # 1. Analyze all trading pairs (enhanced with opening context)
+                market_analyses = await self._analyze_all_pairs(market_opening_context)
                 
-                # 3. Execute trades based on AI recommendations
-                executed_trades = await self._execute_ai_driven_trades(opportunities)
+                # 2. Identify trading opportunities (adjusted for market openings)
+                opportunities = await self._identify_opportunities(market_analyses, market_opening_context)
+                
+                # 3. Execute trades based on AI recommendations (with opening intelligence)
+                executed_trades = await self._execute_ai_driven_trades(opportunities, market_opening_context)
                 
                 # 4. Update portfolio and positions
                 await self._update_portfolio_state(market_analyses)
@@ -143,19 +158,19 @@ class EnhancedSimulationSystem:
                 # 5. Check for stop-loss and take-profit triggers
                 await self._check_exit_conditions(market_analyses)
                 
-                # 6. Generate real-time insights
-                insights = await self._generate_real_time_insights(market_analyses, executed_trades)
+                # 6. Generate real-time insights (including opening analysis)
+                insights = await self._generate_real_time_insights(market_analyses, executed_trades, market_opening_context)
                 
                 # 7. Periodic strategy optimization
                 if current_time - self.last_optimization > self.optimization_interval:
                     await self._optimize_strategy_parameters()
                     self.last_optimization = current_time
                 
-                # 8. Save data
-                await self._save_step_data(step_count, market_analyses, opportunities, executed_trades, insights)
+                # 8. Save data (including opening intelligence)
+                await self._save_step_data(step_count, market_analyses, opportunities, executed_trades, insights, market_opening_context)
                 
-                # 9. Display progress
-                self._display_progress(step_count, executed_trades, insights)
+                # 9. Display progress (with opening status and timer)
+                self._display_progress(step_count, executed_trades, insights, market_opening_context, end_time)
                 
             except Exception as e:
                 print(f"ERROR: Error in step {step_count}: {e}")
@@ -171,7 +186,7 @@ class EnhancedSimulationSystem:
         print(f"\n Simulation Complete!")
         print(f" Final Results saved to: {self.data_dir}")
     
-    async def _analyze_all_pairs(self) -> Dict[str, Dict]:
+    async def _analyze_all_pairs(self, market_opening_context: Dict = None) -> Dict[str, Dict]:
         """Analyze all trading pairs with technical and AI analysis."""
         analyses = {}
         
@@ -206,7 +221,7 @@ class EnhancedSimulationSystem:
         
         return analyses
     
-    async def _identify_opportunities(self, market_analyses: Dict) -> List[TradingOpportunity]:
+    async def _identify_opportunities(self, market_analyses: Dict, market_opening_context: Dict = None) -> List[TradingOpportunity]:
         """Identify trading opportunities using AI and technical analysis."""
         opportunities = []
         
@@ -325,9 +340,22 @@ class EnhancedSimulationSystem:
         
         return None
     
-    async def _execute_ai_driven_trades(self, opportunities: List[TradingOpportunity]) -> List[EnhancedTradeExecution]:
+    async def _execute_ai_driven_trades(self, opportunities: List[TradingOpportunity], market_opening_context: Dict = None) -> List[EnhancedTradeExecution]:
         """Execute trades based on AI-driven opportunities."""
         executed_trades = []
+        
+        # Apply market opening strategy adjustments
+        if market_opening_context and market_opening_context.get('in_opening_window'):
+            adjustments = market_opening_context.get('strategy_adjustments', {})
+            
+            # Skip trades if high manipulation risk
+            if adjustments.get('avoid_trades'):
+                print("🚨 Skipping trades due to high manipulation risk")
+                return executed_trades
+            
+            # Wait for rebound if expected
+            if adjustments.get('wait_for_rebound'):
+                print("🔄 Waiting for rebound pattern before trading")
         
         for opportunity in opportunities:
             try:
@@ -571,7 +599,7 @@ class EnhancedSimulationSystem:
             print(f"WARNING: Error optimizing parameters: {e}")
     
     async def _generate_real_time_insights(self, market_analyses: Dict, 
-                                         executed_trades: List) -> List[str]:
+                                         executed_trades: List, market_opening_context: Dict = None) -> List[str]:
         """Generate real-time trading insights."""
         insights = []
         
@@ -597,6 +625,22 @@ class EnhancedSimulationSystem:
             ])
             insights.append(f"Market volatility: {avg_volatility:.3f}")
         
+        # Market opening insights (YOUR HUMAN INTELLIGENCE INTEGRATION)
+        if market_opening_context and market_opening_context.get('in_opening_window'):
+            session = market_opening_context.get('active_session')
+            if market_opening_context.get('time_to_opening'):
+                hours_to_opening = market_opening_context['time_to_opening'] / 3600
+                insights.append(f"🌍 {session} opens in {hours_to_opening:.1f}h - Pre-opening analysis active")
+            elif market_opening_context.get('time_since_opening'):
+                hours_since_opening = market_opening_context['time_since_opening'] / 3600
+                insights.append(f"👀 {session} opened {hours_since_opening:.1f}h ago - Monitoring rebounds")
+            
+            if market_opening_context.get('rebound_expected'):
+                insights.append("🔄 High rebound probability detected")
+            
+            if market_opening_context.get('manipulation_risk') == 'HIGH':
+                insights.append("⚠️ High manipulation risk - Trading cautiously")
+        
         return insights
     
     def _get_available_capital(self) -> float:
@@ -614,7 +658,7 @@ class EnhancedSimulationSystem:
         return total_value
     
     async def _save_step_data(self, step: int, market_analyses: Dict, 
-                            opportunities: List, executed_trades: List, insights: List):
+                            opportunities: List, executed_trades: List, insights: List, market_opening_context: Dict = None):
         """Save step data to files."""
         # Portfolio snapshot
         portfolio_snapshot = {
@@ -634,7 +678,8 @@ class EnhancedSimulationSystem:
                 }
                 for pair, pos in self.positions.items()
             },
-            'insights': insights
+            'insights': insights,
+            'market_opening_context': market_opening_context  # Save opening intelligence
         }
         
         self.portfolio_history.append(portfolio_snapshot)
@@ -655,15 +700,37 @@ class EnhancedSimulationSystem:
             opportunities_data = [asdict(opp) for opp in opportunities]
             json.dump(opportunities_data, f, indent=2)
     
-    def _display_progress(self, step: int, executed_trades: List, insights: List):
-        """Display current progress."""
+    def _display_progress(self, step: int, executed_trades: List, insights: List, market_opening_context: Dict = None, end_time: datetime = None):
+        """Display current progress with timer."""
         current_value = self._calculate_portfolio_value()
         total_return = ((current_value - self.initial_capital) / self.initial_capital) * 100
         
-        print(f" Portfolio: ${current_value:.2f} ({total_return:+.3f}%)")
-        print(f" Cash: ${self.current_capital:.2f}")
-        print(f" Positions: {len(self.positions)}")
-        print(f" Trades: {len(self.trade_history)}")
+        # Timer display
+        current_time = datetime.now()
+        if hasattr(self, 'simulation_start_time') and end_time:
+            elapsed = current_time - self.simulation_start_time
+            remaining = end_time - current_time
+            elapsed_hours = elapsed.total_seconds() / 3600
+            remaining_hours = remaining.total_seconds() / 3600
+            
+            print(f" ⏱️  Timer: {elapsed_hours:.1f}h elapsed | {remaining_hours:.1f}h remaining")
+        
+        print(f" 💰 Portfolio: ${current_value:.2f} ({total_return:+.3f}%)")
+        print(f" 💵 Cash: ${self.current_capital:.2f}")
+        print(f" 📊 Positions: {len(self.positions)}")
+        print(f" 🔄 Trades: {len(self.trade_history)}")
+        
+        # Market opening status display (YOUR TIMEZONE-AWARE MONITORING)
+        if market_opening_context and market_opening_context.get('in_opening_window'):
+            session = market_opening_context.get('active_session')
+            print(f" 🌍 Market Window: {session}")
+            
+            if market_opening_context.get('time_to_opening'):
+                hours = market_opening_context['time_to_opening'] / 3600
+                print(f" ⏰ Opens in: {hours:.1f}h")
+            elif market_opening_context.get('time_since_opening'):
+                hours = market_opening_context['time_since_opening'] / 3600
+                print(f" ⏰ Opened: {hours:.1f}h ago")
         
         if insights:
             print(f" Insights: {', '.join(insights[:2])}")
@@ -698,6 +765,123 @@ class EnhancedSimulationSystem:
             print(f"\n Recommendations:")
             for rec in analysis['strategic_recommendations'][:3]:
                 print(f"   • {rec}")
+    
+    async def _check_market_opening_windows(self, current_time: datetime) -> Dict:
+        """Check if we're in a market opening observation window (2h before + 2h after)"""
+        
+        # Convert current time to UTC for comparison
+        current_utc = current_time.replace(tzinfo=pytz.UTC) if current_time.tzinfo is None else current_time.astimezone(pytz.UTC)
+        
+        market_context = {
+            'in_opening_window': False,
+            'active_session': None,
+            'time_to_opening': None,
+            'time_since_opening': None,
+            'opening_analysis': None,
+            'rebound_expected': False,
+            'manipulation_risk': 'LOW',
+            'strategy_adjustments': {}
+        }
+        
+        # Check each market session
+        for session_name, session in self.market_opening_ai.sessions.items():
+            opening_time = self._get_next_opening_time(session, current_utc)
+            time_until_opening = (opening_time - current_utc).total_seconds()
+            
+            # Check if we're in the 4-hour observation window (2h before + 2h after)
+            observation_window_seconds = self.market_observation_window * 3600  # 4 hours = 14400 seconds
+            pre_opening_seconds = 2 * 3600  # 2 hours before
+            
+            if -observation_window_seconds/2 <= time_until_opening <= observation_window_seconds/2:
+                market_context['in_opening_window'] = True
+                market_context['active_session'] = session_name
+                
+                if time_until_opening > 0:
+                    market_context['time_to_opening'] = time_until_opening
+                    
+                    # Perform pre-opening analysis if within 2 hours
+                    if time_until_opening <= pre_opening_seconds:
+                        if (current_time - self.last_opening_check).total_seconds() > 300:  # Every 5 minutes
+                            analysis = self.market_opening_ai.perform_opening_analysis(session_name)
+                            market_context['opening_analysis'] = analysis
+                            market_context['rebound_expected'] = analysis.rebound_probability > 0.8
+                            market_context['manipulation_risk'] = analysis.manipulation_risk
+                            
+                            # Your human insights: Adjust strategy for opening
+                            market_context['strategy_adjustments'] = self._get_opening_strategy_adjustments(analysis)
+                            
+                            self.last_opening_check = current_time
+                            
+                            print(f"\n🌍 MARKET OPENING ALERT: {session_name}")
+                            print(f"⏰ Opening in {time_until_opening/3600:.1f} hours")
+                            print(f"📊 Prediction: {analysis.opening_prediction}")
+                            print(f"🔄 Rebound Expected: {analysis.rebound_probability:.1%}")
+                            print(f"⚠️  Manipulation Risk: {analysis.manipulation_risk}")
+                else:
+                    market_context['time_since_opening'] = abs(time_until_opening)
+                    
+                    # We're in post-opening window - monitor for rebounds
+                    if abs(time_until_opening) <= 2 * 3600:  # Within 2 hours after opening
+                        print(f"\n👀 POST-OPENING MONITORING: {session_name}")
+                        print(f"⏰ {abs(time_until_opening)/3600:.1f} hours since opening")
+                        print("🔄 Monitoring for rebound patterns...")
+                
+                break  # Only track one active session at a time
+        
+        return market_context
+    
+    def _get_next_opening_time(self, session, current_utc):
+        """Get next opening time for a session"""
+        tz = pytz.timezone(session.timezone)
+        
+        from datetime import time
+        
+        # Today's opening time
+        today = current_utc.astimezone(tz).date()
+        opening_time = datetime.combine(
+            today, 
+            time.fromisoformat(session.open_time)
+        )
+        opening_time = tz.localize(opening_time).astimezone(pytz.UTC)
+        
+        # If already passed, get tomorrow's
+        if opening_time <= current_utc:
+            tomorrow = today + timedelta(days=1)
+            opening_time = datetime.combine(
+                tomorrow,
+                time.fromisoformat(session.open_time)
+            )
+            opening_time = tz.localize(opening_time).astimezone(pytz.UTC)
+        
+        return opening_time
+    
+    def _get_opening_strategy_adjustments(self, analysis) -> Dict:
+        """Get strategy adjustments based on opening analysis (YOUR HUMAN INSIGHTS)"""
+        
+        adjustments = {
+            'wait_for_rebound': False,
+            'avoid_trades': False,
+            'increase_confidence_threshold': False,
+            'reduce_position_size': False,
+            'enable_scalping': False
+        }
+        
+        # Your insight: Always expect rebound
+        if analysis.rebound_probability > 0.8:
+            adjustments['wait_for_rebound'] = True
+            adjustments['enable_scalping'] = True  # Quick trades on rebounds
+        
+        # Your insight: Avoid manipulation
+        if analysis.manipulation_risk == 'HIGH':
+            adjustments['avoid_trades'] = True
+            print("🚨 HIGH MANIPULATION RISK - Avoiding trades until genuine move")
+        
+        # Low confidence = be more careful
+        if analysis.confidence < 0.6:
+            adjustments['increase_confidence_threshold'] = True
+            adjustments['reduce_position_size'] = True
+        
+        return adjustments
 
 async def main():
     """Main function to run enhanced simulation."""

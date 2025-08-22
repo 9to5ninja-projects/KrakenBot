@@ -51,16 +51,25 @@ def check_dependencies():
         print("All dependencies available")
 
 async def run_enhanced_simulation(args):
-    """Run the enhanced simulation system."""
+    """Run the enhanced simulation system with market opening intelligence."""
     from enhanced_simulation_system import EnhancedSimulationSystem
+    import pytz
     
-    print("Starting Enhanced KrakenBot Simulation")
-    print("=" * 60)
-    print(f"Capital: ${args.capital:,.2f}")
-    print(f"Duration: {args.duration} hours")
-    print(f"Interval: {args.interval} seconds")
-    print(f"Pairs: ETH/CAD, BTC/CAD, SOL/CAD, XRP/CAD")
-    print("=" * 60)
+    print("🚀 Starting Enhanced KrakenBot Simulation with Market Opening AI")
+    print("=" * 70)
+    print(f"💰 Capital: ${args.capital:,.2f}")
+    print(f"⏰ Duration: {args.duration} hours")
+    print(f"🔄 Interval: {args.interval} seconds")
+    print(f"🪙 Pairs: ETH/CAD, BTC/CAD, SOL/CAD, XRP/CAD")
+    
+    # Set timezone (configurable)
+    timezone = args.timezone
+    local_tz = pytz.timezone(timezone)
+    print(f"🌍 Local Timezone: {timezone}")
+    print(f"🎯 Market Opening Intelligence: ACTIVE")
+    print(f"📊 Observation Window: 2h before + 2h after each market opening")
+    print(f"🔄 Your Human Insights: Rebound detection & manipulation avoidance")
+    print("=" * 70)
     
     # Create simulation system
     simulation = EnhancedSimulationSystem(
@@ -68,7 +77,10 @@ async def run_enhanced_simulation(args):
         session_name=args.session_name
     )
     
-    # Run simulation
+    # Set the timezone for market opening intelligence
+    simulation.local_timezone = local_tz
+    
+    # Run simulation with integrated market opening AI
     await simulation.run_simulation(
         duration_hours=args.duration,
         check_interval=args.interval
@@ -174,6 +186,8 @@ def main():
                            help='Check interval in seconds (default: 60)')
     sim_parser.add_argument('--session-name', type=str, 
                            help='Custom session name')
+    sim_parser.add_argument('--timezone', type=str, default='America/Toronto',
+                           help='Local timezone for market opening detection (default: America/Toronto)')
     sim_parser.add_argument('--launch-dashboard', action='store_true',
                            help='Launch dashboard after simulation')
     

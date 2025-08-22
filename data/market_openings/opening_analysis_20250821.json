@@ -1,0 +1,74 @@
+[
+  {
+    "session": "US",
+    "timestamp": "2025-08-21T09:22:56.757666",
+    "pre_signals": {
+      "volume_buildup": {
+        "status": "normal_volume",
+        "score": 0.3,
+        "ratio": 0.8993531031556863
+      },
+      "price_positioning": {
+        "positioning": "neutral",
+        "score": 0.5,
+        "support": 3138.820062376519,
+        "resistance": 3170.36599265166,
+        "current": 3154.5930275140895
+      },
+      "institutional_flow": {
+        "status": "retail_dominated",
+        "score": 0.49168363448536495
+      },
+      "cross_market_correlation": {
+        "correlations": {
+          "forex_usd": 0.6,
+          "btc_correlation": 0.8,
+          "stock_futures": 0.4
+        },
+        "average_correlation": 0.6,
+        "market_sync": "moderate"
+      },
+      "timestamp": "2025-08-21T09:22:56.757651"
+    },
+    "opening_prediction": "NEUTRAL",
+    "rebound_probability": 0.95,
+    "confidence": 0,
+    "manipulation_risk": "LOW"
+  },
+  {
+    "session": "US",
+    "timestamp": "2025-08-21T09:24:08.598274",
+    "pre_signals": {
+      "volume_buildup": {
+        "status": "normal_volume",
+        "score": 0.3,
+        "ratio": 0.7198985609448972
+      },
+      "price_positioning": {
+        "positioning": "neutral",
+        "score": 0.5,
+        "support": 3209.8653876480366,
+        "resistance": 3242.1253412927404,
+        "current": 3225.9953644703887
+      },
+      "institutional_flow": {
+        "status": "retail_dominated",
+        "score": 0.2384709605430001
+      },
+      "cross_market_correlation": {
+        "correlations": {
+          "forex_usd": 0.6,
+          "btc_correlation": 0.8,
+          "stock_futures": 0.4
+        },
+        "average_correlation": 0.6,
+        "market_sync": "moderate"
+      },
+      "timestamp": "2025-08-21T09:24:08.598260"
+    },
+    "opening_prediction": "NEUTRAL",
+    "rebound_probability": 0.95,
+    "confidence": 0,
+    "manipulation_risk": "LOW"
+  }
+]

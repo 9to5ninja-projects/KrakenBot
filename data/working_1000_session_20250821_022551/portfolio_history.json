@@ -1,0 +1,178 @@
+[
+  {
+    "timestamp": "2025-08-21T02:25:51.382181",
+    "total_value": 1000.0,
+    "cash": 1000.0,
+    "positions_value": 0.0,
+    "unrealized_pnl": 0.0,
+    "realized_pnl": 0.0,
+    "total_trades": 0,
+    "winning_trades": 0,
+    "daily_pnl": 0.0
+  },
+  {
+    "timestamp": "2025-08-21T02:25:51.400252",
+    "total_value": 1001.77,
+    "cash": 801.41,
+    "positions_value": 200.35,
+    "unrealized_pnl": 1.77,
+    "realized_pnl": 1.24,
+    "total_trades": 0,
+    "winning_trades": 0,
+    "daily_pnl": 1.77
+  },
+  {
+    "timestamp": "2025-08-21T02:26:21.416295",
+    "total_value": 1002.4,
+    "cash": 801.92,
+    "positions_value": 200.48,
+    "unrealized_pnl": 2.4,
+    "realized_pnl": 1.68,
+    "total_trades": 0,
+    "winning_trades": 0,
+    "daily_pnl": 2.4
+  },
+  {
+    "timestamp": "2025-08-21T02:26:51.424905",
+    "total_value": 1001.59,
+    "cash": 801.27,
+    "positions_value": 200.32,
+    "unrealized_pnl": 1.59,
+    "realized_pnl": 1.12,
+    "total_trades": 0,
+    "winning_trades": 0,
+    "daily_pnl": 1.59
+  },
+  {
+    "timestamp": "2025-08-21T02:27:21.439049",
+    "total_value": 1003.41,
+    "cash": 802.73,
+    "positions_value": 200.68,
+    "unrealized_pnl": 3.41,
+    "realized_pnl": 2.39,
+    "total_trades": 0,
+    "winning_trades": 0,
+    "daily_pnl": 3.41
+  },
+  {
+    "timestamp": "2025-08-21T02:27:51.456818",
+    "total_value": 1003.19,
+    "cash": 802.55,
+    "positions_value": 200.64,
+    "unrealized_pnl": 3.19,
+    "realized_pnl": 2.23,
+    "total_trades": 1,
+    "winning_trades": 0,
+    "daily_pnl": 3.19
+  },
+  {
+    "timestamp": "2025-08-21T02:28:21.470757",
+    "total_value": 1004.22,
+    "cash": 803.37,
+    "positions_value": 200.84,
+    "unrealized_pnl": 4.22,
+    "realized_pnl": 2.95,
+    "total_trades": 1,
+    "winning_trades": 0,
+    "daily_pnl": 4.22
+  },
+  {
+    "timestamp": "2025-08-21T02:28:51.497454",
+    "total_value": 1004.76,
+    "cash": 803.81,
+    "positions_value": 200.95,
+    "unrealized_pnl": 4.76,
+    "realized_pnl": 3.33,
+    "total_trades": 1,
+    "winning_trades": 0,
+    "daily_pnl": 4.76
+  },
+  {
+    "timestamp": "2025-08-21T02:29:21.512827",
+    "total_value": 1005.05,
+    "cash": 804.04,
+    "positions_value": 201.01,
+    "unrealized_pnl": 5.05,
+    "realized_pnl": 3.54,
+    "total_trades": 2,
+    "winning_trades": 1,
+    "daily_pnl": 5.05
+  },
+  {
+    "timestamp": "2025-08-21T02:29:51.531850",
+    "total_value": 1006.92,
+    "cash": 805.54,
+    "positions_value": 201.38,
+    "unrealized_pnl": 6.92,
+    "realized_pnl": 4.84,
+    "total_trades": 2,
+    "winning_trades": 1,
+    "daily_pnl": 6.92
+  },
+  {
+    "timestamp": "2025-08-21T02:30:21.540940",
+    "total_value": 1009.73,
+    "cash": 807.78,
+    "positions_value": 201.95,
+    "unrealized_pnl": 9.73,
+    "realized_pnl": 6.81,
+    "total_trades": 2,
+    "winning_trades": 1,
+    "daily_pnl": 9.73
+  },
+  {
+    "timestamp": "2025-08-21T02:30:51.567886",
+    "total_value": 1011.52,
+    "cash": 809.21,
+    "positions_value": 202.3,
+    "unrealized_pnl": 11.52,
+    "realized_pnl": 8.06,
+    "total_trades": 2,
+    "winning_trades": 1,
+    "daily_pnl": 11.52
+  },
+  {
+    "timestamp": "2025-08-21T02:31:21.583238",
+    "total_value": 1009.79,
+    "cash": 807.83,
+    "positions_value": 201.96,
+    "unrealized_pnl": 9.79,
+    "realized_pnl": 6.85,
+    "total_trades": 2,
+    "winning_trades": 1,
+    "daily_pnl": 9.79
+  },
+  {
+    "timestamp": "2025-08-21T02:31:51.597521",
+    "total_value": 1012.17,
+    "cash": 809.74,
+    "positions_value": 202.43,
+    "unrealized_pnl": 12.17,
+    "realized_pnl": 8.52,
+    "total_trades": 2,
+    "winning_trades": 1,
+    "daily_pnl": 12.17
+  },
+  {
+    "timestamp": "2025-08-21T02:32:21.619900",
+    "total_value": 1012.26,
+    "cash": 809.81,
+    "positions_value": 202.45,
+    "unrealized_pnl": 12.26,
+    "realized_pnl": 8.59,
+    "total_trades": 2,
+    "winning_trades": 1,
+    "daily_pnl": 12.26
+  },
+  {
+    "timestamp": "2025-08-21T02:32:51.625007",
+    "total_value": 1010.33,
+    "cash": 808.27,
+    "positions_value": 202.07,
+    "unrealized_pnl": 10.33,
+    "realized_pnl": 7.23,
+    "total_trades": 2,
+    "winning_trades": 1,
+    "daily_pnl": 10.33
+  }
+]

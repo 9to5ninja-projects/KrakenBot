@@ -1,0 +1,838 @@
+[
+  {
+    "timestamp": "2025-08-21T18:20:21.175890",
+    "step": 1,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.024"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:20:59.759086",
+    "step": 2,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.024"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:21:40.231913",
+    "step": 3,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.024"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:22:20.817414",
+    "step": 4,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.024"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:22:59.335733",
+    "step": 5,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.024"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:23:39.826563",
+    "step": 6,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.024"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:24:20.297495",
+    "step": 7,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.024"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:24:58.799873",
+    "step": 8,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.024"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:25:39.317120",
+    "step": 9,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.024"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:26:17.832793",
+    "step": 10,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.024"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:26:56.417067",
+    "step": 11,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.024"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:27:36.951111",
+    "step": 12,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.024"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:28:17.492890",
+    "step": 13,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.024"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:28:58.122838",
+    "step": 14,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.024"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:29:38.649497",
+    "step": 15,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.024"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:30:19.336242",
+    "step": 16,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.024"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:30:58.729070",
+    "step": 17,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.024"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:31:37.231685",
+    "step": 18,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.024"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:32:15.838000",
+    "step": 19,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.024"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:32:54.345227",
+    "step": 20,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.024"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:33:32.845325",
+    "step": 21,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.025"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:34:11.471475",
+    "step": 22,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.025"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:34:50.218912",
+    "step": 23,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.025"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:35:28.792959",
+    "step": 24,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.025"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:36:07.598497",
+    "step": 25,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.025"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:36:46.165467",
+    "step": 26,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.025"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:37:24.697935",
+    "step": 27,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.025"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:38:03.193236",
+    "step": 28,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.025"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:38:41.694831",
+    "step": 29,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.025"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:39:20.202453",
+    "step": 30,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.024"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:39:58.710363",
+    "step": 31,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.024"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:40:37.212110",
+    "step": 32,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.024"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:41:15.737091",
+    "step": 33,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.024"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:41:54.238098",
+    "step": 34,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.024"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:42:32.834427",
+    "step": 35,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.024"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:43:12.535223",
+    "step": 36,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.024"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:43:51.037351",
+    "step": 37,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.024"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  },
+  {
+    "timestamp": "2025-08-21T18:44:29.534834",
+    "step": 38,
+    "portfolio_value": 1000.0,
+    "cash_balance": 1000.0,
+    "total_return": 0.0,
+    "positions": {},
+    "insights": [
+      "Portfolio: $1000.00 (+0.000%)",
+      "Market volatility: 0.024"
+    ],
+    "market_opening_context": {
+      "in_opening_window": false,
+      "active_session": null,
+      "time_to_opening": null,
+      "time_since_opening": null,
+      "opening_analysis": null,
+      "rebound_expected": false,
+      "manipulation_risk": "LOW",
+      "strategy_adjustments": {}
+    }
+  }
+]

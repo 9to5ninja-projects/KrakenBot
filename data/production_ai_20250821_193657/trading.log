@@ -1,0 +1,19 @@
+2025-08-21 19:36:58,365 | INFO |    Session: production_ai_20250821_193657
+2025-08-21 19:36:58,366 | INFO |    Capital: $1,000.00
+2025-08-21 19:36:58,367 | INFO |    Max Daily Loss: 3.0%
+2025-08-21 19:36:58,368 | INFO |    Max Position Risk: 12.0%
+2025-08-21 19:36:58,368 | INFO |    Daily Trade Limit: 40
+2025-08-21 19:36:58,377 | INFO |    Max Runtime: 72 hours
+2025-08-21 19:36:58,378 | INFO |    Check Interval: 45 seconds
+2025-08-21 19:36:58,379 | INFO |    Safety Limits: 3.0% daily loss, 12.0% position risk
+2025-08-21 19:36:58,379 | INFO | ================================================================================
+2025-08-21 19:37:02,349 | INFO |    Opportunities: 0
+2025-08-21 19:37:02,349 | INFO |    Total Trades: 0 (Daily: 0)
+2025-08-21 19:37:02,349 | INFO |    Capital: $1000.00 (+0.00%)
+2025-08-21 19:37:02,349 | INFO |    Runtime: 0.0 hours
+2025-08-21 19:37:02,350 | INFO |    Active Positions: 0
+2025-08-21 19:37:51,356 | INFO |    Opportunities: 0
+2025-08-21 19:37:51,357 | INFO |    Total Trades: 0 (Daily: 0)
+2025-08-21 19:37:51,357 | INFO |    Capital: $1000.00 (+0.00%)
+2025-08-21 19:37:51,357 | INFO |    Runtime: 0.0 hours
+2025-08-21 19:37:51,357 | INFO |    Active Positions: 0

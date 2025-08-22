@@ -1,4 +1,0 @@
-# Trading Recommendations
-
-1. Focus on the CAD->ETH->BTC->CAD path as it shows better performance
-2. Low volatility detected - consider longer intervals between checks to avoid rate limits

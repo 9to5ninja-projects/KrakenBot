@@ -1,0 +1,25 @@
+{
+  "session_name": "working_1000_session_20250821_022551",
+  "start_time": "2025-08-21T02:25:51.378009",
+  "capital_allocation": 1000.0,
+  "max_position_size": 200.0,
+  "min_position_size": 50.0,
+  "base_position_size": 100.0,
+  "stop_loss_pct": 0.02,
+  "take_profit_pct": 0.015,
+  "max_daily_trades": 80,
+  "max_daily_loss": 50.0,
+  "target_daily_profit": 35.0,
+  "trading_pairs": [
+    "ETH/CAD",
+    "BTC/CAD",
+    "SOL/CAD",
+    "XRP/CAD"
+  ],
+  "analysis_interval": 30,
+  "target_win_rate": 0.75,
+  "target_avg_profit": 1.5,
+  "use_ai_analysis": true,
+  "gpu_acceleration": true,
+  "parallel_analysis": true
+}
